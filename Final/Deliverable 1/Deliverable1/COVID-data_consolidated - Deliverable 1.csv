@@ -1,0 +1,2869 @@
+date,county,city,age_group,population,atleast_onedose,fully_vaccinated,boosted,boosted_second,partially_vaccinated
+2021-03-09,Suffolk,Chelsea,0-19 Years,9581,48,0,,,48
+2021-03-09,Suffolk,Chelsea,20-29 Years,6170,643,405,,,238
+2021-03-09,Suffolk,Chelsea,30-49 Years,11744,1833,1044,,,789
+2021-03-09,Suffolk,Chelsea,50-64 Years,5861,1422,664,,,758
+2021-03-09,Suffolk,Chelsea,65-74 Years,2092,1150,405,,,745
+2021-03-09,Suffolk,Chelsea,75+ Years,1471,1106,847,,,259
+2021-03-09,Suffolk,Chelsea,Total,36918,6202,0,,,6202
+2021-03-09,Suffolk,Revere,0-19 Years,13297,82,34,,,48
+2021-03-09,Suffolk,Revere,20-29 Years,8303,797,526,,,271
+2021-03-09,Suffolk,Revere,30-49 Years,17705,2387,1383,,,1004
+2021-03-09,Suffolk,Revere,50-64 Years,12184,2525,1126,,,1399
+2021-03-09,Suffolk,Revere,65-74 Years,5047,2459,756,,,1703
+2021-03-09,Suffolk,Revere,75+ Years,4312,2579,1874,,,705
+2021-03-09,Suffolk,Revere,Total,60849,10829,5699,,,5130
+2021-03-09,Middlesex,Newton,0-19 Years,24626,236,84,,,152
+2021-03-09,Middlesex,Newton,20-29 Years,12487,1655,1102,,,553
+2021-03-09,Middlesex,Newton,30-49 Years,19706,5448,3550,,,1898
+2021-03-09,Middlesex,Newton,50-64 Years,17494,5851,3322,,,2529
+2021-03-09,Middlesex,Newton,65-74 Years,9938,7382,2404,,,4978
+2021-03-09,Middlesex,Newton,75+ Years,7438,6814,5145,,,1669
+2021-03-09,Middlesex,Newton,Total,91690,27386,15607,,,11779
+2021-03-09,Norfolk,Wellesley,0-19 Years,9572,59,28,,,31
+2021-03-09,Norfolk,Wellesley,20-29 Years,4462,323,178,,,145
+2021-03-09,Norfolk,Wellesley,30-49 Years,5413,1038,602,,,436
+2021-03-09,Norfolk,Wellesley,50-64 Years,5510,1363,670,,,693
+2021-03-09,Norfolk,Wellesley,65-74 Years,2621,1612,400,,,1212
+2021-03-09,Norfolk,Wellesley,75+ Years,2135,1905,1436,,,469
+2021-03-09,Norfolk,Wellesley,Total,29713,6300,3314,,,2986
+2021-03-16,Suffolk,Chelsea,0-19 Years,9581,57,30,,,27
+2021-03-16,Suffolk,Chelsea,20-29 Years,6170,740,454,,,286
+2021-03-16,Suffolk,Chelsea,30-49 Years,11744,2093,1178,,,915
+2021-03-16,Suffolk,Chelsea,50-64 Years,5861,1670,792,,,878
+2021-03-16,Suffolk,Chelsea,65-74 Years,2092,1377,627,,,750
+2021-03-16,Suffolk,Chelsea,75+ Years,1471,1156,957,,,199
+2021-03-16,Suffolk,Chelsea,Total,36918,7093,4038,,,3055
+2021-03-16,Suffolk,Revere,0-19 Years,13297,103,40,,,63
+2021-03-16,Suffolk,Revere,20-29 Years,8303,937,601,,,336
+2021-03-16,Suffolk,Revere,30-49 Years,17705,2885,1651,,,1234
+2021-03-16,Suffolk,Revere,50-64 Years,12184,3078,1487,,,1591
+2021-03-16,Suffolk,Revere,65-74 Years,5047,2923,1280,,,1643
+2021-03-16,Suffolk,Revere,75+ Years,4312,2687,2096,,,591
+2021-03-16,Suffolk,Revere,Total,60849,12613,7155,,,5458
+2021-03-16,Middlesex,Newton,0-19 Years,24626,298,108,,,190
+2021-03-16,Middlesex,Newton,20-29 Years,12487,1937,1226,,,711
+2021-03-16,Middlesex,Newton,30-49 Years,19706,6325,3955,,,2370
+2021-03-16,Middlesex,Newton,50-64 Years,17494,6834,3872,,,2962
+2021-03-16,Middlesex,Newton,65-74 Years,9938,8403,3492,,,4911
+2021-03-16,Middlesex,Newton,75+ Years,7438,7003,5863,,,1140
+2021-03-16,Middlesex,Newton,Total,91690,30800,18516,,,12284
+2021-03-16,Norfolk,Wellesley,0-19 Years,9572,72,34,,,38
+2021-03-16,Norfolk,Wellesley,20-29 Years,4462,387,209,,,178
+2021-03-16,Norfolk,Wellesley,30-49 Years,5413,1221,708,,,513
+2021-03-16,Norfolk,Wellesley,50-64 Years,5510,1633,806,,,827
+2021-03-16,Norfolk,Wellesley,65-74 Years,2621,1885,644,,,1241
+2021-03-16,Norfolk,Wellesley,75+ Years,2135,1975,1637,,,338
+2021-03-16,Norfolk,Wellesley,Total,29713,7173,4038,,,3135
+2021-03-23,Suffolk,Chelsea,0-19 Years,9581,69,34,,,35
+2021-03-23,Suffolk,Chelsea,20-29 Years,6170,882,511,,,371
+2021-03-23,Suffolk,Chelsea,30-49 Years,11744,2497,1360,,,1137
+2021-03-23,Suffolk,Chelsea,50-64 Years,5861,1997,1030,,,967
+2021-03-23,Suffolk,Chelsea,65-74 Years,2092,1508,900,,,608
+2021-03-23,Suffolk,Chelsea,75+ Years,1471,1193,1005,,,188
+2021-03-23,Suffolk,Chelsea,Total,36918,8146,4840,,,3306
+2021-03-23,Suffolk,Revere,0-19 Years,13297,137,51,,,86
+2021-03-23,Suffolk,Revere,20-29 Years,8303,1216,678,,,538
+2021-03-23,Suffolk,Revere,30-49 Years,17705,3628,1913,,,1715
+2021-03-23,Suffolk,Revere,50-64 Years,12184,3903,1944,,,1959
+2021-03-23,Suffolk,Revere,65-74 Years,5047,3230,1988,,,1242
+2021-03-23,Suffolk,Revere,75+ Years,4312,2765,2225,,,540
+2021-03-23,Suffolk,Revere,Total,60849,14879,8799,,,6080
+2021-03-23,Middlesex,Newton,0-19 Years,24626,447,147,,,300
+2021-03-23,Middlesex,Newton,20-29 Years,12487,2352,1321,,,1031
+2021-03-23,Middlesex,Newton,30-49 Years,19706,7384,4338,,,3046
+2021-03-23,Middlesex,Newton,50-64 Years,17494,8149,4459,,,3690
+2021-03-23,Middlesex,Newton,65-74 Years,9938,8911,5040,,,3871
+2021-03-23,Middlesex,Newton,75+ Years,7438,7086,6103,,,983
+2021-03-23,Middlesex,Newton,Total,91690,34329,21408,,,12921
+2021-03-23,Norfolk,Wellesley,0-19 Years,9572,114,41,,,73
+2021-03-23,Norfolk,Wellesley,20-29 Years,4462,503,229,,,274
+2021-03-23,Norfolk,Wellesley,30-49 Years,5413,1504,805,,,699
+2021-03-23,Norfolk,Wellesley,50-64 Years,5510,2074,946,,,1128
+2021-03-23,Norfolk,Wellesley,65-74 Years,2621,2004,984,,,1020
+2021-03-23,Norfolk,Wellesley,75+ Years,2135,2000,1723,,,277
+2021-03-23,Norfolk,Wellesley,Total,29713,8199,4728,,,3471
+2021-03-30,Suffolk,Chelsea,0-19 Years,9581,91,39,,,52
+2021-03-30,Suffolk,Chelsea,20-29 Years,6170,1053,589,,,464
+2021-03-30,Suffolk,Chelsea,30-49 Years,11744,2991,1610,,,1381
+2021-03-30,Suffolk,Chelsea,50-64 Years,5861,2471,1330,,,1141
+2021-03-30,Suffolk,Chelsea,65-74 Years,2092,1626,1117,,,509
+2021-03-30,Suffolk,Chelsea,75+ Years,1471,1226,1043,,,183
+2021-03-30,Suffolk,Chelsea,Total,36918,9458,5728,,,3730
+2021-03-30,Suffolk,Revere,0-19 Years,13297,214,77,,,137
+2021-03-30,Suffolk,Revere,20-29 Years,8303,1557,795,,,762
+2021-03-30,Suffolk,Revere,30-49 Years,17705,4616,2383,,,2233
+2021-03-30,Suffolk,Revere,50-64 Years,12184,4782,2528,,,2254
+2021-03-30,Suffolk,Revere,65-74 Years,5047,3450,2416,,,1034
+2021-03-30,Suffolk,Revere,75+ Years,4312,2822,2272,,,550
+2021-03-30,Suffolk,Revere,Total,60849,17441,10471,,,6970
+2021-03-30,Middlesex,Newton,0-19 Years,24626,727,189,,,538
+2021-03-30,Middlesex,Newton,20-29 Years,12487,2986,1455,,,1531
+2021-03-30,Middlesex,Newton,30-49 Years,19706,8630,4869,,,3761
+2021-03-30,Middlesex,Newton,50-64 Years,17494,10106,5198,,,4908
+2021-03-30,Middlesex,Newton,65-74 Years,9938,9449,6762,,,2687
+2021-03-30,Middlesex,Newton,75+ Years,7438,7228,6273,,,955
+2021-03-30,Middlesex,Newton,Total,91690,39126,24746,,,14380
+2021-03-30,Norfolk,Wellesley,0-19 Years,9572,236,50,,,186
+2021-03-30,Norfolk,Wellesley,20-29 Years,4462,717,271,,,446
+2021-03-30,Norfolk,Wellesley,30-49 Years,5413,1824,917,,,907
+2021-03-30,Norfolk,Wellesley,50-64 Years,5510,2797,1139,,,1658
+2021-03-30,Norfolk,Wellesley,65-74 Years,2621,2081,1423,,,658
+2021-03-30,Norfolk,Wellesley,75+ Years,2135,2010,1746,,,264
+2021-03-30,Norfolk,Wellesley,Total,29713,9665,5546,,,4119
+2021-04-06,Suffolk,Chelsea,0-19 Years,9581,148,49,,,99
+2021-04-06,Suffolk,Chelsea,20-29 Years,6170,1382,678,,,704
+2021-04-06,Suffolk,Chelsea,30-49 Years,11744,3758,1843,,,1915
+2021-04-06,Suffolk,Chelsea,50-64 Years,5861,3027,1527,,,1500
+2021-04-06,Suffolk,Chelsea,65-74 Years,2092,1727,1236,,,491
+2021-04-06,Suffolk,Chelsea,75+ Years,1471,1253,1063,,,190
+2021-04-06,Suffolk,Chelsea,Total,36918,11295,6396,,,4899
+2021-04-06,Suffolk,Revere,0-19 Years,13297,310,92,,,218
+2021-04-06,Suffolk,Revere,20-29 Years,8303,2076,929,,,1147
+2021-04-06,Suffolk,Revere,30-49 Years,17705,5996,2747,,,3249
+2021-04-06,Suffolk,Revere,50-64 Years,12184,5686,2862,,,2824
+2021-04-06,Suffolk,Revere,65-74 Years,5047,3594,2677,,,917
+2021-04-06,Suffolk,Revere,75+ Years,4312,2873,2330,,,543
+2021-04-06,Suffolk,Revere,Total,60849,20535,11637,,,8898
+2021-04-06,Middlesex,Newton,0-19 Years,24626,1259,238,,,1021
+2021-04-06,Middlesex,Newton,20-29 Years,12487,3796,1710,,,2086
+2021-04-06,Middlesex,Newton,30-49 Years,19706,10342,5703,,,4639
+2021-04-06,Middlesex,Newton,50-64 Years,17494,12036,6090,,,5946
+2021-04-06,Middlesex,Newton,65-74 Years,9938,9701,7791,,,1910
+2021-04-06,Middlesex,Newton,75+ Years,7438,7284,6390,,,894
+2021-04-06,Middlesex,Newton,Total,91690,44418,27922,,,16496
+2021-04-06,Norfolk,Wellesley,0-19 Years,9572,467,77,,,390
+2021-04-06,Norfolk,Wellesley,20-29 Years,4462,1014,339,,,675
+2021-04-06,Norfolk,Wellesley,30-49 Years,5413,2306,1114,,,1192
+2021-04-06,Norfolk,Wellesley,50-64 Years,5510,3497,1466,,,2031
+2021-04-06,Norfolk,Wellesley,65-74 Years,2621,2124,1678,,,446
+2021-04-06,Norfolk,Wellesley,75+ Years,2135,2026,1811,,,215
+2021-04-06,Norfolk,Wellesley,Total,29713,11434,6485,,,4949
+2021-04-13,Suffolk,Chelsea,0-19 Years,9581,307,76,,,231
+2021-04-13,Suffolk,Chelsea,20-29 Years,6170,1904,924,,,980
+2021-04-13,Suffolk,Chelsea,30-49 Years,11744,5100,2485,,,2615
+2021-04-13,Suffolk,Chelsea,50-64 Years,5861,3795,1974,,,1821
+2021-04-13,Suffolk,Chelsea,65-74 Years,2092,1799,1421,,,378
+2021-04-13,Suffolk,Chelsea,75+ Years,1471,1273,1111,,,162
+2021-04-13,Suffolk,Chelsea,Total,36918,14178,7991,,,6187
+2021-04-13,Suffolk,Revere,0-19 Years,13297,471,139,,,332
+2021-04-13,Suffolk,Revere,20-29 Years,8303,2703,1235,,,1468
+2021-04-13,Suffolk,Revere,30-49 Years,17705,7586,3742,,,3844
+2021-04-13,Suffolk,Revere,50-64 Years,12184,6649,3826,,,2823
+2021-04-13,Suffolk,Revere,65-74 Years,5047,3718,2994,,,724
+2021-04-13,Suffolk,Revere,75+ Years,4312,2926,2429,,,497
+2021-04-13,Suffolk,Revere,Total,60849,24053,14365,,,9688
+2021-04-13,Middlesex,Newton,0-19 Years,24626,1914,432,,,1482
+2021-04-13,Middlesex,Newton,20-29 Years,12487,4785,2180,,,2605
+2021-04-13,Middlesex,Newton,30-49 Years,19706,12743,7054,,,5689
+2021-04-13,Middlesex,Newton,50-64 Years,17494,14201,7602,,,6599
+2021-04-13,Middlesex,Newton,65-74 Years,9938,9867,8372,,,1495
+2021-04-13,Middlesex,Newton,75+ Years,7438,7343,6544,,,799
+2021-04-13,Middlesex,Newton,Total,91690,50853,32184,,,18669
+2021-04-13,Norfolk,Wellesley,0-19 Years,9572,696,123,,,573
+2021-04-13,Norfolk,Wellesley,20-29 Years,4462,1364,483,,,881
+2021-04-13,Norfolk,Wellesley,30-49 Years,5413,3055,1478,,,1577
+2021-04-13,Norfolk,Wellesley,50-64 Years,5510,4377,1894,,,2483
+2021-04-13,Norfolk,Wellesley,65-74 Years,2621,2141,1818,,,323
+2021-04-13,Norfolk,Wellesley,75+ Years,2135,2036,1845,,,191
+2021-04-13,Norfolk,Wellesley,Total,29713,13669,7641,,,6028
+2021-04-20,Suffolk,Chelsea,0-19 Years,9581,478,97,,,381
+2021-04-20,Suffolk,Chelsea,20-29 Years,6170,2411,1069,,,1342
+2021-04-20,Suffolk,Chelsea,30-49 Years,11744,6459,2937,,,3522
+2021-04-20,Suffolk,Chelsea,50-64 Years,5861,4401,2329,,,2072
+2021-04-20,Suffolk,Chelsea,65-74 Years,2092,1858,1535,,,323
+2021-04-20,Suffolk,Chelsea,75+ Years,1471,1300,1141,,,159
+2021-04-20,Suffolk,Chelsea,Total,36918,16907,9108,,,7799
+2021-04-20,Suffolk,Revere,0-19 Years,13297,657,175,,,482
+2021-04-20,Suffolk,Revere,20-29 Years,8303,3251,1482,,,1769
+2021-04-20,Suffolk,Revere,30-49 Years,17705,8894,4410,,,4484
+2021-04-20,Suffolk,Revere,50-64 Years,12184,7313,4466,,,2847
+2021-04-20,Suffolk,Revere,65-74 Years,5047,3795,3191,,,604
+2021-04-20,Suffolk,Revere,75+ Years,4312,2948,2475,,,473
+2021-04-20,Suffolk,Revere,Total,60849,26858,16199,,,10659
+2021-04-20,Middlesex,Newton,0-19 Years,24626,2610,688,,,1922
+2021-04-20,Middlesex,Newton,20-29 Years,12487,5847,2754,,,3093
+2021-04-20,Middlesex,Newton,30-49 Years,19706,14801,8240,,,6561
+2021-04-20,Middlesex,Newton,50-64 Years,17494,15596,9339,,,6257
+2021-04-20,Middlesex,Newton,65-74 Years,9938,9954,8741,,,1213
+2021-04-20,Middlesex,Newton,75+ Years,7438,7383,6618,,,765
+2021-04-20,Middlesex,Newton,Total,91690,56191,36380,,,19811
+2021-04-20,Norfolk,Wellesley,0-19 Years,9572,1032,234,,,798
+2021-04-20,Norfolk,Wellesley,20-29 Years,4462,1808,672,,,1136
+2021-04-20,Norfolk,Wellesley,30-49 Years,5413,3680,1805,,,1875
+2021-04-20,Norfolk,Wellesley,50-64 Years,5510,4850,2604,,,2246
+2021-04-20,Norfolk,Wellesley,65-74 Years,2621,2155,1903,,,252
+2021-04-20,Norfolk,Wellesley,75+ Years,2135,2048,1870,,,178
+2021-04-20,Norfolk,Wellesley,Total,29713,15573,9088,,,6485
+2021-04-27,Suffolk,Chelsea,0-19 Years,9581,647,143,,,504
+2021-04-27,Suffolk,Chelsea,20-29 Years,6170,2708,1331,,,1377
+2021-04-27,Suffolk,Chelsea,30-49 Years,11744,7254,3593,,,3661
+2021-04-27,Suffolk,Chelsea,50-64 Years,5861,4747,2839,,,1908
+2021-04-27,Suffolk,Chelsea,65-74 Years,2092,1901,1618,,,283
+2021-04-27,Suffolk,Chelsea,75+ Years,1471,1315,1167,,,148
+2021-04-27,Suffolk,Chelsea,Total,36918,18572,10691,,,7881
+2021-04-27,Suffolk,Revere,0-19 Years,13297,858,278,,,580
+2021-04-27,Suffolk,Revere,20-29 Years,8303,3762,1923,,,1839
+2021-04-27,Suffolk,Revere,30-49 Years,17705,9902,5564,,,4338
+2021-04-27,Suffolk,Revere,50-64 Years,12184,7797,5320,,,2477
+2021-04-27,Suffolk,Revere,65-74 Years,5047,3882,3368,,,514
+2021-04-27,Suffolk,Revere,75+ Years,4312,2980,2559,,,421
+2021-04-27,Suffolk,Revere,Total,60849,29181,19012,,,10169
+2021-04-27,Middlesex,Newton,0-19 Years,24626,3464,1109,,,2355
+2021-04-27,Middlesex,Newton,20-29 Years,12487,6868,3473,,,3395
+2021-04-27,Middlesex,Newton,30-49 Years,19706,16702,9727,,,6975
+2021-04-27,Middlesex,Newton,50-64 Years,17494,16292,11187,,,5105
+2021-04-27,Middlesex,Newton,65-74 Years,9938,10019,8993,,,1026
+2021-04-27,Middlesex,Newton,75+ Years,7438,7414,6726,,,688
+2021-04-27,Middlesex,Newton,Total,91690,60759,41215,,,19544
+2021-04-27,Norfolk,Wellesley,0-19 Years,9572,1358,402,,,956
+2021-04-27,Norfolk,Wellesley,20-29 Years,4462,2177,890,,,1287
+2021-04-27,Norfolk,Wellesley,30-49 Years,5413,4179,2193,,,1986
+2021-04-27,Norfolk,Wellesley,50-64 Years,5510,5094,3260,,,1834
+2021-04-27,Norfolk,Wellesley,65-74 Years,2621,2159,1935,,,224
+2021-04-27,Norfolk,Wellesley,75+ Years,2135,2053,1885,,,168
+2021-04-27,Norfolk,Wellesley,Total,29713,17020,10565,,,6455
+2021-05-04,Suffolk,Chelsea,0-19 Years,9581,740,276,,,464
+2021-05-04,Suffolk,Chelsea,20-29 Years,6170,3004,1725,,,1279
+2021-05-04,Suffolk,Chelsea,30-49 Years,11744,7745,4647,,,3098
+2021-05-04,Suffolk,Chelsea,50-64 Years,5861,4923,3480,,,1443
+2021-05-04,Suffolk,Chelsea,65-74 Years,2092,1929,1683,,,246
+2021-05-04,Suffolk,Chelsea,75+ Years,1471,1332,1177,,,155
+2021-05-04,Suffolk,Chelsea,Total,36918,19673,12988,,,6685
+2021-05-04,Suffolk,Revere,0-19 Years,13297,1100,412,,,688
+2021-05-04,Suffolk,Revere,20-29 Years,8303,4268,2412,,,1856
+2021-05-04,Suffolk,Revere,30-49 Years,17705,10888,6843,,,4045
+2021-05-04,Suffolk,Revere,50-64 Years,12184,8169,6088,,,2081
+2021-05-04,Suffolk,Revere,65-74 Years,5047,3952,3468,,,484
+2021-05-04,Suffolk,Revere,75+ Years,4312,2995,2586,,,409
+2021-05-04,Suffolk,Revere,Total,60849,31372,21809,,,9563
+2021-05-04,Middlesex,Newton,0-19 Years,24626,4027,1572,,,2455
+2021-05-04,Middlesex,Newton,20-29 Years,12487,7410,4107,,,3303
+2021-05-04,Middlesex,Newton,30-49 Years,19706,17797,11074,,,6723
+2021-05-04,Middlesex,Newton,50-64 Years,17494,16742,12641,,,4101
+2021-05-04,Middlesex,Newton,65-74 Years,9938,10074,9097,,,977
+2021-05-04,Middlesex,Newton,75+ Years,7438,7464,6784,,,680
+2021-05-04,Middlesex,Newton,Total,91690,63514,45275,,,18239
+2021-05-04,Norfolk,Wellesley,0-19 Years,9572,1601,557,,,1044
+2021-05-04,Norfolk,Wellesley,20-29 Years,4462,2365,1093,,,1272
+2021-05-04,Norfolk,Wellesley,30-49 Years,5413,4496,2581,,,1915
+2021-05-04,Norfolk,Wellesley,50-64 Years,5510,5258,3861,,,1397
+2021-05-04,Norfolk,Wellesley,65-74 Years,2621,2173,1960,,,213
+2021-05-04,Norfolk,Wellesley,75+ Years,2135,2061,1889,,,172
+2021-05-04,Norfolk,Wellesley,Total,29713,17954,11941,,,6013
+2021-05-11,Suffolk,Chelsea,0-19 Years,9581,860,418,,,442
+2021-05-11,Suffolk,Chelsea,20-29 Years,6170,3277,2152,,,1125
+2021-05-11,Suffolk,Chelsea,30-49 Years,11744,8318,5783,,,2535
+2021-05-11,Suffolk,Chelsea,50-64 Years,5861,5116,4043,,,1073
+2021-05-11,Suffolk,Chelsea,65-74 Years,2092,1965,1753,,,212
+2021-05-11,Suffolk,Chelsea,75+ Years,1471,1343,1190,,,153
+2021-05-11,Suffolk,Chelsea,Total,36918,20879,15339,,,5540
+2021-05-11,Suffolk,Revere,0-19 Years,13297,1283,591,,,692
+2021-05-11,Suffolk,Revere,20-29 Years,8303,4680,2938,,,1742
+2021-05-11,Suffolk,Revere,30-49 Years,17705,11650,8115,,,3535
+2021-05-11,Suffolk,Revere,50-64 Years,12184,8498,6748,,,1750
+2021-05-11,Suffolk,Revere,65-74 Years,5047,4004,3559,,,445
+2021-05-11,Suffolk,Revere,75+ Years,4312,3020,2608,,,412
+2021-05-11,Suffolk,Revere,Total,60849,33135,24559,,,8576
+2021-05-11,Middlesex,Newton,0-19 Years,24626,4506,2256,,,2250
+2021-05-11,Middlesex,Newton,20-29 Years,12487,7939,5161,,,2778
+2021-05-11,Middlesex,Newton,30-49 Years,19706,18482,13318,,,5164
+2021-05-11,Middlesex,Newton,50-64 Years,17494,17048,14369,,,2679
+2021-05-11,Middlesex,Newton,65-74 Years,9938,10133,9205,,,928
+2021-05-11,Middlesex,Newton,75+ Years,7438,7502,6841,,,661
+2021-05-11,Middlesex,Newton,Total,91690,65610,51150,,,14460
+2021-05-11,Norfolk,Wellesley,0-19 Years,9572,1722,843,,,879
+2021-05-11,Norfolk,Wellesley,20-29 Years,4462,2462,1456,,,1006
+2021-05-11,Norfolk,Wellesley,30-49 Years,5413,4622,3320,,,1302
+2021-05-11,Norfolk,Wellesley,50-64 Years,5510,5342,4498,,,844
+2021-05-11,Norfolk,Wellesley,65-74 Years,2621,2180,1967,,,213
+2021-05-11,Norfolk,Wellesley,75+ Years,2135,2067,1893,,,174
+2021-05-11,Norfolk,Wellesley,Total,29713,18395,13977,,,4418
+2021-05-18,Suffolk,Chelsea,12-15 Years,1768,231,0,,,231
+2021-05-18,Suffolk,Chelsea,16-19 Years,1762,1013,587,,,426
+2021-05-18,Suffolk,Chelsea,20-29 Years,6170,3601,2422,,,1179
+2021-05-18,Suffolk,Chelsea,30-49 Years,11744,9030,6530,,,2500
+2021-05-18,Suffolk,Chelsea,50-64 Years,5861,5371,4354,,,1017
+2021-05-18,Suffolk,Chelsea,65-74 Years,2092,2012,1783,,,229
+2021-05-18,Suffolk,Chelsea,75+ Years,1471,1362,1202,,,160
+2021-05-18,Suffolk,Chelsea,Total,36918,22621,0,,,5743
+2021-05-18,Suffolk,Revere,12-15 Years,2613,338,0,,,338
+2021-05-18,Suffolk,Revere,16-19 Years,2844,1447,758,,,689
+2021-05-18,Suffolk,Revere,20-29 Years,8303,5015,3346,,,1669
+2021-05-18,Suffolk,Revere,30-49 Years,17705,12304,9006,,,3298
+2021-05-18,Suffolk,Revere,50-64 Years,12184,8790,7171,,,1619
+2021-05-18,Suffolk,Revere,65-74 Years,5047,4037,3610,,,427
+2021-05-18,Suffolk,Revere,75+ Years,4312,3043,2625,,,418
+2021-05-18,Suffolk,Revere,Total,60849,34974,0,,,8458
+2021-05-18,Middlesex,Newton,12-15 Years,4932,2291,1,,,2290
+2021-05-18,Middlesex,Newton,16-19 Years,8329,4655,2923,,,1732
+2021-05-18,Middlesex,Newton,20-29 Years,12487,8105,5914,,,2191
+2021-05-18,Middlesex,Newton,30-49 Years,19706,18749,14841,,,3908
+2021-05-18,Middlesex,Newton,50-64 Years,17494,17180,15078,,,2102
+2021-05-18,Middlesex,Newton,65-74 Years,9938,10155,9257,,,898
+2021-05-18,Middlesex,Newton,75+ Years,7438,7529,6884,,,645
+2021-05-18,Middlesex,Newton,Total,91690,68664,54898,,,13766
+2021-05-18,Norfolk,Wellesley,12-15 Years,1831,695,0,,,695
+2021-05-18,Norfolk,Wellesley,16-19 Years,3319,1793,1099,,,694
+2021-05-18,Norfolk,Wellesley,20-29 Years,4462,2523,1721,,,802
+2021-05-18,Norfolk,Wellesley,30-49 Years,5413,4667,3710,,,957
+2021-05-18,Norfolk,Wellesley,50-64 Years,5510,5371,4728,,,643
+2021-05-18,Norfolk,Wellesley,65-74 Years,2621,2181,1980,,,201
+2021-05-18,Norfolk,Wellesley,75+ Years,2135,2069,1899,,,170
+2021-05-18,Norfolk,Wellesley,Total,29713,19299,15137,,,4162
+2021-05-25,Suffolk,Chelsea,12-15 Years,1768,551,0,,,549
+2021-05-25,Suffolk,Chelsea,16-19 Years,1762,1133,670,,,463
+2021-05-25,Suffolk,Chelsea,20-29 Years,6170,3814,2664,,,1150
+2021-05-25,Suffolk,Chelsea,30-49 Years,11744,9522,6999,,,2523
+2021-05-25,Suffolk,Chelsea,50-64 Years,5861,5510,4538,,,972
+2021-05-25,Suffolk,Chelsea,65-74 Years,2092,2032,1812,,,220
+2021-05-25,Suffolk,Chelsea,75+ Years,1471,1371,1217,,,154
+2021-05-25,Suffolk,Chelsea,Total,36918,23934,0,,,6032
+2021-05-25,Suffolk,Revere,12-15 Years,2613,704,0,,,704
+2021-05-25,Suffolk,Revere,16-19 Years,2844,1590,978,,,612
+2021-05-25,Suffolk,Revere,20-29 Years,8303,5304,3825,,,1479
+2021-05-25,Suffolk,Revere,30-49 Years,17705,12908,9994,,,2914
+2021-05-25,Suffolk,Revere,50-64 Years,12184,9018,7614,,,1404
+2021-05-25,Suffolk,Revere,65-74 Years,5047,4085,3685,,,400
+2021-05-25,Suffolk,Revere,75+ Years,4312,3063,2657,,,406
+2021-05-25,Suffolk,Revere,Total,60849,36672,0,,,7919
+2021-05-25,Middlesex,Newton,12-15 Years,4932,3137,1,,,3136
+2021-05-25,Middlesex,Newton,16-19 Years,8329,4760,3471,,,1289
+2021-05-25,Middlesex,Newton,20-29 Years,12487,8251,6563,,,1688
+2021-05-25,Middlesex,Newton,30-49 Years,19706,18964,16136,,,2828
+2021-05-25,Middlesex,Newton,50-64 Years,17494,17301,15574,,,1727
+2021-05-25,Middlesex,Newton,65-74 Years,9938,10179,9308,,,871
+2021-05-25,Middlesex,Newton,75+ Years,7438,7553,6912,,,641
+2021-05-25,Middlesex,Newton,Total,91690,70145,57965,,,12180
+2021-05-25,Norfolk,Wellesley,12-15 Years,1831,1003,0,,,1003
+2021-05-25,Norfolk,Wellesley,16-19 Years,3319,1835,1308,,,527
+2021-05-25,Norfolk,Wellesley,20-29 Years,4462,2550,1913,,,637
+2021-05-25,Norfolk,Wellesley,30-49 Years,5413,4716,4033,,,683
+2021-05-25,Norfolk,Wellesley,50-64 Years,5510,5396,4901,,,495
+2021-05-25,Norfolk,Wellesley,65-74 Years,2621,2184,1987,,,197
+2021-05-25,Norfolk,Wellesley,75+ Years,2135,2072,1903,,,169
+2021-05-25,Norfolk,Wellesley,Total,29713,19757,16045,,,3712
+2021-06-01,Suffolk,Chelsea,12-15 Years,1768,681,0,,,678
+2021-06-01,Suffolk,Chelsea,16-19 Years,1762,1213,778,,,435
+2021-06-01,Suffolk,Chelsea,20-29 Years,6170,4019,2944,,,1075
+2021-06-01,Suffolk,Chelsea,30-49 Years,11744,9905,7547,,,2358
+2021-06-01,Suffolk,Chelsea,50-64 Years,5861,5628,4725,,,903
+2021-06-01,Suffolk,Chelsea,65-74 Years,2092,2046,1844,,,202
+2021-06-01,Suffolk,Chelsea,75+ Years,1471,1381,1238,,,143
+2021-06-01,Suffolk,Chelsea,Total,36918,24874,0,,,5795
+2021-06-01,Suffolk,Revere,12-15 Years,2613,1026,0,,,1026
+2021-06-01,Suffolk,Revere,16-19 Years,2844,1688,1158,,,530
+2021-06-01,Suffolk,Revere,20-29 Years,8303,5540,4261,,,1279
+2021-06-01,Suffolk,Revere,30-49 Years,17705,13265,10819,,,2446
+2021-06-01,Suffolk,Revere,50-64 Years,12184,9185,7960,,,1225
+2021-06-01,Suffolk,Revere,65-74 Years,5047,4118,3755,,,363
+2021-06-01,Suffolk,Revere,75+ Years,4312,3071,2681,,,390
+2021-06-01,Suffolk,Revere,Total,60849,37893,0,,,7259
+2021-06-01,Middlesex,Newton,12-15 Years,4932,3400,19,,,3381
+2021-06-01,Middlesex,Newton,16-19 Years,8329,4837,3767,,,1070
+2021-06-01,Middlesex,Newton,20-29 Years,12487,8396,6953,,,1443
+2021-06-01,Middlesex,Newton,30-49 Years,19706,19122,16750,,,2372
+2021-06-01,Middlesex,Newton,50-64 Years,17494,17385,15839,,,1546
+2021-06-01,Middlesex,Newton,65-74 Years,9938,10211,9358,,,853
+2021-06-01,Middlesex,Newton,75+ Years,7438,7557,6934,,,623
+2021-06-01,Middlesex,Newton,Total,91690,70908,59620,,,11288
+2021-06-01,Norfolk,Wellesley,12-15 Years,1831,1367,0,,,1367
+2021-06-01,Norfolk,Wellesley,16-19 Years,3319,1901,1429,,,472
+2021-06-01,Norfolk,Wellesley,20-29 Years,4462,2583,2040,,,543
+2021-06-01,Norfolk,Wellesley,30-49 Years,5413,4751,4217,,,534
+2021-06-01,Norfolk,Wellesley,50-64 Years,5510,5425,5006,,,419
+2021-06-01,Norfolk,Wellesley,65-74 Years,2621,2186,1997,,,189
+2021-06-01,Norfolk,Wellesley,75+ Years,2135,2077,1914,,,163
+2021-06-01,Norfolk,Wellesley,Total,29713,20292,16603,,,3689
+2021-06-08,Suffolk,Chelsea,12-15 Years,1768,810,205,,,605
+2021-06-08,Suffolk,Chelsea,16-19 Years,1762,1307,897,,,410
+2021-06-08,Suffolk,Chelsea,20-29 Years,6170,4227,3207,,,1020
+2021-06-08,Suffolk,Chelsea,30-49 Years,11744,10289,8134,,,2155
+2021-06-08,Suffolk,Chelsea,50-64 Years,5861,5753,4922,,,831
+2021-06-08,Suffolk,Chelsea,65-74 Years,2092,2060,1891,,,169
+2021-06-08,Suffolk,Chelsea,75+ Years,1471,1398,1250,,,148
+2021-06-08,Suffolk,Chelsea,Total,36918,25845,20506,,,5339
+2021-06-08,Suffolk,Revere,12-15 Years,2613,1185,294,,,891
+2021-06-08,Suffolk,Revere,16-19 Years,2844,1788,1318,,,470
+2021-06-08,Suffolk,Revere,20-29 Years,8303,5786,4625,,,1161
+2021-06-08,Suffolk,Revere,30-49 Years,17705,13697,11491,,,2206
+2021-06-08,Suffolk,Revere,50-64 Years,12184,9330,8232,,,1098
+2021-06-08,Suffolk,Revere,65-74 Years,5047,4151,3796,,,355
+2021-06-08,Suffolk,Revere,75+ Years,4312,3082,2697,,,385
+2021-06-08,Suffolk,Revere,Total,60849,39019,32453,,,6566
+2021-06-08,Middlesex,Newton,12-15 Years,4932,3884,2180,,,1704
+2021-06-08,Middlesex,Newton,16-19 Years,8329,4922,4089,,,833
+2021-06-08,Middlesex,Newton,20-29 Years,12487,8520,7308,,,1212
+2021-06-08,Middlesex,Newton,30-49 Years,19706,19292,17416,,,1876
+2021-06-08,Middlesex,Newton,50-64 Years,17494,17472,16087,,,1385
+2021-06-08,Middlesex,Newton,65-74 Years,9938,10240,9392,,,848
+2021-06-08,Middlesex,Newton,75+ Years,7438,7571,6952,,,619
+2021-06-08,Middlesex,Newton,Total,91690,71901,63424,,,8477
+2021-06-08,Norfolk,Wellesley,12-15 Years,1831,1503,623,,,880
+2021-06-08,Norfolk,Wellesley,16-19 Years,3319,1919,1557,,,362
+2021-06-08,Norfolk,Wellesley,20-29 Years,4462,2613,2162,,,451
+2021-06-08,Norfolk,Wellesley,30-49 Years,5413,4775,4358,,,417
+2021-06-08,Norfolk,Wellesley,50-64 Years,5510,5444,5089,,,355
+2021-06-08,Norfolk,Wellesley,65-74 Years,2621,2194,2006,,,188
+2021-06-08,Norfolk,Wellesley,75+ Years,2135,2077,1930,,,147
+2021-06-08,Norfolk,Wellesley,Total,29713,20527,17725,,,2802
+2021-06-15,Suffolk,Chelsea,12-15 Years,1768,940,523,,,417
+2021-06-15,Suffolk,Chelsea,16-19 Years,1762,1378,1020,,,358
+2021-06-15,Suffolk,Chelsea,20-29 Years,6170,4354,3419,,,935
+2021-06-15,Suffolk,Chelsea,30-49 Years,11744,10514,8630,,,1884
+2021-06-15,Suffolk,Chelsea,50-64 Years,5861,5835,5070,,,765
+2021-06-15,Suffolk,Chelsea,65-74 Years,2092,2077,1911,,,166
+2021-06-15,Suffolk,Chelsea,75+ Years,1471,1407,1257,,,150
+2021-06-15,Suffolk,Chelsea,Total,36918,26506,21830,,,4676
+2021-06-15,Suffolk,Revere,12-15 Years,2613,1305,655,,,650
+2021-06-15,Suffolk,Revere,16-19 Years,2844,1845,1437,,,408
+2021-06-15,Suffolk,Revere,20-29 Years,8303,5948,4871,,,1077
+2021-06-15,Suffolk,Revere,30-49 Years,17705,13967,12007,,,1960
+2021-06-15,Suffolk,Revere,50-64 Years,12184,9412,8403,,,1009
+2021-06-15,Suffolk,Revere,65-74 Years,5047,4171,3837,,,334
+2021-06-15,Suffolk,Revere,75+ Years,4312,3090,2708,,,382
+2021-06-15,Suffolk,Revere,Total,60849,39738,33918,,,5820
+2021-06-15,Middlesex,Newton,12-15 Years,4932,4156,3050,,,1106
+2021-06-15,Middlesex,Newton,16-19 Years,8329,4973,4224,,,749
+2021-06-15,Middlesex,Newton,20-29 Years,12487,8613,7470,,,1143
+2021-06-15,Middlesex,Newton,30-49 Years,19706,19386,17667,,,1719
+2021-06-15,Middlesex,Newton,50-64 Years,17494,17523,16213,,,1310
+2021-06-15,Middlesex,Newton,65-74 Years,9938,10261,9430,,,831
+2021-06-15,Middlesex,Newton,75+ Years,7438,7583,6968,,,615
+2021-06-15,Middlesex,Newton,Total,91690,72495,65022,,,7473
+2021-06-15,Norfolk,Wellesley,12-15 Years,1831,1576,949,,,627
+2021-06-15,Norfolk,Wellesley,16-19 Years,3319,1946,1611,,,335
+2021-06-15,Norfolk,Wellesley,20-29 Years,4462,2629,2207,,,422
+2021-06-15,Norfolk,Wellesley,30-49 Years,5413,4792,4416,,,376
+2021-06-15,Norfolk,Wellesley,50-64 Years,5510,5461,5121,,,340
+2021-06-15,Norfolk,Wellesley,65-74 Years,2621,2200,2015,,,185
+2021-06-15,Norfolk,Wellesley,75+ Years,2135,2078,1936,,,142
+2021-06-15,Norfolk,Wellesley,Total,29713,20684,18255,,,2429
+2021-06-22,Suffolk,Chelsea,12-15 Years,1768,1001,663,,,338
+2021-06-22,Suffolk,Chelsea,16-19 Years,1762,1422,1090,,,332
+2021-06-22,Suffolk,Chelsea,20-29 Years,6170,4459,3586,,,873
+2021-06-22,Suffolk,Chelsea,30-49 Years,11744,10684,8921,,,1763
+2021-06-22,Suffolk,Chelsea,50-64 Years,5861,5875,5160,,,715
+2021-06-22,Suffolk,Chelsea,65-74 Years,2092,2079,1920,,,159
+2021-06-22,Suffolk,Chelsea,75+ Years,1471,1409,1258,,,151
+2021-06-22,Suffolk,Chelsea,Total,36918,26930,22598,,,4332
+2021-06-22,Suffolk,Revere,12-15 Years,2613,1398,978,,,420
+2021-06-22,Suffolk,Revere,16-19 Years,2844,1898,1526,,,372
+2021-06-22,Suffolk,Revere,20-29 Years,8303,6073,5065,,,1008
+2021-06-22,Suffolk,Revere,30-49 Years,17705,14228,12379,,,1849
+2021-06-22,Suffolk,Revere,50-64 Years,12184,9502,8537,,,965
+2021-06-22,Suffolk,Revere,65-74 Years,5047,4188,3868,,,320
+2021-06-22,Suffolk,Revere,75+ Years,4312,3095,2717,,,378
+2021-06-22,Suffolk,Revere,Total,60849,40382,35070,,,5312
+2021-06-22,Middlesex,Newton,12-15 Years,4932,4305,3369,,,936
+2021-06-22,Middlesex,Newton,16-19 Years,8329,5010,4304,,,706
+2021-06-22,Middlesex,Newton,20-29 Years,12487,8666,7591,,,1075
+2021-06-22,Middlesex,Newton,30-49 Years,19706,19480,17819,,,1661
+2021-06-22,Middlesex,Newton,50-64 Years,17494,17583,16315,,,1268
+2021-06-22,Middlesex,Newton,65-74 Years,9938,10277,9463,,,814
+2021-06-22,Middlesex,Newton,75+ Years,7438,7591,6990,,,601
+2021-06-22,Middlesex,Newton,Total,91690,72915,65851,,,7064
+2021-06-22,Norfolk,Wellesley,12-15 Years,1831,1611,1055,,,556
+2021-06-22,Norfolk,Wellesley,16-19 Years,3319,1952,1639,,,313
+2021-06-22,Norfolk,Wellesley,20-29 Years,4462,2639,2233,,,406
+2021-06-22,Norfolk,Wellesley,30-49 Years,5413,4810,4452,,,358
+2021-06-22,Norfolk,Wellesley,50-64 Years,5510,5475,5145,,,330
+2021-06-22,Norfolk,Wellesley,65-74 Years,2621,2203,2017,,,186
+2021-06-22,Norfolk,Wellesley,75+ Years,2135,2080,1938,,,142
+2021-06-22,Norfolk,Wellesley,Total,29713,20772,18479,,,2293
+2021-06-29,Suffolk,Chelsea,12-15 Years,1768,1058,765,,,293
+2021-06-29,Suffolk,Chelsea,16-19 Years,1762,1448,1140,,,308
+2021-06-29,Suffolk,Chelsea,20-29 Years,6170,4545,3723,,,822
+2021-06-29,Suffolk,Chelsea,30-49 Years,11744,10815,9155,,,1660
+2021-06-29,Suffolk,Chelsea,50-64 Years,5861,5922,5229,,,693
+2021-06-29,Suffolk,Chelsea,65-74 Years,2092,2086,1931,,,155
+2021-06-29,Suffolk,Chelsea,75+ Years,1471,1413,1263,,,150
+2021-06-29,Suffolk,Chelsea,Total,36918,27288,23206,,,4082
+2021-06-29,Suffolk,Revere,12-15 Years,2613,1458,1102,,,356
+2021-06-29,Suffolk,Revere,16-19 Years,2844,1936,1616,,,320
+2021-06-29,Suffolk,Revere,20-29 Years,8303,6157,5229,,,928
+2021-06-29,Suffolk,Revere,30-49 Years,17705,14399,12683,,,1716
+2021-06-29,Suffolk,Revere,50-64 Years,12184,9591,8653,,,938
+2021-06-29,Suffolk,Revere,65-74 Years,5047,4209,3888,,,321
+2021-06-29,Suffolk,Revere,75+ Years,4312,3101,2723,,,378
+2021-06-29,Suffolk,Revere,Total,60849,40851,35894,,,4957
+2021-06-29,Middlesex,Newton,12-15 Years,4932,4540,3809,,,731
+2021-06-29,Middlesex,Newton,16-19 Years,8329,5076,4455,,,621
+2021-06-29,Middlesex,Newton,20-29 Years,12487,8759,7766,,,993
+2021-06-29,Middlesex,Newton,30-49 Years,19706,19615,18171,,,1444
+2021-06-29,Middlesex,Newton,50-64 Years,17494,17645,16464,,,1181
+2021-06-29,Middlesex,Newton,65-74 Years,9938,10292,9491,,,801
+2021-06-29,Middlesex,Newton,75+ Years,7438,7600,7006,,,594
+2021-06-29,Middlesex,Newton,Total,91690,73531,67162,,,6369
+2021-06-29,Norfolk,Wellesley,12-15 Years,1831,1702,1410,,,292
+2021-06-29,Norfolk,Wellesley,16-19 Years,3319,1980,1720,,,260
+2021-06-29,Norfolk,Wellesley,20-29 Years,4462,2659,2267,,,392
+2021-06-29,Norfolk,Wellesley,30-49 Years,5413,4839,4519,,,320
+2021-06-29,Norfolk,Wellesley,50-64 Years,5510,5485,5171,,,314
+2021-06-29,Norfolk,Wellesley,65-74 Years,2621,2207,2021,,,186
+2021-06-29,Norfolk,Wellesley,75+ Years,2135,2080,1944,,,136
+2021-06-29,Norfolk,Wellesley,Total,29713,20955,19052,,,1903
+2021-07-06,Suffolk,Chelsea,12-15 Years,1768,1092,821,,,271
+2021-07-06,Suffolk,Chelsea,16-19 Years,1762,1469,1171,,,298
+2021-07-06,Suffolk,Chelsea,20-29 Years,6170,4614,3805,,,809
+2021-07-06,Suffolk,Chelsea,30-49 Years,11744,10910,9278,,,1632
+2021-07-06,Suffolk,Chelsea,50-64 Years,5861,5949,5267,,,682
+2021-07-06,Suffolk,Chelsea,65-74 Years,2092,2093,1940,,,153
+2021-07-06,Suffolk,Chelsea,75+ Years,1471,1415,1266,,,149
+2021-07-06,Suffolk,Chelsea,Total,36918,27543,23548,,,3995
+2021-07-06,Suffolk,Revere,12-15 Years,2613,1495,1186,,,309
+2021-07-06,Suffolk,Revere,16-19 Years,2844,1975,1665,,,310
+2021-07-06,Suffolk,Revere,20-29 Years,8303,6242,5341,,,901
+2021-07-06,Suffolk,Revere,30-49 Years,17705,14540,12875,,,1665
+2021-07-06,Suffolk,Revere,50-64 Years,12184,9644,8725,,,919
+2021-07-06,Suffolk,Revere,65-74 Years,5047,4226,3911,,,315
+2021-07-06,Suffolk,Revere,75+ Years,4312,3105,2726,,,379
+2021-07-06,Suffolk,Revere,Total,60849,41227,36429,,,4798
+2021-07-06,Middlesex,Newton,12-15 Years,4932,4589,3904,,,685
+2021-07-06,Middlesex,Newton,16-19 Years,8329,5104,4487,,,617
+2021-07-06,Middlesex,Newton,20-29 Years,12487,8798,7828,,,970
+2021-07-06,Middlesex,Newton,30-49 Years,19706,19685,18238,,,1447
+2021-07-06,Middlesex,Newton,50-64 Years,17494,17679,16497,,,1182
+2021-07-06,Middlesex,Newton,65-74 Years,9938,10320,9515,,,805
+2021-07-06,Middlesex,Newton,75+ Years,7438,7608,7016,,,592
+2021-07-06,Middlesex,Newton,Total,91690,73787,67485,,,6302
+2021-07-06,Norfolk,Wellesley,12-15 Years,1831,1713,1450,,,263
+2021-07-06,Norfolk,Wellesley,16-19 Years,3319,1993,1733,,,260
+2021-07-06,Norfolk,Wellesley,20-29 Years,4462,2666,2273,,,393
+2021-07-06,Norfolk,Wellesley,30-49 Years,5413,4849,4539,,,310
+2021-07-06,Norfolk,Wellesley,50-64 Years,5510,5500,5179,,,321
+2021-07-06,Norfolk,Wellesley,65-74 Years,2621,2214,2023,,,191
+2021-07-06,Norfolk,Wellesley,75+ Years,2135,2081,1945,,,136
+2021-07-06,Norfolk,Wellesley,Total,29713,21019,19142,,,1877
+2021-07-13,Suffolk,Chelsea,12-15 Years,1768,1146,894,,,252
+2021-07-13,Suffolk,Chelsea,16-19 Years,1762,1498,1209,,,289
+2021-07-13,Suffolk,Chelsea,20-29 Years,6170,4677,3872,,,805
+2021-07-13,Suffolk,Chelsea,30-49 Years,11744,11013,9409,,,1604
+2021-07-13,Suffolk,Chelsea,50-64 Years,5861,5980,5309,,,671
+2021-07-13,Suffolk,Chelsea,65-74 Years,2092,2108,1949,,,159
+2021-07-13,Suffolk,Chelsea,75+ Years,1471,1425,1271,,,154
+2021-07-13,Suffolk,Chelsea,Total,36918,27848,23913,,,3935
+2021-07-13,Suffolk,Revere,12-15 Years,2613,1552,1261,,,291
+2021-07-13,Suffolk,Revere,16-19 Years,2844,2013,1705,,,308
+2021-07-13,Suffolk,Revere,20-29 Years,8303,6332,5446,,,886
+2021-07-13,Suffolk,Revere,30-49 Years,17705,14692,13030,,,1662
+2021-07-13,Suffolk,Revere,50-64 Years,12184,9692,8783,,,909
+2021-07-13,Suffolk,Revere,65-74 Years,5047,4243,3922,,,321
+2021-07-13,Suffolk,Revere,75+ Years,4312,3112,2736,,,376
+2021-07-13,Suffolk,Revere,Total,60849,41636,36883,,,4753
+2021-07-13,Middlesex,Newton,12-15 Years,4932,4633,3992,,,641
+2021-07-13,Middlesex,Newton,16-19 Years,8329,5140,4510,,,630
+2021-07-13,Middlesex,Newton,20-29 Years,12487,8837,7869,,,968
+2021-07-13,Middlesex,Newton,30-49 Years,19706,19769,18330,,,1439
+2021-07-13,Middlesex,Newton,50-64 Years,17494,17708,16540,,,1168
+2021-07-13,Middlesex,Newton,65-74 Years,9938,10342,9528,,,814
+2021-07-13,Middlesex,Newton,75+ Years,7438,7614,7023,,,591
+2021-07-13,Middlesex,Newton,Total,91690,74046,67792,,,6254
+2021-07-13,Norfolk,Wellesley,12-15 Years,1831,1721,1485,,,236
+2021-07-13,Norfolk,Wellesley,16-19 Years,3319,1998,1743,,,255
+2021-07-13,Norfolk,Wellesley,20-29 Years,4462,2672,2284,,,388
+2021-07-13,Norfolk,Wellesley,30-49 Years,5413,4858,4551,,,307
+2021-07-13,Norfolk,Wellesley,50-64 Years,5510,5518,5195,,,323
+2021-07-13,Norfolk,Wellesley,65-74 Years,2621,2220,2029,,,191
+2021-07-13,Norfolk,Wellesley,75+ Years,2135,2089,1953,,,136
+2021-07-13,Norfolk,Wellesley,Total,29713,21079,19240,,,1839
+2021-07-20,Suffolk,Chelsea,12-15 Years,1768,1206,944,,,262
+2021-07-20,Suffolk,Chelsea,16-19 Years,1762,1541,1232,,,309
+2021-07-20,Suffolk,Chelsea,20-29 Years,6170,4744,3938,,,806
+2021-07-20,Suffolk,Chelsea,30-49 Years,11744,11131,9511,,,1620
+2021-07-20,Suffolk,Chelsea,50-64 Years,5861,6010,5343,,,667
+2021-07-20,Suffolk,Chelsea,65-74 Years,2092,2117,1956,,,161
+2021-07-20,Suffolk,Chelsea,75+ Years,1471,1428,1278,,,150
+2021-07-20,Suffolk,Chelsea,Total,36918,28178,24202,,,3976
+2021-07-20,Suffolk,Revere,12-15 Years,2613,1620,1335,,,285
+2021-07-20,Suffolk,Revere,16-19 Years,2844,2048,1742,,,306
+2021-07-20,Suffolk,Revere,20-29 Years,8303,6415,5521,,,894
+2021-07-20,Suffolk,Revere,30-49 Years,17705,14796,13149,,,1647
+2021-07-20,Suffolk,Revere,50-64 Years,12184,9746,8848,,,898
+2021-07-20,Suffolk,Revere,65-74 Years,5047,4258,3937,,,321
+2021-07-20,Suffolk,Revere,75+ Years,4312,3124,2743,,,381
+2021-07-20,Suffolk,Revere,Total,60849,42007,37275,,,4732
+2021-07-20,Middlesex,Newton,12-15 Years,4932,4671,4059,,,612
+2021-07-20,Middlesex,Newton,16-19 Years,8329,5165,4538,,,627
+2021-07-20,Middlesex,Newton,20-29 Years,12487,8878,7914,,,964
+2021-07-20,Middlesex,Newton,30-49 Years,19706,19834,18374,,,1460
+2021-07-20,Middlesex,Newton,50-64 Years,17494,17757,16587,,,1170
+2021-07-20,Middlesex,Newton,65-74 Years,9938,10344,9533,,,811
+2021-07-20,Middlesex,Newton,75+ Years,7438,7626,7031,,,595
+2021-07-20,Middlesex,Newton,Total,91690,74278,68036,,,6242
+2021-07-20,Norfolk,Wellesley,12-15 Years,1831,1737,1512,,,225
+2021-07-20,Norfolk,Wellesley,16-19 Years,3319,2007,1749,,,258
+2021-07-20,Norfolk,Wellesley,20-29 Years,4462,2679,2292,,,387
+2021-07-20,Norfolk,Wellesley,30-49 Years,5413,4863,4554,,,309
+2021-07-20,Norfolk,Wellesley,50-64 Years,5510,5532,5205,,,327
+2021-07-20,Norfolk,Wellesley,65-74 Years,2621,2231,2032,,,199
+2021-07-20,Norfolk,Wellesley,75+ Years,2135,2097,1955,,,142
+2021-07-20,Norfolk,Wellesley,Total,29713,21149,19299,,,1850
+2021-07-27,Suffolk,Chelsea,12-15 Years,1768,1288,980,,,308
+2021-07-27,Suffolk,Chelsea,16-19 Years,1762,1572,1248,,,324
+2021-07-27,Suffolk,Chelsea,20-29 Years,6170,4811,3998,,,813
+2021-07-27,Suffolk,Chelsea,30-49 Years,11744,11279,9600,,,1679
+2021-07-27,Suffolk,Chelsea,50-64 Years,5861,6039,5366,,,673
+2021-07-27,Suffolk,Chelsea,65-74 Years,2092,2122,1957,,,165
+2021-07-27,Suffolk,Chelsea,75+ Years,1471,1430,1282,,,148
+2021-07-27,Suffolk,Chelsea,Total,36918,28542,24431,,,4111
+2021-07-27,Suffolk,Revere,12-15 Years,2613,1671,1365,,,306
+2021-07-27,Suffolk,Revere,16-19 Years,2844,2077,1770,,,307
+2021-07-27,Suffolk,Revere,20-29 Years,8303,6495,5587,,,908
+2021-07-27,Suffolk,Revere,30-49 Years,17705,14922,13275,,,1647
+2021-07-27,Suffolk,Revere,50-64 Years,12184,9800,8902,,,898
+2021-07-27,Suffolk,Revere,65-74 Years,5047,4271,3945,,,326
+2021-07-27,Suffolk,Revere,75+ Years,4312,3132,2748,,,384
+2021-07-27,Suffolk,Revere,Total,60849,42368,37592,,,4776
+2021-07-27,Middlesex,Newton,12-15 Years,4932,4729,4114,,,615
+2021-07-27,Middlesex,Newton,16-19 Years,8329,5180,4571,,,609
+2021-07-27,Middlesex,Newton,20-29 Years,12487,8906,7953,,,953
+2021-07-27,Middlesex,Newton,30-49 Years,19706,19904,18430,,,1474
+2021-07-27,Middlesex,Newton,50-64 Years,17494,17807,16617,,,1190
+2021-07-27,Middlesex,Newton,65-74 Years,9938,10354,9546,,,808
+2021-07-27,Middlesex,Newton,75+ Years,7438,7637,7035,,,602
+2021-07-27,Middlesex,Newton,Total,91690,74520,68266,,,6254
+2021-07-27,Norfolk,Wellesley,12-15 Years,1831,1760,1525,,,235
+2021-07-27,Norfolk,Wellesley,16-19 Years,3319,2015,1764,,,251
+2021-07-27,Norfolk,Wellesley,20-29 Years,4462,2688,2298,,,390
+2021-07-27,Norfolk,Wellesley,30-49 Years,5413,4871,4562,,,309
+2021-07-27,Norfolk,Wellesley,50-64 Years,5510,5546,5212,,,334
+2021-07-27,Norfolk,Wellesley,65-74 Years,2621,2232,2034,,,198
+2021-07-27,Norfolk,Wellesley,75+ Years,2135,2094,1951,,,143
+2021-07-27,Norfolk,Wellesley,Total,29713,21210,19346,,,1864
+2021-08-03,Suffolk,Chelsea,12-15 Years,1768,1383,1018,,,365
+2021-08-03,Suffolk,Chelsea,16-19 Years,1762,1606,1271,,,335
+2021-08-03,Suffolk,Chelsea,20-29 Years,6170,4904,4062,,,842
+2021-08-03,Suffolk,Chelsea,30-49 Years,11744,11410,9689,,,1721
+2021-08-03,Suffolk,Chelsea,50-64 Years,5861,6069,5387,,,682
+2021-08-03,Suffolk,Chelsea,65-74 Years,2092,2129,1968,,,161
+2021-08-03,Suffolk,Chelsea,75+ Years,1471,1429,1287,,,142
+2021-08-03,Suffolk,Chelsea,Total,36918,28931,24682,,,4249
+2021-08-03,Suffolk,Revere,12-15 Years,2613,1730,1403,,,327
+2021-08-03,Suffolk,Revere,16-19 Years,2844,2120,1792,,,328
+2021-08-03,Suffolk,Revere,20-29 Years,8303,6599,5657,,,942
+2021-08-03,Suffolk,Revere,30-49 Years,17705,15083,13394,,,1689
+2021-08-03,Suffolk,Revere,50-64 Years,12184,9868,8942,,,926
+2021-08-03,Suffolk,Revere,65-74 Years,5047,4288,3962,,,326
+2021-08-03,Suffolk,Revere,75+ Years,4312,3136,2753,,,383
+2021-08-03,Suffolk,Revere,Total,60849,42824,37903,,,4921
+2021-08-03,Middlesex,Newton,12-15 Years,4932,4775,4168,,,607
+2021-08-03,Middlesex,Newton,16-19 Years,8329,5196,4611,,,585
+2021-08-03,Middlesex,Newton,20-29 Years,12487,8941,8014,,,927
+2021-08-03,Middlesex,Newton,30-49 Years,19706,19990,18522,,,1468
+2021-08-03,Middlesex,Newton,50-64 Years,17494,17869,16668,,,1201
+2021-08-03,Middlesex,Newton,65-74 Years,9938,10373,9571,,,802
+2021-08-03,Middlesex,Newton,75+ Years,7438,7647,7045,,,602
+2021-08-03,Middlesex,Newton,Total,91690,74794,68599,,,6195
+2021-08-03,Norfolk,Wellesley,12-15 Years,1831,1781,1550,,,231
+2021-08-03,Norfolk,Wellesley,16-19 Years,3319,2026,1774,,,252
+2021-08-03,Norfolk,Wellesley,20-29 Years,4462,2690,2308,,,382
+2021-08-03,Norfolk,Wellesley,30-49 Years,5413,4889,4577,,,312
+2021-08-03,Norfolk,Wellesley,50-64 Years,5510,5561,5225,,,336
+2021-08-03,Norfolk,Wellesley,65-74 Years,2621,2235,2038,,,197
+2021-08-03,Norfolk,Wellesley,75+ Years,2135,2096,1955,,,141
+2021-08-03,Norfolk,Wellesley,Total,29713,21282,19427,,,1855
+2021-08-10,Suffolk,Chelsea,12-15 Years,1768,1447,1069,,,378
+2021-08-10,Suffolk,Chelsea,16-19 Years,1762,1656,1298,,,358
+2021-08-10,Suffolk,Chelsea,20-29 Years,6170,5018,4125,,,893
+2021-08-10,Suffolk,Chelsea,30-49 Years,11744,11572,9786,,,1786
+2021-08-10,Suffolk,Chelsea,50-64 Years,5861,6116,5417,,,699
+2021-08-10,Suffolk,Chelsea,65-74 Years,2092,2137,1976,,,161
+2021-08-10,Suffolk,Chelsea,75+ Years,1471,1433,1291,,,142
+2021-08-10,Suffolk,Chelsea,Total,36918,29380,24962,,,4418
+2021-08-10,Suffolk,Revere,12-15 Years,2613,1795,1454,,,341
+2021-08-10,Suffolk,Revere,16-19 Years,2844,2152,1820,,,332
+2021-08-10,Suffolk,Revere,20-29 Years,8303,6706,5726,,,980
+2021-08-10,Suffolk,Revere,30-49 Years,17705,15240,13483,,,1757
+2021-08-10,Suffolk,Revere,50-64 Years,12184,9918,8982,,,936
+2021-08-10,Suffolk,Revere,65-74 Years,5047,4302,3979,,,323
+2021-08-10,Suffolk,Revere,75+ Years,4312,3145,2758,,,387
+2021-08-10,Suffolk,Revere,Total,60849,43258,38202,,,5056
+2021-08-10,Middlesex,Newton,12-15 Years,4932,4830,4228,,,602
+2021-08-10,Middlesex,Newton,16-19 Years,8329,5204,4629,,,575
+2021-08-10,Middlesex,Newton,20-29 Years,12487,8993,8064,,,929
+2021-08-10,Middlesex,Newton,30-49 Years,19706,20069,18587,,,1482
+2021-08-10,Middlesex,Newton,50-64 Years,17494,17920,16704,,,1216
+2021-08-10,Middlesex,Newton,65-74 Years,9938,10385,9584,,,801
+2021-08-10,Middlesex,Newton,75+ Years,7438,7661,7055,,,606
+2021-08-10,Middlesex,Newton,Total,91690,75065,68851,,,6214
+2021-08-10,Norfolk,Wellesley,12-15 Years,1831,1784,1572,,,212
+2021-08-10,Norfolk,Wellesley,16-19 Years,3319,2044,1786,,,258
+2021-08-10,Norfolk,Wellesley,20-29 Years,4462,2684,2310,,,374
+2021-08-10,Norfolk,Wellesley,30-49 Years,5413,4911,4592,,,319
+2021-08-10,Norfolk,Wellesley,50-64 Years,5510,5569,5237,,,332
+2021-08-10,Norfolk,Wellesley,65-74 Years,2621,2237,2040,,,197
+2021-08-10,Norfolk,Wellesley,75+ Years,2135,2096,1954,,,142
+2021-08-10,Norfolk,Wellesley,Total,29713,21329,19491,,,1838
+2021-08-17,Suffolk,Chelsea,12-15 Years,1768,1507,1142,,,365
+2021-08-17,Suffolk,Chelsea,16-19 Years,1762,1678,1328,,,350
+2021-08-17,Suffolk,Chelsea,20-29 Years,6170,5116,4184,,,932
+2021-08-17,Suffolk,Chelsea,30-49 Years,11744,11668,9898,,,1770
+2021-08-17,Suffolk,Chelsea,50-64 Years,5861,6154,5441,,,713
+2021-08-17,Suffolk,Chelsea,65-74 Years,2092,2140,1974,,,166
+2021-08-17,Suffolk,Chelsea,75+ Years,1471,1437,1293,,,144
+2021-08-17,Suffolk,Chelsea,Total,36918,29701,25260,,,4441
+2021-08-17,Suffolk,Revere,12-15 Years,2613,1856,1508,,,348
+2021-08-17,Suffolk,Revere,16-19 Years,2844,2201,1853,,,348
+2021-08-17,Suffolk,Revere,20-29 Years,8303,6813,5801,,,1012
+2021-08-17,Suffolk,Revere,30-49 Years,17705,15390,13588,,,1802
+2021-08-17,Suffolk,Revere,50-64 Years,12184,9966,9034,,,932
+2021-08-17,Suffolk,Revere,65-74 Years,5047,4315,3998,,,317
+2021-08-17,Suffolk,Revere,75+ Years,4312,3158,2767,,,391
+2021-08-17,Suffolk,Revere,Total,60849,43699,38549,,,5150
+2021-08-17,Middlesex,Newton,12-15 Years,4932,4893,4280,,,613
+2021-08-17,Middlesex,Newton,16-19 Years,8329,5235,4657,,,578
+2021-08-17,Middlesex,Newton,20-29 Years,12487,9056,8100,,,956
+2021-08-17,Middlesex,Newton,30-49 Years,19706,20127,18642,,,1485
+2021-08-17,Middlesex,Newton,50-64 Years,17494,17970,16729,,,1241
+2021-08-17,Middlesex,Newton,65-74 Years,9938,10412,9585,,,827
+2021-08-17,Middlesex,Newton,75+ Years,7438,7686,7072,,,614
+2021-08-17,Middlesex,Newton,Total,91690,75382,69065,,,6317
+2021-08-17,Norfolk,Wellesley,12-15 Years,1831,1799,1599,,,200
+2021-08-17,Norfolk,Wellesley,16-19 Years,3319,2056,1795,,,261
+2021-08-17,Norfolk,Wellesley,20-29 Years,4462,2697,2320,,,377
+2021-08-17,Norfolk,Wellesley,30-49 Years,5413,4927,4601,,,326
+2021-08-17,Norfolk,Wellesley,50-64 Years,5510,5575,5246,,,329
+2021-08-17,Norfolk,Wellesley,65-74 Years,2621,2250,2052,,,198
+2021-08-17,Norfolk,Wellesley,75+ Years,2135,2107,1958,,,149
+2021-08-17,Norfolk,Wellesley,Total,29713,21415,19572,,,1843
+2021-08-24,Suffolk,Chelsea,12-15 Years,1768,1559,1220,,,339
+2021-08-24,Suffolk,Chelsea,16-19 Years,1762,1695,1359,,,336
+2021-08-24,Suffolk,Chelsea,20-29 Years,6170,5175,4239,,,936
+2021-08-24,Suffolk,Chelsea,30-49 Years,11744,11756,9994,,,1762
+2021-08-24,Suffolk,Chelsea,50-64 Years,5861,6182,5455,,,727
+2021-08-24,Suffolk,Chelsea,65-74 Years,2092,2146,1982,,,164
+2021-08-24,Suffolk,Chelsea,75+ Years,1471,1437,1292,,,145
+2021-08-24,Suffolk,Chelsea,Total,36918,29951,25541,,,4410
+2021-08-24,Suffolk,Revere,12-15 Years,2613,1912,1561,,,351
+2021-08-24,Suffolk,Revere,16-19 Years,2844,2235,1890,,,345
+2021-08-24,Suffolk,Revere,20-29 Years,8303,6900,5876,,,1024
+2021-08-24,Suffolk,Revere,30-49 Years,17705,15527,13722,,,1805
+2021-08-24,Suffolk,Revere,50-64 Years,12184,10000,9085,,,915
+2021-08-24,Suffolk,Revere,65-74 Years,5047,4331,4012,,,319
+2021-08-24,Suffolk,Revere,75+ Years,4312,3170,2783,,,387
+2021-08-24,Suffolk,Revere,Total,60849,44075,38929,,,5146
+2021-08-24,Middlesex,Newton,12-15 Years,4932,4952,4340,,,612
+2021-08-24,Middlesex,Newton,16-19 Years,8329,5264,4683,,,581
+2021-08-24,Middlesex,Newton,20-29 Years,12487,9105,8147,,,958
+2021-08-24,Middlesex,Newton,30-49 Years,19706,20197,18712,,,1485
+2021-08-24,Middlesex,Newton,50-64 Years,17494,18022,16777,,,1245
+2021-08-24,Middlesex,Newton,65-74 Years,9938,10461,9597,,,864
+2021-08-24,Middlesex,Newton,75+ Years,7438,7733,7091,,,642
+2021-08-24,Middlesex,Newton,Total,91690,75737,69347,,,6390
+2021-08-24,Norfolk,Wellesley,12-15 Years,1831,1813,1626,,,187
+2021-08-24,Norfolk,Wellesley,16-19 Years,3319,2061,1801,,,260
+2021-08-24,Norfolk,Wellesley,20-29 Years,4462,2711,2335,,,376
+2021-08-24,Norfolk,Wellesley,30-49 Years,5413,4937,4607,,,330
+2021-08-24,Norfolk,Wellesley,50-64 Years,5510,5575,5249,,,326
+2021-08-24,Norfolk,Wellesley,65-74 Years,2621,2264,2056,,,208
+2021-08-24,Norfolk,Wellesley,75+ Years,2135,2125,1966,,,159
+2021-08-24,Norfolk,Wellesley,Total,29713,21490,19641,,,1849
+2021-08-31,Suffolk,Chelsea,12-15 Years,1768,1609,1290,,,319
+2021-08-31,Suffolk,Chelsea,16-19 Years,1762,1714,1391,,,323
+2021-08-31,Suffolk,Chelsea,20-29 Years,6170,5235,4325,,,910
+2021-08-31,Suffolk,Chelsea,30-49 Years,11744,11860,10120,,,1740
+2021-08-31,Suffolk,Chelsea,50-64 Years,5861,6213,5490,,,723
+2021-08-31,Suffolk,Chelsea,65-74 Years,2092,2145,1992,,,153
+2021-08-31,Suffolk,Chelsea,75+ Years,1471,1440,1294,,,146
+2021-08-31,Suffolk,Chelsea,Total,36918,30217,25902,,,4315
+2021-08-31,Suffolk,Revere,12-15 Years,2613,1967,1624,,,343
+2021-08-31,Suffolk,Revere,16-19 Years,2844,2264,1920,,,344
+2021-08-31,Suffolk,Revere,20-29 Years,8303,6999,5968,,,1031
+2021-08-31,Suffolk,Revere,30-49 Years,17705,15657,13864,,,1793
+2021-08-31,Suffolk,Revere,50-64 Years,12184,10047,9155,,,892
+2021-08-31,Suffolk,Revere,65-74 Years,5047,4345,4028,,,317
+2021-08-31,Suffolk,Revere,75+ Years,4312,3182,2796,,,386
+2021-08-31,Suffolk,Revere,Total,60849,44461,39355,,,5106
+2021-08-31,Middlesex,Newton,12-15 Years,4932,5005,4401,,,604
+2021-08-31,Middlesex,Newton,16-19 Years,8329,5286,4700,,,586
+2021-08-31,Middlesex,Newton,20-29 Years,12487,9150,8192,,,958
+2021-08-31,Middlesex,Newton,30-49 Years,19706,20304,18821,,,1483
+2021-08-31,Middlesex,Newton,50-64 Years,17494,18121,16886,,,1235
+2021-08-31,Middlesex,Newton,65-74 Years,9938,10519,9637,,,882
+2021-08-31,Middlesex,Newton,75+ Years,7438,7766,7120,,,646
+2021-08-31,Middlesex,Newton,Total,91690,76155,69757,,,6398
+2021-08-31,Norfolk,Wellesley,12-15 Years,1831,1835,1640,,,195
+2021-08-31,Norfolk,Wellesley,16-19 Years,3319,2109,1818,,,291
+2021-08-31,Norfolk,Wellesley,20-29 Years,4462,2745,2338,,,407
+2021-08-31,Norfolk,Wellesley,30-49 Years,5413,4949,4620,,,329
+2021-08-31,Norfolk,Wellesley,50-64 Years,5510,5588,5255,,,333
+2021-08-31,Norfolk,Wellesley,65-74 Years,2621,2274,2058,,,216
+2021-08-31,Norfolk,Wellesley,75+ Years,2135,2123,1969,,,154
+2021-08-31,Norfolk,Wellesley,Total,29713,21627,19699,,,1928
+2021-09-07,Suffolk,Chelsea,12-15 Years,1768,1630,1328,,,302
+2021-09-07,Suffolk,Chelsea,16-19 Years,1762,1735,1408,,,327
+2021-09-07,Suffolk,Chelsea,20-29 Years,6170,5289,4391,,,898
+2021-09-07,Suffolk,Chelsea,30-49 Years,11744,11904,10201,,,1703
+2021-09-07,Suffolk,Chelsea,50-64 Years,5861,6249,5522,,,727
+2021-09-07,Suffolk,Chelsea,65-74 Years,2092,2141,1994,,,147
+2021-09-07,Suffolk,Chelsea,75+ Years,1471,1443,1298,,,145
+2021-09-07,Suffolk,Chelsea,Total,36918,30392,26142,,,4250
+2021-09-07,Suffolk,Revere,12-15 Years,2613,1996,1667,,,329
+2021-09-07,Suffolk,Revere,16-19 Years,2844,2278,1949,,,329
+2021-09-07,Suffolk,Revere,20-29 Years,8303,7067,6058,,,1009
+2021-09-07,Suffolk,Revere,30-49 Years,17705,15780,13996,,,1784
+2021-09-07,Suffolk,Revere,50-64 Years,12184,10099,9187,,,912
+2021-09-07,Suffolk,Revere,65-74 Years,5047,4355,4038,,,317
+2021-09-07,Suffolk,Revere,75+ Years,4312,3180,2796,,,384
+2021-09-07,Suffolk,Revere,Total,60849,44755,39691,,,5064
+2021-09-07,Middlesex,Newton,12-15 Years,4932,5056,4455,,,601
+2021-09-07,Middlesex,Newton,16-19 Years,8329,5310,4714,,,596
+2021-09-07,Middlesex,Newton,20-29 Years,12487,9184,8231,,,953
+2021-09-07,Middlesex,Newton,30-49 Years,19706,20360,18893,,,1467
+2021-09-07,Middlesex,Newton,50-64 Years,17494,18163,16922,,,1241
+2021-09-07,Middlesex,Newton,65-74 Years,9938,10582,9669,,,913
+2021-09-07,Middlesex,Newton,75+ Years,7438,7796,7102,,,694
+2021-09-07,Middlesex,Newton,Total,91690,76455,69986,,,6469
+2021-09-07,Norfolk,Wellesley,12-15 Years,1831,1847,1650,,,197
+2021-09-07,Norfolk,Wellesley,16-19 Years,3319,2116,1821,,,295
+2021-09-07,Norfolk,Wellesley,20-29 Years,4462,2768,2338,,,430
+2021-09-07,Norfolk,Wellesley,30-49 Years,5413,4958,4633,,,325
+2021-09-07,Norfolk,Wellesley,50-64 Years,5510,5596,5259,,,337
+2021-09-07,Norfolk,Wellesley,65-74 Years,2621,2284,2062,,,222
+2021-09-07,Norfolk,Wellesley,75+ Years,2135,2104,1948,,,156
+2021-09-07,Norfolk,Wellesley,Total,29713,21677,19712,,,1965
+2021-09-14,Suffolk,Chelsea,12-15 Years,1768,1649,1379,,,270
+2021-09-14,Suffolk,Chelsea,16-19 Years,1762,1747,1423,,,324
+2021-09-14,Suffolk,Chelsea,20-29 Years,6170,5347,4438,,,909
+2021-09-14,Suffolk,Chelsea,30-49 Years,11744,11990,10279,,,1711
+2021-09-14,Suffolk,Chelsea,50-64 Years,5861,6268,5553,,,715
+2021-09-14,Suffolk,Chelsea,65-74 Years,2092,2153,2003,,,150
+2021-09-14,Suffolk,Chelsea,75+ Years,1471,1446,1301,,,145
+2021-09-14,Suffolk,Chelsea,Total,36918,30601,26376,,,4225
+2021-09-14,Suffolk,Revere,12-15 Years,2613,2024,1727,,,297
+2021-09-14,Suffolk,Revere,16-19 Years,2844,2301,1981,,,320
+2021-09-14,Suffolk,Revere,20-29 Years,8303,7144,6137,,,1007
+2021-09-14,Suffolk,Revere,30-49 Years,17705,15908,14123,,,1785
+2021-09-14,Suffolk,Revere,50-64 Years,12184,10141,9230,,,911
+2021-09-14,Suffolk,Revere,65-74 Years,5047,4360,4042,,,318
+2021-09-14,Suffolk,Revere,75+ Years,4312,3188,2807,,,381
+2021-09-14,Suffolk,Revere,Total,60849,45066,40047,,,5019
+2021-09-14,Middlesex,Newton,12-15 Years,4932,5114,4516,,,598
+2021-09-14,Middlesex,Newton,16-19 Years,8329,5334,4730,,,604
+2021-09-14,Middlesex,Newton,20-29 Years,12487,9230,8256,,,974
+2021-09-14,Middlesex,Newton,30-49 Years,19706,20412,18932,,,1480
+2021-09-14,Middlesex,Newton,50-64 Years,17494,18207,16950,,,1257
+2021-09-14,Middlesex,Newton,65-74 Years,9938,10637,9683,,,954
+2021-09-14,Middlesex,Newton,75+ Years,7438,7853,7131,,,722
+2021-09-14,Middlesex,Newton,Total,91690,76791,70198,,,6593
+2021-09-14,Norfolk,Wellesley,12-15 Years,1831,1858,1664,,,194
+2021-09-14,Norfolk,Wellesley,16-19 Years,3319,2132,1825,,,307
+2021-09-14,Norfolk,Wellesley,20-29 Years,4462,2804,2348,,,456
+2021-09-14,Norfolk,Wellesley,30-49 Years,5413,4971,4642,,,329
+2021-09-14,Norfolk,Wellesley,50-64 Years,5510,5614,5270,,,344
+2021-09-14,Norfolk,Wellesley,65-74 Years,2621,2297,2065,,,232
+2021-09-14,Norfolk,Wellesley,75+ Years,2135,2113,1947,,,166
+2021-09-14,Norfolk,Wellesley,Total,29713,21793,19762,,,2031
+2021-09-21,Suffolk,Chelsea,12-15 Years,1768,1670,1413,,,257
+2021-09-21,Suffolk,Chelsea,16-19 Years,1762,1766,1442,,,324
+2021-09-21,Suffolk,Chelsea,20-29 Years,6170,5418,4494,,,924
+2021-09-21,Suffolk,Chelsea,30-49 Years,11744,12089,10359,,,1730
+2021-09-21,Suffolk,Chelsea,50-64 Years,5861,6294,5582,,,712
+2021-09-21,Suffolk,Chelsea,65-74 Years,2092,2161,2013,,,148
+2021-09-21,Suffolk,Chelsea,75+ Years,1471,1446,1303,,,143
+2021-09-21,Suffolk,Chelsea,Total,36918,30845,26606,,,4239
+2021-09-21,Suffolk,Revere,12-15 Years,2613,2048,1767,,,281
+2021-09-21,Suffolk,Revere,16-19 Years,2844,2318,2007,,,311
+2021-09-21,Suffolk,Revere,20-29 Years,8303,7228,6215,,,1013
+2021-09-21,Suffolk,Revere,30-49 Years,17705,16051,14252,,,1799
+2021-09-21,Suffolk,Revere,50-64 Years,12184,10189,9284,,,905
+2021-09-21,Suffolk,Revere,65-74 Years,5047,4369,4061,,,308
+2021-09-21,Suffolk,Revere,75+ Years,4312,3186,2807,,,379
+2021-09-21,Suffolk,Revere,Total,60849,45389,40393,,,4996
+2021-09-21,Middlesex,Newton,12-15 Years,4932,5466,4889,,,577
+2021-09-21,Middlesex,Newton,16-19 Years,8329,5407,4815,,,592
+2021-09-21,Middlesex,Newton,20-29 Years,12487,9297,8335,,,962
+2021-09-21,Middlesex,Newton,30-49 Years,19706,20563,19088,,,1475
+2021-09-21,Middlesex,Newton,50-64 Years,17494,18315,17061,,,1254
+2021-09-21,Middlesex,Newton,65-74 Years,9938,10690,9731,,,959
+2021-09-21,Middlesex,Newton,75+ Years,7438,7914,7180,,,734
+2021-09-21,Middlesex,Newton,Total,91690,77656,71099,,,6557
+2021-09-21,Norfolk,Wellesley,12-15 Years,1831,1868,1682,,,186
+2021-09-21,Norfolk,Wellesley,16-19 Years,3319,2144,1847,,,297
+2021-09-21,Norfolk,Wellesley,20-29 Years,4462,2828,2375,,,453
+2021-09-21,Norfolk,Wellesley,30-49 Years,5413,4992,4668,,,324
+2021-09-21,Norfolk,Wellesley,50-64 Years,5510,5632,5286,,,346
+2021-09-21,Norfolk,Wellesley,65-74 Years,2621,2315,2074,,,241
+2021-09-21,Norfolk,Wellesley,75+ Years,2135,2127,1965,,,162
+2021-09-21,Norfolk,Wellesley,Total,29713,21910,19898,,,2012
+2021-09-28,Suffolk,Chelsea,12-15 Years,1768,1681,1431,,,250
+2021-09-28,Suffolk,Chelsea,16-19 Years,1762,1777,1456,,,321
+2021-09-28,Suffolk,Chelsea,20-29 Years,6170,5477,4540,,,937
+2021-09-28,Suffolk,Chelsea,30-49 Years,11744,12161,10409,,,1752
+2021-09-28,Suffolk,Chelsea,50-64 Years,5861,6346,5634,,,712
+2021-09-28,Suffolk,Chelsea,65-74 Years,2092,2218,2063,,,155
+2021-09-28,Suffolk,Chelsea,75+ Years,1471,1518,1359,,,159
+2021-09-28,Suffolk,Chelsea,Total,36918,31179,26892,,,4287
+2021-09-28,Suffolk,Revere,12-15 Years,2613,2070,1793,,,277
+2021-09-28,Suffolk,Revere,16-19 Years,2844,2338,2022,,,316
+2021-09-28,Suffolk,Revere,20-29 Years,8303,7285,6272,,,1013
+2021-09-28,Suffolk,Revere,30-49 Years,17705,16151,14336,,,1815
+2021-09-28,Suffolk,Revere,50-64 Years,12184,10212,9305,,,907
+2021-09-28,Suffolk,Revere,65-74 Years,5047,4380,4070,,,310
+2021-09-28,Suffolk,Revere,75+ Years,4312,3197,2814,,,383
+2021-09-28,Suffolk,Revere,Total,60849,45633,40612,,,5021
+2021-09-28,Middlesex,Newton,12-15 Years,4932,5491,4923,,,568
+2021-09-28,Middlesex,Newton,16-19 Years,8329,5419,4835,,,584
+2021-09-28,Middlesex,Newton,20-29 Years,12487,9332,8375,,,957
+2021-09-28,Middlesex,Newton,30-49 Years,19706,20627,19134,,,1493
+2021-09-28,Middlesex,Newton,50-64 Years,17494,18376,17093,,,1283
+2021-09-28,Middlesex,Newton,65-74 Years,9938,10770,9749,,,1021
+2021-09-28,Middlesex,Newton,75+ Years,7438,7995,7197,,,798
+2021-09-28,Middlesex,Newton,Total,91690,78014,71307,,,6707
+2021-09-28,Norfolk,Wellesley,12-15 Years,1831,1879,1697,,,182
+2021-09-28,Norfolk,Wellesley,16-19 Years,3319,2156,1868,,,288
+2021-09-28,Norfolk,Wellesley,20-29 Years,4462,2847,2391,,,456
+2021-09-28,Norfolk,Wellesley,30-49 Years,5413,5010,4676,,,334
+2021-09-28,Norfolk,Wellesley,50-64 Years,5510,5651,5293,,,358
+2021-09-28,Norfolk,Wellesley,65-74 Years,2621,2342,2079,,,263
+2021-09-28,Norfolk,Wellesley,75+ Years,2135,2145,1967,,,178
+2021-09-28,Norfolk,Wellesley,Total,29713,22034,19972,,,2062
+2021-10-05,Suffolk,Chelsea,12-15 Years,1768,1695,1446,,,249
+2021-10-05,Suffolk,Chelsea,16-19 Years,1762,1796,1463,,,333
+2021-10-05,Suffolk,Chelsea,20-29 Years,6170,5522,4575,,,947
+2021-10-05,Suffolk,Chelsea,30-49 Years,11744,12197,10452,,,1745
+2021-10-05,Suffolk,Chelsea,50-64 Years,5861,6357,5646,,,711
+2021-10-05,Suffolk,Chelsea,65-74 Years,2092,2233,2072,,,161
+2021-10-05,Suffolk,Chelsea,75+ Years,1471,1531,1366,,,165
+2021-10-05,Suffolk,Chelsea,Total,36918,31332,27020,,,4312
+2021-10-05,Suffolk,Revere,12-15 Years,2613,2091,1808,,,283
+2021-10-05,Suffolk,Revere,16-19 Years,2844,2353,2036,,,317
+2021-10-05,Suffolk,Revere,20-29 Years,8303,7343,6334,,,1009
+2021-10-05,Suffolk,Revere,30-49 Years,17705,16235,14448,,,1787
+2021-10-05,Suffolk,Revere,50-64 Years,12184,10252,9346,,,906
+2021-10-05,Suffolk,Revere,65-74 Years,5047,4410,4086,,,324
+2021-10-05,Suffolk,Revere,75+ Years,4312,3229,2825,,,404
+2021-10-05,Suffolk,Revere,Total,60849,45913,40883,,,5030
+2021-10-05,Middlesex,Newton,12-15 Years,4932,5519,4970,,,549
+2021-10-05,Middlesex,Newton,16-19 Years,8329,5418,4851,,,567
+2021-10-05,Middlesex,Newton,20-29 Years,12487,9363,8414,,,949
+2021-10-05,Middlesex,Newton,30-49 Years,19706,20701,19167,,,1534
+2021-10-05,Middlesex,Newton,50-64 Years,17494,18412,17113,,,1299
+2021-10-05,Middlesex,Newton,65-74 Years,9938,10939,9807,,,1132
+2021-10-05,Middlesex,Newton,75+ Years,7438,8099,7221,,,878
+2021-10-05,Middlesex,Newton,Total,91690,78455,71544,,,6911
+2021-10-05,Norfolk,Wellesley,12-15 Years,1831,1884,1706,,,178
+2021-10-05,Norfolk,Wellesley,16-19 Years,3319,2152,1875,,,277
+2021-10-05,Norfolk,Wellesley,20-29 Years,4462,2849,2405,,,444
+2021-10-05,Norfolk,Wellesley,30-49 Years,5413,5014,4679,,,335
+2021-10-05,Norfolk,Wellesley,50-64 Years,5510,5673,5309,,,364
+2021-10-05,Norfolk,Wellesley,65-74 Years,2621,2400,2105,,,295
+2021-10-05,Norfolk,Wellesley,75+ Years,2135,2167,1961,,,206
+2021-10-05,Norfolk,Wellesley,Total,29713,22143,20041,,,2102
+2021-10-12,Suffolk,Chelsea,12-15 Years,1768,1712,1458,,,254
+2021-10-12,Suffolk,Chelsea,16-19 Years,1762,1821,1479,,,342
+2021-10-12,Suffolk,Chelsea,20-29 Years,6170,5558,4622,,,936
+2021-10-12,Suffolk,Chelsea,30-49 Years,11744,12274,10526,,,1748
+2021-10-12,Suffolk,Chelsea,50-64 Years,5861,6364,5667,,,697
+2021-10-12,Suffolk,Chelsea,65-74 Years,2092,2251,2082,,,169
+2021-10-12,Suffolk,Chelsea,75+ Years,1471,1546,1374,,,172
+2021-10-12,Suffolk,Chelsea,Total,36918,31527,27208,,,4319
+2021-10-12,Suffolk,Revere,12-15 Years,2613,2106,1829,,,277
+2021-10-12,Suffolk,Revere,16-19 Years,2844,2367,2052,,,315
+2021-10-12,Suffolk,Revere,20-29 Years,8303,7394,6401,,,993
+2021-10-12,Suffolk,Revere,30-49 Years,17705,16331,14574,,,1757
+2021-10-12,Suffolk,Revere,50-64 Years,12184,10301,9406,,,895
+2021-10-12,Suffolk,Revere,65-74 Years,5047,4418,4085,,,333
+2021-10-12,Suffolk,Revere,75+ Years,4312,3250,2838,,,412
+2021-10-12,Suffolk,Revere,Total,60849,46167,41185,,,4982
+2021-10-12,Middlesex,Newton,12-15 Years,4932,5536,4984,,,552
+2021-10-12,Middlesex,Newton,16-19 Years,8329,5421,4867,,,554
+2021-10-12,Middlesex,Newton,20-29 Years,12487,9372,8420,,,952
+2021-10-12,Middlesex,Newton,30-49 Years,19706,20727,19172,,,1555
+2021-10-12,Middlesex,Newton,50-64 Years,17494,18472,17161,,,1311
+2021-10-12,Middlesex,Newton,65-74 Years,9938,11029,9842,,,1187
+2021-10-12,Middlesex,Newton,75+ Years,7438,8183,7235,,,948
+2021-10-12,Middlesex,Newton,Total,91690,78744,71682,,,7062
+2021-10-12,Norfolk,Wellesley,12-15 Years,1831,1892,1713,,,179
+2021-10-12,Norfolk,Wellesley,16-19 Years,3319,2160,1883,,,277
+2021-10-12,Norfolk,Wellesley,20-29 Years,4462,2843,2408,,,435
+2021-10-12,Norfolk,Wellesley,30-49 Years,5413,5013,4679,,,334
+2021-10-12,Norfolk,Wellesley,50-64 Years,5510,5684,5306,,,378
+2021-10-12,Norfolk,Wellesley,65-74 Years,2621,2434,2117,,,317
+2021-10-12,Norfolk,Wellesley,75+ Years,2135,2194,1964,,,230
+2021-10-12,Norfolk,Wellesley,Total,29713,22225,20072,,,2153
+2021-10-19,Suffolk,Chelsea,12-15 Years,1768,1730,1472,,,258
+2021-10-19,Suffolk,Chelsea,16-19 Years,1762,1832,1491,,,341
+2021-10-19,Suffolk,Chelsea,20-29 Years,6170,5611,4674,,,937
+2021-10-19,Suffolk,Chelsea,30-49 Years,11744,12297,10579,,,1718
+2021-10-19,Suffolk,Chelsea,50-64 Years,5861,6370,5680,,,690
+2021-10-19,Suffolk,Chelsea,65-74 Years,2092,2254,2078,,,176
+2021-10-19,Suffolk,Chelsea,75+ Years,1471,1562,1384,,,178
+2021-10-19,Suffolk,Chelsea,Total,36918,31657,27358,,,4299
+2021-10-19,Suffolk,Revere,12-15 Years,2613,2116,1848,,,268
+2021-10-19,Suffolk,Revere,16-19 Years,2844,2381,2068,,,313
+2021-10-19,Suffolk,Revere,20-29 Years,8303,7452,6456,,,996
+2021-10-19,Suffolk,Revere,30-49 Years,17705,16403,14650,,,1753
+2021-10-19,Suffolk,Revere,50-64 Years,12184,10341,9443,,,898
+2021-10-19,Suffolk,Revere,65-74 Years,5047,4446,4097,,,349
+2021-10-19,Suffolk,Revere,75+ Years,4312,3281,2842,,,439
+2021-10-19,Suffolk,Revere,Total,60849,46420,41404,,,5016
+2021-10-19,Middlesex,Newton,12-15 Years,4932,5562,5009,,,553
+2021-10-19,Middlesex,Newton,16-19 Years,8329,5397,4847,,,550
+2021-10-19,Middlesex,Newton,20-29 Years,12487,9382,8436,,,946
+2021-10-19,Middlesex,Newton,30-49 Years,19706,20800,19205,,,1595
+2021-10-19,Middlesex,Newton,50-64 Years,17494,18544,17192,,,1352
+2021-10-19,Middlesex,Newton,65-74 Years,9938,11096,9868,,,1228
+2021-10-19,Middlesex,Newton,75+ Years,7438,8257,7238,,,1019
+2021-10-19,Middlesex,Newton,Total,91690,79043,71796,,,7247
+2021-10-19,Norfolk,Wellesley,12-15 Years,1831,1892,1722,,,170
+2021-10-19,Norfolk,Wellesley,16-19 Years,3319,2166,1887,,,279
+2021-10-19,Norfolk,Wellesley,20-29 Years,4462,2844,2415,,,429
+2021-10-19,Norfolk,Wellesley,30-49 Years,5413,5038,4692,,,346
+2021-10-19,Norfolk,Wellesley,50-64 Years,5510,5698,5310,,,388
+2021-10-19,Norfolk,Wellesley,65-74 Years,2621,2458,2133,,,325
+2021-10-19,Norfolk,Wellesley,75+ Years,2135,2239,1974,,,265
+2021-10-19,Norfolk,Wellesley,Total,29713,22340,20135,,,2205
+2021-10-26,Suffolk,Chelsea,12-15 Years,1768,1740,1489,,,251
+2021-10-26,Suffolk,Chelsea,16-19 Years,1762,1848,1505,,,343
+2021-10-26,Suffolk,Chelsea,20-29 Years,6170,5667,4727,,,940
+2021-10-26,Suffolk,Chelsea,30-49 Years,11744,12362,10655,,,1707
+2021-10-26,Suffolk,Chelsea,50-64 Years,5861,6395,5710,,,685
+2021-10-26,Suffolk,Chelsea,65-74 Years,2092,2273,2080,,,193
+2021-10-26,Suffolk,Chelsea,75+ Years,1471,1578,1387,,,191
+2021-10-26,Suffolk,Chelsea,Total,36918,31864,27553,,,4311
+2021-10-26,Suffolk,Revere,12-15 Years,2613,2129,1856,,,273
+2021-10-26,Suffolk,Revere,16-19 Years,2844,2383,2076,,,307
+2021-10-26,Suffolk,Revere,20-29 Years,8303,7524,6509,,,1015
+2021-10-26,Suffolk,Revere,30-49 Years,17705,16502,14743,,,1759
+2021-10-26,Suffolk,Revere,50-64 Years,12184,10376,9474,,,902
+2021-10-26,Suffolk,Revere,65-74 Years,5047,4485,4108,,,377
+2021-10-26,Suffolk,Revere,75+ Years,4312,3302,2841,,,461
+2021-10-26,Suffolk,Revere,Total,60849,46701,41607,,,5094
+2021-10-26,Middlesex,Newton,12-15 Years,4932,5598,5034,,,564
+2021-10-26,Middlesex,Newton,16-19 Years,8329,5377,4840,,,537
+2021-10-26,Middlesex,Newton,20-29 Years,12487,9387,8409,,,978
+2021-10-26,Middlesex,Newton,30-49 Years,19706,20988,19234,,,1754
+2021-10-26,Middlesex,Newton,50-64 Years,17494,18740,17236,,,1504
+2021-10-26,Middlesex,Newton,65-74 Years,9938,11287,9899,,,1388
+2021-10-26,Middlesex,Newton,75+ Years,7438,8376,7289,,,1087
+2021-10-26,Middlesex,Newton,Total,91690,79758,71942,,,7816
+2021-10-26,Norfolk,Wellesley,12-15 Years,1831,1911,1735,,,176
+2021-10-26,Norfolk,Wellesley,16-19 Years,3319,2168,1885,,,283
+2021-10-26,Norfolk,Wellesley,20-29 Years,4462,2861,2424,,,437
+2021-10-26,Norfolk,Wellesley,30-49 Years,5413,5072,4687,,,385
+2021-10-26,Norfolk,Wellesley,50-64 Years,5510,5755,5328,,,427
+2021-10-26,Norfolk,Wellesley,65-74 Years,2621,2519,2146,,,373
+2021-10-26,Norfolk,Wellesley,75+ Years,2135,2261,1977,,,284
+2021-10-26,Norfolk,Wellesley,Total,29713,22552,20184,,,2368
+2021-11-02,Suffolk,Chelsea,12-15 Years,1768,1755,1503,,,252
+2021-11-02,Suffolk,Chelsea,16-19 Years,1762,1852,1520,,,332
+2021-11-02,Suffolk,Chelsea,20-29 Years,6170,5714,4758,,,956
+2021-11-02,Suffolk,Chelsea,30-49 Years,11744,12438,10708,,,1730
+2021-11-02,Suffolk,Chelsea,50-64 Years,5861,6431,5720,,,711
+2021-11-02,Suffolk,Chelsea,65-74 Years,2092,2319,2096,,,223
+2021-11-02,Suffolk,Chelsea,75+ Years,1471,1603,1398,,,205
+2021-11-02,Suffolk,Chelsea,Total,36918,32113,27703,,,4410
+2021-11-02,Suffolk,Revere,12-15 Years,2613,2137,1869,,,268
+2021-11-02,Suffolk,Revere,16-19 Years,2844,2392,2087,,,305
+2021-11-02,Suffolk,Revere,20-29 Years,8303,7587,6546,,,1041
+2021-11-02,Suffolk,Revere,30-49 Years,17705,16576,14811,,,1765
+2021-11-02,Suffolk,Revere,50-64 Years,12184,10443,9510,,,933
+2021-11-02,Suffolk,Revere,65-74 Years,5047,4555,4105,,,450
+2021-11-02,Suffolk,Revere,75+ Years,4312,3333,2853,,,480
+2021-11-02,Suffolk,Revere,Total,60849,47023,41781,,,5242
+2021-11-02,Middlesex,Newton,12-15 Years,4932,5611,5046,,,565
+2021-11-02,Middlesex,Newton,16-19 Years,8329,5384,4835,,,549
+2021-11-02,Middlesex,Newton,20-29 Years,12487,9436,8411,,,1025
+2021-11-02,Middlesex,Newton,30-49 Years,19706,21247,19252,,,1995
+2021-11-02,Middlesex,Newton,50-64 Years,17494,19004,17275,,,1729
+2021-11-02,Middlesex,Newton,65-74 Years,9938,11659,9959,,,1700
+2021-11-02,Middlesex,Newton,75+ Years,7438,8532,7357,,,1175
+2021-11-02,Middlesex,Newton,Total,91690,80879,72136,,,8743
+2021-11-02,Norfolk,Wellesley,12-15 Years,1831,1917,1739,,,178
+2021-11-02,Norfolk,Wellesley,16-19 Years,3319,2165,1885,,,280
+2021-11-02,Norfolk,Wellesley,20-29 Years,4462,2892,2443,,,449
+2021-11-02,Norfolk,Wellesley,30-49 Years,5413,5152,4691,,,461
+2021-11-02,Norfolk,Wellesley,50-64 Years,5510,5829,5332,,,497
+2021-11-02,Norfolk,Wellesley,65-74 Years,2621,2600,2160,,,440
+2021-11-02,Norfolk,Wellesley,75+ Years,2135,2298,1981,,,317
+2021-11-02,Norfolk,Wellesley,Total,29713,22857,20233,,,2624
+2021-11-09,Suffolk,Chelsea,5-11 Years,3144,103,0,,,103
+2021-11-09,Suffolk,Chelsea,12-15 Years,1768,1772,1517,,,255
+2021-11-09,Suffolk,Chelsea,16-19 Years,1762,1866,1533,,,333
+2021-11-09,Suffolk,Chelsea,20-29 Years,6170,5762,4790,,,972
+2021-11-09,Suffolk,Chelsea,30-49 Years,11744,12531,10754,,,1777
+2021-11-09,Suffolk,Chelsea,50-64 Years,5861,6471,5723,,,748
+2021-11-09,Suffolk,Chelsea,65-74 Years,2092,2370,2107,,,263
+2021-11-09,Suffolk,Chelsea,75+ Years,1471,1628,1397,,,231
+2021-11-09,Suffolk,Chelsea,Total,36918,32504,27821,,,4683
+2021-11-09,Suffolk,Revere,5-11 Years,4263,56,0,,,56
+2021-11-09,Suffolk,Revere,12-15 Years,2613,2153,1880,,,273
+2021-11-09,Suffolk,Revere,16-19 Years,2844,2397,2097,,,300
+2021-11-09,Suffolk,Revere,20-29 Years,8303,7650,6599,,,1051
+2021-11-09,Suffolk,Revere,30-49 Years,17705,16655,14841,,,1814
+2021-11-09,Suffolk,Revere,50-64 Years,12184,10549,9559,,,990
+2021-11-09,Suffolk,Revere,65-74 Years,5047,4631,4129,,,502
+2021-11-09,Suffolk,Revere,75+ Years,4312,3354,2868,,,486
+2021-11-09,Suffolk,Revere,Total,60849,47445,41973,,,5472
+2021-11-09,Middlesex,Newton,5-11 Years,7107,802,2,,,800
+2021-11-09,Middlesex,Newton,12-15 Years,4932,5639,5063,,,576
+2021-11-09,Middlesex,Newton,16-19 Years,8329,5377,4824,,,553
+2021-11-09,Middlesex,Newton,20-29 Years,12487,9510,8425,,,1085
+2021-11-09,Middlesex,Newton,30-49 Years,19706,21548,19319,,,2229
+2021-11-09,Middlesex,Newton,50-64 Years,17494,19302,17350,,,1952
+2021-11-09,Middlesex,Newton,65-74 Years,9938,11926,10020,,,1906
+2021-11-09,Middlesex,Newton,75+ Years,7438,8679,7418,,,1261
+2021-11-09,Middlesex,Newton,Total,91690,82784,72421,,,10363
+2021-11-09,Norfolk,Wellesley,5-11 Years,2692,214,2,,,212
+2021-11-09,Norfolk,Wellesley,12-15 Years,1831,1923,1748,,,175
+2021-11-09,Norfolk,Wellesley,16-19 Years,3319,2182,1899,,,283
+2021-11-09,Norfolk,Wellesley,20-29 Years,4462,2913,2450,,,463
+2021-11-09,Norfolk,Wellesley,30-49 Years,5413,5193,4687,,,506
+2021-11-09,Norfolk,Wellesley,50-64 Years,5510,5903,5347,,,556
+2021-11-09,Norfolk,Wellesley,65-74 Years,2621,2669,2170,,,499
+2021-11-09,Norfolk,Wellesley,75+ Years,2135,2342,1995,,,347
+2021-11-09,Norfolk,Wellesley,Total,29713,23339,20298,,,3041
+2021-11-16,Suffolk,Chelsea,5-11 Years,3144,228,0,,,228
+2021-11-16,Suffolk,Chelsea,12-15 Years,1768,1787,1521,,,266
+2021-11-16,Suffolk,Chelsea,16-19 Years,1762,1883,1541,,,342
+2021-11-16,Suffolk,Chelsea,20-29 Years,6170,5803,4828,,,975
+2021-11-16,Suffolk,Chelsea,30-49 Years,11744,12588,10799,,,1789
+2021-11-16,Suffolk,Chelsea,50-64 Years,5861,6519,5767,,,752
+2021-11-16,Suffolk,Chelsea,65-74 Years,2092,2425,2151,,,274
+2021-11-16,Suffolk,Chelsea,75+ Years,1471,1659,1432,,,227
+2021-11-16,Suffolk,Chelsea,Total,36918,32893,28039,,,4854
+2021-11-16,Suffolk,Revere,5-11 Years,4263,233,0,,,233
+2021-11-16,Suffolk,Revere,12-15 Years,2613,2168,1895,,,273
+2021-11-16,Suffolk,Revere,16-19 Years,2844,2407,2103,,,304
+2021-11-16,Suffolk,Revere,20-29 Years,8303,7713,6643,,,1070
+2021-11-16,Suffolk,Revere,30-49 Years,17705,16777,14968,,,1809
+2021-11-16,Suffolk,Revere,50-64 Years,12184,10642,9631,,,1011
+2021-11-16,Suffolk,Revere,65-74 Years,5047,4714,4184,,,530
+2021-11-16,Suffolk,Revere,75+ Years,4312,3392,2913,,,479
+2021-11-16,Suffolk,Revere,Total,60849,48046,42337,,,5709
+2021-11-16,Middlesex,Newton,5-11 Years,7107,3470,2,,,3468
+2021-11-16,Middlesex,Newton,12-15 Years,4932,5661,5093,,,568
+2021-11-16,Middlesex,Newton,16-19 Years,8329,5390,4844,,,546
+2021-11-16,Middlesex,Newton,20-29 Years,12487,9591,8457,,,1134
+2021-11-16,Middlesex,Newton,30-49 Years,19706,21806,19400,,,2406
+2021-11-16,Middlesex,Newton,50-64 Years,17494,19565,17417,,,2148
+2021-11-16,Middlesex,Newton,65-74 Years,9938,12116,10054,,,2062
+2021-11-16,Middlesex,Newton,75+ Years,7438,8778,7470,,,1308
+2021-11-16,Middlesex,Newton,Total,91690,86378,72737,,,13641
+2021-11-16,Norfolk,Wellesley,5-11 Years,2692,893,2,,,891
+2021-11-16,Norfolk,Wellesley,12-15 Years,1831,1934,1757,,,177
+2021-11-16,Norfolk,Wellesley,16-19 Years,3319,2184,1902,,,282
+2021-11-16,Norfolk,Wellesley,20-29 Years,4462,2949,2461,,,488
+2021-11-16,Norfolk,Wellesley,30-49 Years,5413,5240,4676,,,564
+2021-11-16,Norfolk,Wellesley,50-64 Years,5510,5983,5365,,,618
+2021-11-16,Norfolk,Wellesley,65-74 Years,2621,2708,2179,,,529
+2021-11-16,Norfolk,Wellesley,75+ Years,2135,2398,2030,,,368
+2021-11-16,Norfolk,Wellesley,Total,29713,24289,20372,,,3917
+2021-11-23,Suffolk,Chelsea,5-11 Years,3144,487,0,,,487
+2021-11-23,Suffolk,Chelsea,12-15 Years,1768,1803,1533,,,270
+2021-11-23,Suffolk,Chelsea,16-19 Years,1762,1898,1546,,,352
+2021-11-23,Suffolk,Chelsea,20-29 Years,6170,5865,4871,,,994
+2021-11-23,Suffolk,Chelsea,30-49 Years,11744,12707,10849,,,1858
+2021-11-23,Suffolk,Chelsea,50-64 Years,5861,6590,5781,,,809
+2021-11-23,Suffolk,Chelsea,65-74 Years,2092,2453,2153,,,300
+2021-11-23,Suffolk,Chelsea,75+ Years,1471,1656,1424,,,232
+2021-11-23,Suffolk,Chelsea,Total,36918,33460,28157,,,5303
+2021-11-23,Suffolk,Revere,5-11 Years,4263,563,0,,,563
+2021-11-23,Suffolk,Revere,12-15 Years,2613,2192,1908,,,284
+2021-11-23,Suffolk,Revere,16-19 Years,2844,2412,2115,,,297
+2021-11-23,Suffolk,Revere,20-29 Years,8303,7758,6686,,,1072
+2021-11-23,Suffolk,Revere,30-49 Years,17705,16845,15026,,,1819
+2021-11-23,Suffolk,Revere,50-64 Years,12184,10721,9660,,,1061
+2021-11-23,Suffolk,Revere,65-74 Years,5047,4778,4188,,,590
+2021-11-23,Suffolk,Revere,75+ Years,4312,3418,2931,,,487
+2021-11-23,Suffolk,Revere,Total,60849,48687,42514,,,6173
+2021-11-23,Middlesex,Newton,5-11 Years,7107,4287,8,,,4279
+2021-11-23,Middlesex,Newton,12-15 Years,4932,5685,5116,,,569
+2021-11-23,Middlesex,Newton,16-19 Years,8329,5407,4850,,,557
+2021-11-23,Middlesex,Newton,20-29 Years,12487,9676,8472,,,1204
+2021-11-23,Middlesex,Newton,30-49 Years,19706,22068,19494,,,2574
+2021-11-23,Middlesex,Newton,50-64 Years,17494,19810,17478,,,2332
+2021-11-23,Middlesex,Newton,65-74 Years,9938,12220,10071,,,2149
+2021-11-23,Middlesex,Newton,75+ Years,7438,8811,7468,,,1343
+2021-11-23,Middlesex,Newton,Total,91690,87965,72957,,,15008
+2021-11-23,Norfolk,Wellesley,5-11 Years,2692,1308,2,,,1306
+2021-11-23,Norfolk,Wellesley,12-15 Years,1831,1946,1765,,,181
+2021-11-23,Norfolk,Wellesley,16-19 Years,3319,2204,1908,,,296
+2021-11-23,Norfolk,Wellesley,20-29 Years,4462,2995,2473,,,522
+2021-11-23,Norfolk,Wellesley,30-49 Years,5413,5274,4667,,,607
+2021-11-23,Norfolk,Wellesley,50-64 Years,5510,6052,5375,,,677
+2021-11-23,Norfolk,Wellesley,65-74 Years,2621,2743,2189,,,554
+2021-11-23,Norfolk,Wellesley,75+ Years,2135,2412,2031,,,381
+2021-11-23,Norfolk,Wellesley,Total,29713,24934,20410,,,4524
+2021-11-30,Suffolk,Chelsea,5-11 Years,3144,538,76,,,462
+2021-11-30,Suffolk,Chelsea,12-15 Years,1768,1809,1544,,,265
+2021-11-30,Suffolk,Chelsea,16-19 Years,1762,1907,1555,,,352
+2021-11-30,Suffolk,Chelsea,20-29 Years,6170,5902,4895,,,1007
+2021-11-30,Suffolk,Chelsea,30-49 Years,11744,12786,10890,,,1896
+2021-11-30,Suffolk,Chelsea,50-64 Years,5861,6649,5795,,,854
+2021-11-30,Suffolk,Chelsea,65-74 Years,2092,2479,2158,,,321
+2021-11-30,Suffolk,Chelsea,75+ Years,1471,1662,1427,,,235
+2021-11-30,Suffolk,Chelsea,Total,36918,33733,28340,,,5393
+2021-11-30,Suffolk,Revere,5-11 Years,4263,626,36,,,590
+2021-11-30,Suffolk,Revere,12-15 Years,2613,2198,1918,,,280
+2021-11-30,Suffolk,Revere,16-19 Years,2844,2418,2125,,,293
+2021-11-30,Suffolk,Revere,20-29 Years,8303,7812,6717,,,1095
+2021-11-30,Suffolk,Revere,30-49 Years,17705,16942,15078,,,1864
+2021-11-30,Suffolk,Revere,50-64 Years,12184,10773,9680,,,1093
+2021-11-30,Suffolk,Revere,65-74 Years,5047,4806,4191,,,615
+2021-11-30,Suffolk,Revere,75+ Years,4312,3443,2947,,,496
+2021-11-30,Suffolk,Revere,Total,60849,49018,42692,,,6326
+2021-11-30,Middlesex,Newton,5-11 Years,7107,4554,754,,,3800
+2021-11-30,Middlesex,Newton,12-15 Years,4932,5690,5141,,,549
+2021-11-30,Middlesex,Newton,16-19 Years,8329,5444,4867,,,577
+2021-11-30,Middlesex,Newton,20-29 Years,12487,9815,8496,,,1319
+2021-11-30,Middlesex,Newton,30-49 Years,19706,22269,19558,,,2711
+2021-11-30,Middlesex,Newton,50-64 Years,17494,19924,17517,,,2407
+2021-11-30,Middlesex,Newton,65-74 Years,9938,12277,10074,,,2203
+2021-11-30,Middlesex,Newton,75+ Years,7438,8845,7484,,,1361
+2021-11-30,Middlesex,Newton,Total,91690,88819,73891,,,14928
+2021-11-30,Norfolk,Wellesley,5-11 Years,2692,1630,195,,,1435
+2021-11-30,Norfolk,Wellesley,12-15 Years,1831,1950,1771,,,179
+2021-11-30,Norfolk,Wellesley,16-19 Years,3319,2221,1902,,,319
+2021-11-30,Norfolk,Wellesley,20-29 Years,4462,3031,2479,,,552
+2021-11-30,Norfolk,Wellesley,30-49 Years,5413,5309,4686,,,623
+2021-11-30,Norfolk,Wellesley,50-64 Years,5510,6080,5376,,,704
+2021-11-30,Norfolk,Wellesley,65-74 Years,2621,2756,2186,,,570
+2021-11-30,Norfolk,Wellesley,75+ Years,2135,2422,2036,,,386
+2021-11-30,Norfolk,Wellesley,Total,29713,25399,20631,,,4768
+2021-12-07,Suffolk,Chelsea,5-11 Years,3144,681,159,,,522
+2021-12-07,Suffolk,Chelsea,12-15 Years,1768,1841,1555,,,286
+2021-12-07,Suffolk,Chelsea,16-19 Years,1762,1921,1560,,,361
+2021-12-07,Suffolk,Chelsea,20-29 Years,6170,5970,4947,,,1023
+2021-12-07,Suffolk,Chelsea,30-49 Years,11744,12855,10991,,,1864
+2021-12-07,Suffolk,Chelsea,50-64 Years,5861,6661,5839,,,822
+2021-12-07,Suffolk,Chelsea,65-74 Years,2092,2436,2171,,,265
+2021-12-07,Suffolk,Chelsea,75+ Years,1471,1662,1438,,,224
+2021-12-07,Suffolk,Chelsea,Total,36918,34028,28660,,,5368
+2021-12-07,Suffolk,Revere,5-11 Years,4263,809,165,,,644
+2021-12-07,Suffolk,Revere,12-15 Years,2613,2206,1924,,,282
+2021-12-07,Suffolk,Revere,16-19 Years,2844,2423,2129,,,294
+2021-12-07,Suffolk,Revere,20-29 Years,8303,7836,6758,,,1078
+2021-12-07,Suffolk,Revere,30-49 Years,17705,16998,15139,,,1859
+2021-12-07,Suffolk,Revere,50-64 Years,12184,10708,9709,,,999
+2021-12-07,Suffolk,Revere,65-74 Years,5047,4663,4192,,,471
+2021-12-07,Suffolk,Revere,75+ Years,4312,3441,2955,,,486
+2021-12-07,Suffolk,Revere,Total,60849,49084,42971,,,6113
+2021-12-07,Middlesex,Newton,5-11 Years,7107,5678,3584,,,2094
+2021-12-07,Middlesex,Newton,12-15 Years,4932,5714,5177,,,537
+2021-12-07,Middlesex,Newton,16-19 Years,8329,5437,4873,,,564
+2021-12-07,Middlesex,Newton,20-29 Years,12487,9802,8511,,,1291
+2021-12-07,Middlesex,Newton,30-49 Years,19706,22098,19646,,,2452
+2021-12-07,Middlesex,Newton,50-64 Years,17494,19762,17534,,,2228
+2021-12-07,Middlesex,Newton,65-74 Years,9938,11936,10072,,,1864
+2021-12-07,Middlesex,Newton,75+ Years,7438,8811,7490,,,1321
+2021-12-07,Middlesex,Newton,Total,91690,89239,76887,,,12352
+2021-12-07,Norfolk,Wellesley,5-11 Years,2692,1797,787,,,1010
+2021-12-07,Norfolk,Wellesley,12-15 Years,1831,1952,1781,,,171
+2021-12-07,Norfolk,Wellesley,16-19 Years,3319,2225,1908,,,317
+2021-12-07,Norfolk,Wellesley,20-29 Years,4462,3032,2493,,,539
+2021-12-07,Norfolk,Wellesley,30-49 Years,5413,5221,4685,,,536
+2021-12-07,Norfolk,Wellesley,50-64 Years,5510,6017,5388,,,629
+2021-12-07,Norfolk,Wellesley,65-74 Years,2621,2653,2180,,,473
+2021-12-07,Norfolk,Wellesley,75+ Years,2135,2419,2036,,,383
+2021-12-07,Norfolk,Wellesley,Total,29713,25319,21258,,,4061
+2021-12-14,Suffolk,Chelsea,5-11 Years,3144,900,349,,,551
+2021-12-14,Suffolk,Chelsea,12-15 Years,1768,1863,1574,,,289
+2021-12-14,Suffolk,Chelsea,16-19 Years,1762,1933,1566,,,367
+2021-12-14,Suffolk,Chelsea,20-29 Years,6170,6032,4967,,,1065
+2021-12-14,Suffolk,Chelsea,30-49 Years,11744,12997,11037,,,1960
+2021-12-14,Suffolk,Chelsea,50-64 Years,5861,6724,5854,,,870
+2021-12-14,Suffolk,Chelsea,65-74 Years,2092,2439,2172,,,267
+2021-12-14,Suffolk,Chelsea,75+ Years,1471,1665,1438,,,227
+2021-12-14,Suffolk,Chelsea,Total,36918,34554,28957,,,5597
+2021-12-14,Suffolk,Revere,5-11 Years,4263,1014,436,,,578
+2021-12-14,Suffolk,Revere,12-15 Years,2613,2221,1937,,,284
+2021-12-14,Suffolk,Revere,16-19 Years,2844,2434,2133,,,301
+2021-12-14,Suffolk,Revere,20-29 Years,8303,7904,6798,,,1106
+2021-12-14,Suffolk,Revere,30-49 Years,17705,17137,15211,,,1926
+2021-12-14,Suffolk,Revere,50-64 Years,12184,10776,9733,,,1043
+2021-12-14,Suffolk,Revere,65-74 Years,5047,4671,4191,,,480
+2021-12-14,Suffolk,Revere,75+ Years,4312,3453,2966,,,487
+2021-12-14,Suffolk,Revere,Total,60849,49610,43405,,,6205
+2021-12-14,Middlesex,Newton,5-11 Years,7107,5904,4660,,,1244
+2021-12-14,Middlesex,Newton,12-15 Years,4932,5724,5201,,,523
+2021-12-14,Middlesex,Newton,16-19 Years,8329,5459,4869,,,590
+2021-12-14,Middlesex,Newton,20-29 Years,12487,9895,8524,,,1371
+2021-12-14,Middlesex,Newton,30-49 Years,19706,22304,19682,,,2622
+2021-12-14,Middlesex,Newton,50-64 Years,17494,19923,17594,,,2329
+2021-12-14,Middlesex,Newton,65-74 Years,9938,11965,10090,,,1875
+2021-12-14,Middlesex,Newton,75+ Years,7438,8832,7495,,,1337
+2021-12-14,Middlesex,Newton,Total,91690,90008,78115,,,11893
+2021-12-14,Norfolk,Wellesley,5-11 Years,2692,1897,1071,,,826
+2021-12-14,Norfolk,Wellesley,12-15 Years,1831,1949,1794,,,155
+2021-12-14,Norfolk,Wellesley,16-19 Years,3319,2248,1915,,,333
+2021-12-14,Norfolk,Wellesley,20-29 Years,4462,3091,2510,,,581
+2021-12-14,Norfolk,Wellesley,30-49 Years,5413,5264,4695,,,569
+2021-12-14,Norfolk,Wellesley,50-64 Years,5510,6067,5393,,,674
+2021-12-14,Norfolk,Wellesley,65-74 Years,2621,2666,2183,,,483
+2021-12-14,Norfolk,Wellesley,75+ Years,2135,2433,2045,,,388
+2021-12-14,Norfolk,Wellesley,Total,29713,25618,21606,,,4012
+2021-12-21,Suffolk,Chelsea,5-11 Years,3144,1015,399,,,616
+2021-12-21,Suffolk,Chelsea,12-15 Years,1768,1885,1585,4,,300
+2021-12-21,Suffolk,Chelsea,16-19 Years,1762,1951,1569,91,,382
+2021-12-21,Suffolk,Chelsea,20-29 Years,6170,6084,4987,652,,1097
+2021-12-21,Suffolk,Chelsea,30-49 Years,11744,13061,11068,2351,,1993
+2021-12-21,Suffolk,Chelsea,50-64 Years,5861,6760,5863,2121,,897
+2021-12-21,Suffolk,Chelsea,65-74 Years,2092,2463,2179,1225,,284
+2021-12-21,Suffolk,Chelsea,75+ Years,1471,1670,1439,859,,231
+2021-12-21,Suffolk,Chelsea,Total,36918,34890,29089,7303,,5801
+2021-12-21,Suffolk,Revere,5-11 Years,4263,1155,514,,,641
+2021-12-21,Suffolk,Revere,12-15 Years,2613,2237,1951,1,,286
+2021-12-21,Suffolk,Revere,16-19 Years,2844,2450,2134,148,,316
+2021-12-21,Suffolk,Revere,20-29 Years,8303,7981,6816,878,,1165
+2021-12-21,Suffolk,Revere,30-49 Years,17705,17255,15240,3037,,2015
+2021-12-21,Suffolk,Revere,50-64 Years,12184,10847,9753,3282,,1094
+2021-12-21,Suffolk,Revere,65-74 Years,5047,4693,4202,2236,,491
+2021-12-21,Suffolk,Revere,75+ Years,4312,3471,2973,1767,,498
+2021-12-21,Suffolk,Revere,Total,60849,50089,43583,11349,,6506
+2021-12-21,Middlesex,Newton,5-11 Years,7107,6074,4982,1,,1092
+2021-12-21,Middlesex,Newton,12-15 Years,4932,5733,5213,20,,520
+2021-12-21,Middlesex,Newton,16-19 Years,8329,5548,4896,1125,,652
+2021-12-21,Middlesex,Newton,20-29 Years,12487,10095,8551,2851,,1544
+2021-12-21,Middlesex,Newton,30-49 Years,19706,22492,19724,10303,,2768
+2021-12-21,Middlesex,Newton,50-64 Years,17494,20029,17618,10854,,2411
+2021-12-21,Middlesex,Newton,65-74 Years,9938,11978,10093,7088,,1885
+2021-12-21,Middlesex,Newton,75+ Years,7438,8851,7510,5501,,1341
+2021-12-21,Middlesex,Newton,Total,91690,90802,78587,37743,,12215
+2021-12-21,Norfolk,Wellesley,5-11 Years,2692,1955,1183,,,772
+2021-12-21,Norfolk,Wellesley,12-15 Years,1831,1956,1799,6,,157
+2021-12-21,Norfolk,Wellesley,16-19 Years,3319,2288,1927,436,,361
+2021-12-21,Norfolk,Wellesley,20-29 Years,4462,3235,2544,860,,691
+2021-12-21,Norfolk,Wellesley,30-49 Years,5413,5318,4714,2684,,604
+2021-12-21,Norfolk,Wellesley,50-64 Years,5510,6109,5400,3552,,709
+2021-12-21,Norfolk,Wellesley,65-74 Years,2621,2677,2193,1588,,484
+2021-12-21,Norfolk,Wellesley,75+ Years,2135,2432,2048,1497,,384
+2021-12-21,Norfolk,Wellesley,Total,29713,25973,21808,10623,,4165
+2021-12-28,Suffolk,Chelsea,5-11 Years,3144,1075,444,0,,631
+2021-12-28,Suffolk,Chelsea,12-15 Years,1768,1899,1592,4,,307
+2021-12-28,Suffolk,Chelsea,16-19 Years,1762,1977,1583,116,,394
+2021-12-28,Suffolk,Chelsea,20-29 Years,6170,6130,5006,732,,1124
+2021-12-28,Suffolk,Chelsea,30-49 Years,11744,13130,11104,2570,,2026
+2021-12-28,Suffolk,Chelsea,50-64 Years,5861,6789,5882,2297,,907
+2021-12-28,Suffolk,Chelsea,65-74 Years,2092,2467,2177,1254,,290
+2021-12-28,Suffolk,Chelsea,75+ Years,1471,1676,1443,898,,233
+2021-12-28,Suffolk,Chelsea,Total,36918,35144,29231,7871,,5913
+2021-12-28,Suffolk,Revere,5-11 Years,4263,1232,593,0,,639
+2021-12-28,Suffolk,Revere,12-15 Years,2613,2254,1967,1,,287
+2021-12-28,Suffolk,Revere,16-19 Years,2844,2463,2141,198,,322
+2021-12-28,Suffolk,Revere,20-29 Years,8303,8035,6833,1028,,1202
+2021-12-28,Suffolk,Revere,30-49 Years,17705,17345,15289,3424,,2056
+2021-12-28,Suffolk,Revere,50-64 Years,12184,10871,9764,3580,,1107
+2021-12-28,Suffolk,Revere,65-74 Years,5047,4695,4209,2374,,486
+2021-12-28,Suffolk,Revere,75+ Years,4312,3468,2977,1828,,491
+2021-12-28,Suffolk,Revere,Total,60849,50363,43773,12433,,6590
+2021-12-28,Middlesex,Newton,5-11 Years,7107,6168,5200,1,,968
+2021-12-28,Middlesex,Newton,12-15 Years,4932,5739,5229,26,,510
+2021-12-28,Middlesex,Newton,16-19 Years,8329,5626,4930,1740,,696
+2021-12-28,Middlesex,Newton,20-29 Years,12487,10286,8579,3369,,1707
+2021-12-28,Middlesex,Newton,30-49 Years,19706,22553,19751,11086,,2802
+2021-12-28,Middlesex,Newton,50-64 Years,17494,20010,17617,11502,,2393
+2021-12-28,Middlesex,Newton,65-74 Years,9938,11906,10104,7308,,1802
+2021-12-28,Middlesex,Newton,75+ Years,7438,8788,7517,5657,,1271
+2021-12-28,Middlesex,Newton,Total,91690,91078,78927,40689,,12151
+2021-12-28,Norfolk,Wellesley,5-11 Years,2692,1999,1251,,,748
+2021-12-28,Norfolk,Wellesley,12-15 Years,1831,1961,1798,8,,163
+2021-12-28,Norfolk,Wellesley,16-19 Years,3319,2307,1936,666,,371
+2021-12-28,Norfolk,Wellesley,20-29 Years,4462,3337,2567,1007,,770
+2021-12-28,Norfolk,Wellesley,30-49 Years,5413,5324,4718,2863,,606
+2021-12-28,Norfolk,Wellesley,50-64 Years,5510,6120,5406,3750,,714
+2021-12-28,Norfolk,Wellesley,65-74 Years,2621,2672,2196,1627,,476
+2021-12-28,Norfolk,Wellesley,75+ Years,2135,2421,2060,1544,,361
+2021-12-28,Norfolk,Wellesley,Total,29713,26144,21932,11465,,4212
+2022-01-04,Suffolk,Chelsea,5-11 Years,3144,1174,556,0,,618
+2022-01-04,Suffolk,Chelsea,12-15 Years,1768,1924,1605,4,,319
+2022-01-04,Suffolk,Chelsea,16-19 Years,1762,2005,1597,140,,408
+2022-01-04,Suffolk,Chelsea,20-29 Years,6170,6196,5033,813,,1163
+2022-01-04,Suffolk,Chelsea,30-49 Years,11744,13223,11135,2818,,2088
+2022-01-04,Suffolk,Chelsea,50-64 Years,5861,6826,5899,2468,,927
+2022-01-04,Suffolk,Chelsea,65-74 Years,2092,2475,2180,1295,,295
+2022-01-04,Suffolk,Chelsea,75+ Years,1471,1674,1440,914,,234
+2022-01-04,Suffolk,Chelsea,Total,36918,35498,29445,8452,,6053
+2022-01-04,Suffolk,Revere,5-11 Years,4263,1359,747,0,,612
+2022-01-04,Suffolk,Revere,12-15 Years,2613,2281,1975,2,,306
+2022-01-04,Suffolk,Revere,16-19 Years,2844,2486,2150,252,,336
+2022-01-04,Suffolk,Revere,20-29 Years,8303,8071,6856,1174,,1215
+2022-01-04,Suffolk,Revere,30-49 Years,17705,17412,15307,3778,,2105
+2022-01-04,Suffolk,Revere,50-64 Years,12184,10932,9779,3853,,1153
+2022-01-04,Suffolk,Revere,65-74 Years,5047,4700,4210,2466,,490
+2022-01-04,Suffolk,Revere,75+ Years,4312,3469,2981,1881,,488
+2022-01-04,Suffolk,Revere,Total,60849,50710,44005,13406,,6705
+2022-01-04,Middlesex,Newton,5-11 Years,7107,6301,5463,1,,838
+2022-01-04,Middlesex,Newton,12-15 Years,4932,5752,5248,33,,504
+2022-01-04,Middlesex,Newton,16-19 Years,8329,5686,4953,2172,,733
+2022-01-04,Middlesex,Newton,20-29 Years,12487,10403,8597,3742,,1806
+2022-01-04,Middlesex,Newton,30-49 Years,19706,22551,19778,11668,,2773
+2022-01-04,Middlesex,Newton,50-64 Years,17494,19961,17645,12027,,2316
+2022-01-04,Middlesex,Newton,65-74 Years,9938,11811,10116,7523,,1695
+2022-01-04,Middlesex,Newton,75+ Years,7438,8731,7531,5790,,1200
+2022-01-04,Middlesex,Newton,Total,91690,91198,79331,42956,,11867
+2022-01-04,Norfolk,Wellesley,5-11 Years,2692,2124,1749,,,375
+2022-01-04,Norfolk,Wellesley,12-15 Years,1831,1964,1803,10,,161
+2022-01-04,Norfolk,Wellesley,16-19 Years,3319,2317,1941,811,,376
+2022-01-04,Norfolk,Wellesley,20-29 Years,4462,3396,2584,1112,,812
+2022-01-04,Norfolk,Wellesley,30-49 Years,5413,5326,4725,2976,,601
+2022-01-04,Norfolk,Wellesley,50-64 Years,5510,6101,5404,3893,,697
+2022-01-04,Norfolk,Wellesley,65-74 Years,2621,2647,2197,1665,,450
+2022-01-04,Norfolk,Wellesley,75+ Years,2135,2409,2062,1572,,347
+2022-01-04,Norfolk,Wellesley,Total,29713,26286,22465,12039,,3821
+2022-01-11,Suffolk,Chelsea,5-11 Years,3144,1346,671,0,,675
+2022-01-11,Suffolk,Chelsea,12-15 Years,1768,1956,1632,39,,324
+2022-01-11,Suffolk,Chelsea,16-19 Years,1762,2040,1606,193,,434
+2022-01-11,Suffolk,Chelsea,20-29 Years,6170,6287,5066,947,,1221
+2022-01-11,Suffolk,Chelsea,30-49 Years,11744,13349,11193,3154,,2156
+2022-01-11,Suffolk,Chelsea,50-64 Years,5861,6844,5920,2647,,924
+2022-01-11,Suffolk,Chelsea,65-74 Years,2092,2479,2184,1351,,295
+2022-01-11,Suffolk,Chelsea,75+ Years,1471,1669,1442,950,,227
+2022-01-11,Suffolk,Chelsea,Total,36918,35971,29714,9281,,6257
+2022-01-11,Suffolk,Revere,5-11 Years,4263,1508,902,0,,606
+2022-01-11,Suffolk,Revere,12-15 Years,2613,2304,1989,17,,315
+2022-01-11,Suffolk,Revere,16-19 Years,2844,2511,2160,343,,351
+2022-01-11,Suffolk,Revere,20-29 Years,8303,8171,6891,1376,,1280
+2022-01-11,Suffolk,Revere,30-49 Years,17705,17544,15372,4263,,2172
+2022-01-11,Suffolk,Revere,50-64 Years,12184,10965,9808,4216,,1157
+2022-01-11,Suffolk,Revere,65-74 Years,5047,4702,4222,2579,,480
+2022-01-11,Suffolk,Revere,75+ Years,4312,3455,2986,1947,,469
+2022-01-11,Suffolk,Revere,Total,60849,51160,44330,14741,,6830
+2022-01-11,Middlesex,Newton,5-11 Years,7107,6441,5620,2,,821
+2022-01-11,Middlesex,Newton,12-15 Years,4932,5778,5278,641,,500
+2022-01-11,Middlesex,Newton,16-19 Years,8329,5746,4974,2480,,772
+2022-01-11,Middlesex,Newton,20-29 Years,12487,10491,8648,4162,,1843
+2022-01-11,Middlesex,Newton,30-49 Years,19706,22475,19836,12464,,2639
+2022-01-11,Middlesex,Newton,50-64 Years,17494,19802,17673,12728,,2129
+2022-01-11,Middlesex,Newton,65-74 Years,9938,11570,10125,7861,,1445
+2022-01-11,Middlesex,Newton,75+ Years,7438,8591,7543,6022,,1048
+2022-01-11,Middlesex,Newton,Total,91690,90896,79697,46360,,11199
+2022-01-11,Norfolk,Wellesley,5-11 Years,2692,2164,1783,1,,381
+2022-01-11,Norfolk,Wellesley,12-15 Years,1831,1981,1826,208,,155
+2022-01-11,Norfolk,Wellesley,16-19 Years,3319,2334,1947,938,,387
+2022-01-11,Norfolk,Wellesley,20-29 Years,4462,3442,2596,1226,,846
+2022-01-11,Norfolk,Wellesley,30-49 Years,5413,5301,4739,3145,,562
+2022-01-11,Norfolk,Wellesley,50-64 Years,5510,6032,5422,4103,,610
+2022-01-11,Norfolk,Wellesley,65-74 Years,2621,2585,2206,1744,,379
+2022-01-11,Norfolk,Wellesley,75+ Years,2135,2364,2065,1637,,299
+2022-01-11,Norfolk,Wellesley,Total,29713,26205,22584,13002,,3621
+2022-01-18,Suffolk,Chelsea,5-11 Years,3144,1434,720,0,,714
+2022-01-18,Suffolk,Chelsea,12-15 Years,1768,1999,1647,64,,352
+2022-01-18,Suffolk,Chelsea,16-19 Years,1762,2067,1611,234,,456
+2022-01-18,Suffolk,Chelsea,20-29 Years,6170,6424,5099,1055,,1325
+2022-01-18,Suffolk,Chelsea,30-49 Years,11744,13458,11221,3395,,2237
+2022-01-18,Suffolk,Chelsea,50-64 Years,5861,6881,5937,2821,,944
+2022-01-18,Suffolk,Chelsea,65-74 Years,2092,2488,2190,1395,,298
+2022-01-18,Suffolk,Chelsea,75+ Years,1471,1674,1446,977,,228
+2022-01-18,Suffolk,Chelsea,Total,36918,36426,29871,9941,,6555
+2022-01-18,Suffolk,Revere,5-11 Years,4263,1636,964,0,,672
+2022-01-18,Suffolk,Revere,12-15 Years,2613,2333,2005,41,,328
+2022-01-18,Suffolk,Revere,16-19 Years,2844,2564,2179,415,,385
+2022-01-18,Suffolk,Revere,20-29 Years,8303,8314,6924,1576,,1390
+2022-01-18,Suffolk,Revere,30-49 Years,17705,17761,15436,4664,,2325
+2022-01-18,Suffolk,Revere,50-64 Years,12184,11016,9842,4552,,1174
+2022-01-18,Suffolk,Revere,65-74 Years,5047,4716,4230,2685,,486
+2022-01-18,Suffolk,Revere,75+ Years,4312,3462,2985,2005,,477
+2022-01-18,Suffolk,Revere,Total,60849,51802,44565,15938,,7237
+2022-01-18,Middlesex,Newton,5-11 Years,7107,6532,5729,2,,803
+2022-01-18,Middlesex,Newton,12-15 Years,4932,5858,5309,1403,,549
+2022-01-18,Middlesex,Newton,16-19 Years,8329,5804,4994,2804,,810
+2022-01-18,Middlesex,Newton,20-29 Years,12487,10632,8672,4451,,1960
+2022-01-18,Middlesex,Newton,30-49 Years,19706,22596,19876,12957,,2720
+2022-01-18,Middlesex,Newton,50-64 Years,17494,19851,17698,13082,,2153
+2022-01-18,Middlesex,Newton,65-74 Years,9938,11558,10133,7981,,1425
+2022-01-18,Middlesex,Newton,75+ Years,7438,8594,7546,6124,,1048
+2022-01-18,Middlesex,Newton,Total,91690,91427,79957,48804,,11470
+2022-01-18,Norfolk,Wellesley,5-11 Years,2692,2190,1830,1,,360
+2022-01-18,Norfolk,Wellesley,12-15 Years,1831,1991,1836,393,,155
+2022-01-18,Norfolk,Wellesley,16-19 Years,3319,2359,1956,1100,,403
+2022-01-18,Norfolk,Wellesley,20-29 Years,4462,3518,2622,1320,,896
+2022-01-18,Norfolk,Wellesley,30-49 Years,5413,5327,4744,3252,,583
+2022-01-18,Norfolk,Wellesley,50-64 Years,5510,6039,5431,4199,,608
+2022-01-18,Norfolk,Wellesley,65-74 Years,2621,2581,2211,1775,,370
+2022-01-18,Norfolk,Wellesley,75+ Years,2135,2366,2071,1678,,295
+2022-01-18,Norfolk,Wellesley,Total,29713,26373,22701,13718,,3672
+2022-01-25,Suffolk,Chelsea,5-11 Years,3144,1554,834,0,,720
+2022-01-25,Suffolk,Chelsea,12-15 Years,1768,2054,1667,107,,387
+2022-01-25,Suffolk,Chelsea,16-19 Years,1762,2123,1630,298,,493
+2022-01-25,Suffolk,Chelsea,20-29 Years,6170,6555,5150,1170,,1405
+2022-01-25,Suffolk,Chelsea,30-49 Years,11744,13591,11256,3661,,2335
+2022-01-25,Suffolk,Chelsea,50-64 Years,5861,6927,5947,2945,,980
+2022-01-25,Suffolk,Chelsea,65-74 Years,2092,2493,2194,1423,,299
+2022-01-25,Suffolk,Chelsea,75+ Years,1471,1676,1451,996,,225
+2022-01-25,Suffolk,Chelsea,Total,36918,36974,30129,10600,,6845
+2022-01-25,Suffolk,Revere,5-11 Years,4263,1759,1106,1,,653
+2022-01-25,Suffolk,Revere,12-15 Years,2613,2377,2036,107,,341
+2022-01-25,Suffolk,Revere,16-19 Years,2844,2598,2194,484,,404
+2022-01-25,Suffolk,Revere,20-29 Years,8303,8465,6976,1742,,1489
+2022-01-25,Suffolk,Revere,30-49 Years,17705,17966,15494,5043,,2472
+2022-01-25,Suffolk,Revere,50-64 Years,12184,11095,9865,4827,,1230
+2022-01-25,Suffolk,Revere,65-74 Years,5047,4731,4235,2767,,496
+2022-01-25,Suffolk,Revere,75+ Years,4312,3471,2987,2044,,484
+2022-01-25,Suffolk,Revere,Total,60849,52462,44893,17015,,7569
+2022-01-25,Middlesex,Newton,5-11 Years,7107,6617,5825,2,,792
+2022-01-25,Middlesex,Newton,12-15 Years,4932,5956,5333,2075,,623
+2022-01-25,Middlesex,Newton,16-19 Years,8329,5851,5005,2958,,846
+2022-01-25,Middlesex,Newton,20-29 Years,12487,10716,8687,4583,,2029
+2022-01-25,Middlesex,Newton,30-49 Years,19706,22706,19916,13218,,2790
+2022-01-25,Middlesex,Newton,50-64 Years,17494,19896,17722,13237,,2174
+2022-01-25,Middlesex,Newton,65-74 Years,9938,11566,10137,8048,,1429
+2022-01-25,Middlesex,Newton,75+ Years,7438,8614,7551,6171,,1063
+2022-01-25,Middlesex,Newton,Total,91690,91924,80176,50292,,11748
+2022-01-25,Norfolk,Wellesley,5-11 Years,2692,2212,1855,1,,357
+2022-01-25,Norfolk,Wellesley,12-15 Years,1831,2010,1846,610,,164
+2022-01-25,Norfolk,Wellesley,16-19 Years,3319,2409,1966,1154,,443
+2022-01-25,Norfolk,Wellesley,20-29 Years,4462,3586,2626,1350,,960
+2022-01-25,Norfolk,Wellesley,30-49 Years,5413,5349,4754,3297,,595
+2022-01-25,Norfolk,Wellesley,50-64 Years,5510,6054,5443,4241,,611
+2022-01-25,Norfolk,Wellesley,65-74 Years,2621,2583,2214,1782,,369
+2022-01-25,Norfolk,Wellesley,75+ Years,2135,2368,2071,1696,,297
+2022-01-25,Norfolk,Wellesley,Total,29713,26573,22775,14131,,3798
+2022-02-01,Suffolk,Chelsea,5-11 Years,3144,1619,886,0,,733
+2022-02-01,Suffolk,Chelsea,12-15 Years,1768,2068,1687,128,,381
+2022-02-01,Suffolk,Chelsea,16-19 Years,1762,2142,1638,321,,504
+2022-02-01,Suffolk,Chelsea,20-29 Years,6170,6609,5171,1234,,1438
+2022-02-01,Suffolk,Chelsea,30-49 Years,11744,13685,11292,3792,,2393
+2022-02-01,Suffolk,Chelsea,50-64 Years,5861,6944,5943,3007,,1001
+2022-02-01,Suffolk,Chelsea,65-74 Years,2092,2502,2197,1442,,305
+2022-02-01,Suffolk,Chelsea,75+ Years,1471,1678,1452,1007,,226
+2022-02-01,Suffolk,Chelsea,Total,36918,37248,30266,10931,,6982
+2022-02-01,Suffolk,Revere,5-11 Years,4263,1838,1216,2,,622
+2022-02-01,Suffolk,Revere,12-15 Years,2613,2403,2057,153,,346
+2022-02-01,Suffolk,Revere,16-19 Years,2844,2615,2210,526,,405
+2022-02-01,Suffolk,Revere,20-29 Years,8303,8540,7016,1857,,1524
+2022-02-01,Suffolk,Revere,30-49 Years,17705,18080,15551,5306,,2529
+2022-02-01,Suffolk,Revere,50-64 Years,12184,11130,9883,5018,,1247
+2022-02-01,Suffolk,Revere,65-74 Years,5047,4739,4238,2818,,501
+2022-02-01,Suffolk,Revere,75+ Years,4312,3483,2993,2072,,490
+2022-02-01,Suffolk,Revere,Total,60849,52828,45164,17752,,7664
+2022-02-01,Middlesex,Newton,5-11 Years,7107,6661,5939,4,,722
+2022-02-01,Middlesex,Newton,12-15 Years,4932,5957,5345,2330,,612
+2022-02-01,Middlesex,Newton,16-19 Years,8329,5872,5020,3049,,852
+2022-02-01,Middlesex,Newton,20-29 Years,12487,10775,8706,4695,,2069
+2022-02-01,Middlesex,Newton,30-49 Years,19706,22774,19945,13355,,2829
+2022-02-01,Middlesex,Newton,50-64 Years,17494,19917,17738,13354,,2179
+2022-02-01,Middlesex,Newton,65-74 Years,9938,11553,10137,8072,,1416
+2022-02-01,Middlesex,Newton,75+ Years,7438,8613,7554,6202,,1059
+2022-02-01,Middlesex,Newton,Total,91690,92124,80384,51061,,11740
+2022-02-01,Norfolk,Wellesley,5-11 Years,2692,2226,1891,1,,335
+2022-02-01,Norfolk,Wellesley,12-15 Years,1831,2006,1845,722,,161
+2022-02-01,Norfolk,Wellesley,16-19 Years,3319,2438,1970,1182,,468
+2022-02-01,Norfolk,Wellesley,20-29 Years,4462,3621,2632,1373,,989
+2022-02-01,Norfolk,Wellesley,30-49 Years,5413,5353,4756,3331,,597
+2022-02-01,Norfolk,Wellesley,50-64 Years,5510,6052,5443,4264,,609
+2022-02-01,Norfolk,Wellesley,65-74 Years,2621,2581,2216,1794,,365
+2022-02-01,Norfolk,Wellesley,75+ Years,2135,2370,2072,1702,,298
+2022-02-01,Norfolk,Wellesley,Total,29713,26649,22825,14369,,3824
+2022-02-08,Suffolk,Chelsea,5-11 Years,3144,1694,982,0,,712
+2022-02-08,Suffolk,Chelsea,12-15 Years,1768,2086,1709,162,,377
+2022-02-08,Suffolk,Chelsea,16-19 Years,1762,2162,1660,342,,502
+2022-02-08,Suffolk,Chelsea,20-29 Years,6170,6663,5222,1289,,1441
+2022-02-08,Suffolk,Chelsea,30-49 Years,11744,13778,11369,3981,,2409
+2022-02-08,Suffolk,Chelsea,50-64 Years,5861,6971,5956,3090,,1015
+2022-02-08,Suffolk,Chelsea,65-74 Years,2092,2506,2202,1455,,304
+2022-02-08,Suffolk,Chelsea,75+ Years,1471,1679,1452,1013,,227
+2022-02-08,Suffolk,Chelsea,Total,36918,37540,30552,11332,,6988
+2022-02-08,Suffolk,Revere,5-11 Years,4263,1889,1339,3,,550
+2022-02-08,Suffolk,Revere,12-15 Years,2613,2421,2078,179,,343
+2022-02-08,Suffolk,Revere,16-19 Years,2844,2633,2227,560,,406
+2022-02-08,Suffolk,Revere,20-29 Years,8303,8615,7073,1959,,1542
+2022-02-08,Suffolk,Revere,30-49 Years,17705,18195,15641,5528,,2554
+2022-02-08,Suffolk,Revere,50-64 Years,12184,11153,9905,5153,,1248
+2022-02-08,Suffolk,Revere,65-74 Years,5047,4739,4237,2863,,502
+2022-02-08,Suffolk,Revere,75+ Years,4312,3483,2992,2095,,491
+2022-02-08,Suffolk,Revere,Total,60849,53128,45492,18340,,7636
+2022-02-08,Middlesex,Newton,5-11 Years,7107,6688,6029,4,,659
+2022-02-08,Middlesex,Newton,12-15 Years,4932,5989,5367,2458,,622
+2022-02-08,Middlesex,Newton,16-19 Years,8329,5902,5029,3103,,873
+2022-02-08,Middlesex,Newton,20-29 Years,12487,10837,8737,4782,,2100
+2022-02-08,Middlesex,Newton,30-49 Years,19706,22796,19961,13450,,2835
+2022-02-08,Middlesex,Newton,50-64 Years,17494,19930,17754,13424,,2176
+2022-02-08,Middlesex,Newton,65-74 Years,9938,11548,10139,8105,,1409
+2022-02-08,Middlesex,Newton,75+ Years,7438,8616,7557,6236,,1059
+2022-02-08,Middlesex,Newton,Total,91690,92308,80573,51562,,11735
+2022-02-08,Norfolk,Wellesley,5-11 Years,2692,2231,1930,1,,301
+2022-02-08,Norfolk,Wellesley,12-15 Years,1831,2005,1848,766,,157
+2022-02-08,Norfolk,Wellesley,16-19 Years,3319,2466,1975,1220,,491
+2022-02-08,Norfolk,Wellesley,20-29 Years,4462,3629,2629,1389,,1000
+2022-02-08,Norfolk,Wellesley,30-49 Years,5413,5354,4753,3343,,601
+2022-02-08,Norfolk,Wellesley,50-64 Years,5510,6047,5445,4282,,602
+2022-02-08,Norfolk,Wellesley,65-74 Years,2621,2576,2215,1797,,361
+2022-02-08,Norfolk,Wellesley,75+ Years,2135,2371,2071,1704,,300
+2022-02-08,Norfolk,Wellesley,Total,29713,26681,22866,14502,,3815
+2022-02-15,Suffolk,Chelsea,5-11 Years,3144,1767,1089,0,,678
+2022-02-15,Suffolk,Chelsea,12-15 Years,1768,2123,1742,201,,381
+2022-02-15,Suffolk,Chelsea,16-19 Years,1762,2183,1679,365,,504
+2022-02-15,Suffolk,Chelsea,20-29 Years,6170,6711,5280,1348,,1431
+2022-02-15,Suffolk,Chelsea,30-49 Years,11744,13837,11421,4118,,2416
+2022-02-15,Suffolk,Chelsea,50-64 Years,5861,6985,5967,3190,,1018
+2022-02-15,Suffolk,Chelsea,65-74 Years,2092,2507,2209,1475,,298
+2022-02-15,Suffolk,Chelsea,75+ Years,1471,1673,1453,1026,,220
+2022-02-15,Suffolk,Chelsea,Total,36918,37787,30840,11723,,6947
+2022-02-15,Suffolk,Revere,5-11 Years,4263,1963,1451,3,,512
+2022-02-15,Suffolk,Revere,12-15 Years,2613,2441,2110,210,,331
+2022-02-15,Suffolk,Revere,16-19 Years,2844,2646,2250,607,,396
+2022-02-15,Suffolk,Revere,20-29 Years,8303,8670,7114,2045,,1556
+2022-02-15,Suffolk,Revere,30-49 Years,17705,18316,15721,5718,,2595
+2022-02-15,Suffolk,Revere,50-64 Years,12184,11179,9924,5302,,1255
+2022-02-15,Suffolk,Revere,65-74 Years,5047,4748,4244,2893,,504
+2022-02-15,Suffolk,Revere,75+ Years,4312,3480,2998,2123,,482
+2022-02-15,Suffolk,Revere,Total,60849,53443,45812,18901,,7631
+2022-02-15,Middlesex,Newton,5-11 Years,7107,6728,6143,6,,585
+2022-02-15,Middlesex,Newton,12-15 Years,4932,5999,5385,2538,,614
+2022-02-15,Middlesex,Newton,16-19 Years,8329,5936,5032,3154,,904
+2022-02-15,Middlesex,Newton,20-29 Years,12487,10895,8748,4858,,2147
+2022-02-15,Middlesex,Newton,30-49 Years,19706,22836,19984,13570,,2852
+2022-02-15,Middlesex,Newton,50-64 Years,17494,19952,17778,13513,,2174
+2022-02-15,Middlesex,Newton,65-74 Years,9938,11559,10147,8129,,1412
+2022-02-15,Middlesex,Newton,75+ Years,7438,8611,7553,6256,,1058
+2022-02-15,Middlesex,Newton,Total,91690,92518,80770,52024,,11748
+2022-02-15,Norfolk,Wellesley,5-11 Years,2692,2238,1955,1,,283
+2022-02-15,Norfolk,Wellesley,12-15 Years,1831,2009,1853,788,,156
+2022-02-15,Norfolk,Wellesley,16-19 Years,3319,2480,1977,1230,,503
+2022-02-15,Norfolk,Wellesley,20-29 Years,4462,3639,2633,1399,,1006
+2022-02-15,Norfolk,Wellesley,30-49 Years,5413,5360,4759,3361,,601
+2022-02-15,Norfolk,Wellesley,50-64 Years,5510,6044,5448,4298,,596
+2022-02-15,Norfolk,Wellesley,65-74 Years,2621,2575,2214,1798,,361
+2022-02-15,Norfolk,Wellesley,75+ Years,2135,2367,2068,1709,,299
+2022-02-15,Norfolk,Wellesley,Total,29713,26714,22907,14584,,3807
+2022-02-22,Suffolk,Chelsea,5-11 Years,3144,1849,1160,0,,689
+2022-02-22,Suffolk,Chelsea,12-15 Years,1768,2148,1763,233,,385
+2022-02-22,Suffolk,Chelsea,16-19 Years,1762,2200,1691,385,,509
+2022-02-22,Suffolk,Chelsea,20-29 Years,6170,6745,5331,1403,,1414
+2022-02-22,Suffolk,Chelsea,30-49 Years,11744,13881,11456,4256,,2425
+2022-02-22,Suffolk,Chelsea,50-64 Years,5861,7005,5981,3258,,1024
+2022-02-22,Suffolk,Chelsea,65-74 Years,2092,2511,2212,1501,,299
+2022-02-22,Suffolk,Chelsea,75+ Years,1471,1671,1451,1031,,220
+2022-02-22,Suffolk,Chelsea,Total,36918,38011,31045,12067,,6966
+2022-02-22,Suffolk,Revere,5-11 Years,4263,2006,1501,3,,505
+2022-02-22,Suffolk,Revere,12-15 Years,2613,2463,2131,237,,332
+2022-02-22,Suffolk,Revere,16-19 Years,2844,2666,2269,638,,397
+2022-02-22,Suffolk,Revere,20-29 Years,8303,8729,7163,2134,,1566
+2022-02-22,Suffolk,Revere,30-49 Years,17705,18395,15778,5915,,2617
+2022-02-22,Suffolk,Revere,50-64 Years,12184,11192,9942,5405,,1250
+2022-02-22,Suffolk,Revere,65-74 Years,5047,4745,4245,2933,,500
+2022-02-22,Suffolk,Revere,75+ Years,4312,3482,3004,2146,,478
+2022-02-22,Suffolk,Revere,Total,60849,53678,46033,19411,,7645
+2022-02-22,Middlesex,Newton,5-11 Years,7107,6758,6183,7,,575
+2022-02-22,Middlesex,Newton,12-15 Years,4932,6012,5388,2589,,624
+2022-02-22,Middlesex,Newton,16-19 Years,8329,5940,5040,3182,,900
+2022-02-22,Middlesex,Newton,20-29 Years,12487,10909,8756,4905,,2153
+2022-02-22,Middlesex,Newton,30-49 Years,19706,22855,19994,13648,,2861
+2022-02-22,Middlesex,Newton,50-64 Years,17494,19949,17777,13558,,2172
+2022-02-22,Middlesex,Newton,65-74 Years,9938,11562,10150,8147,,1412
+2022-02-22,Middlesex,Newton,75+ Years,7438,8615,7561,6278,,1054
+2022-02-22,Middlesex,Newton,Total,91690,92602,80849,52314,,11753
+2022-02-22,Norfolk,Wellesley,5-11 Years,2692,2244,1970,1,,274
+2022-02-22,Norfolk,Wellesley,12-15 Years,1831,2014,1863,813,,151
+2022-02-22,Norfolk,Wellesley,16-19 Years,3319,2488,1983,1243,,505
+2022-02-22,Norfolk,Wellesley,20-29 Years,4462,3651,2643,1415,,1008
+2022-02-22,Norfolk,Wellesley,30-49 Years,5413,5361,4765,3383,,596
+2022-02-22,Norfolk,Wellesley,50-64 Years,5510,6042,5448,4307,,594
+2022-02-22,Norfolk,Wellesley,65-74 Years,2621,2575,2217,1805,,358
+2022-02-22,Norfolk,Wellesley,75+ Years,2135,2365,2069,1716,,296
+2022-02-22,Norfolk,Wellesley,Total,29713,26742,22958,14683,,3784
+2022-03-01,Suffolk,Chelsea,5-11 Years,3144,1905,1206,0,,699
+2022-03-01,Suffolk,Chelsea,12-15 Years,1768,2163,1769,249,,394
+2022-03-01,Suffolk,Chelsea,16-19 Years,1762,2210,1697,398,,513
+2022-03-01,Suffolk,Chelsea,20-29 Years,6170,6774,5355,1447,,1419
+2022-03-01,Suffolk,Chelsea,30-49 Years,11744,13913,11477,4347,,2436
+2022-03-01,Suffolk,Chelsea,50-64 Years,5861,7014,5983,3301,,1031
+2022-03-01,Suffolk,Chelsea,65-74 Years,2092,2507,2212,1510,,295
+2022-03-01,Suffolk,Chelsea,75+ Years,1471,1670,1454,1036,,216
+2022-03-01,Suffolk,Chelsea,Total,36918,38157,31153,12288,,7004
+2022-03-01,Suffolk,Revere,5-11 Years,4263,2047,1539,3,,508
+2022-03-01,Suffolk,Revere,12-15 Years,2613,2474,2144,268,,330
+2022-03-01,Suffolk,Revere,16-19 Years,2844,2667,2279,671,,388
+2022-03-01,Suffolk,Revere,20-29 Years,8303,8749,7210,2219,,1539
+2022-03-01,Suffolk,Revere,30-49 Years,17705,18414,15815,6103,,2599
+2022-03-01,Suffolk,Revere,50-64 Years,12184,11182,9960,5489,,1222
+2022-03-01,Suffolk,Revere,65-74 Years,5047,4728,4247,2983,,481
+2022-03-01,Suffolk,Revere,75+ Years,4312,3471,3008,2169,,463
+2022-03-01,Suffolk,Revere,Total,60849,53732,46202,19905,,7530
+2022-03-01,Middlesex,Newton,5-11 Years,7107,6772,6205,7,,567
+2022-03-01,Middlesex,Newton,12-15 Years,4932,6012,5393,2629,,619
+2022-03-01,Middlesex,Newton,16-19 Years,8329,5939,5046,3206,,893
+2022-03-01,Middlesex,Newton,20-29 Years,12487,10925,8767,4946,,2158
+2022-03-01,Middlesex,Newton,30-49 Years,19706,22869,20012,13727,,2857
+2022-03-01,Middlesex,Newton,50-64 Years,17494,19949,17785,13616,,2164
+2022-03-01,Middlesex,Newton,65-74 Years,9938,11559,10160,8167,,1399
+2022-03-01,Middlesex,Newton,75+ Years,7438,8613,7563,6284,,1050
+2022-03-01,Middlesex,Newton,Total,91690,92640,80931,52582,,11709
+2022-03-01,Norfolk,Wellesley,5-11 Years,2692,2246,1980,1,,266
+2022-03-01,Norfolk,Wellesley,12-15 Years,1831,2014,1871,829,,143
+2022-03-01,Norfolk,Wellesley,16-19 Years,3319,2492,1987,1253,,505
+2022-03-01,Norfolk,Wellesley,20-29 Years,4462,3661,2650,1435,,1011
+2022-03-01,Norfolk,Wellesley,30-49 Years,5413,5366,4771,3400,,595
+2022-03-01,Norfolk,Wellesley,50-64 Years,5510,6041,5452,4318,,589
+2022-03-01,Norfolk,Wellesley,65-74 Years,2621,2571,2217,1814,,354
+2022-03-01,Norfolk,Wellesley,75+ Years,2135,2363,2070,1721,,293
+2022-03-01,Norfolk,Wellesley,Total,29713,26756,22998,14771,,3758
+2022-03-08,Suffolk,Chelsea,5-11 Years,3144,1957,1266,0,,691
+2022-03-08,Suffolk,Chelsea,12-15 Years,1768,2181,1791,267,,390
+2022-03-08,Suffolk,Chelsea,16-19 Years,1762,2222,1709,417,,513
+2022-03-08,Suffolk,Chelsea,20-29 Years,6170,6798,5372,1481,,1426
+2022-03-08,Suffolk,Chelsea,30-49 Years,11744,13935,11508,4421,,2427
+2022-03-08,Suffolk,Chelsea,50-64 Years,5861,7023,5987,3339,,1036
+2022-03-08,Suffolk,Chelsea,65-74 Years,2092,2510,2210,1519,,300
+2022-03-08,Suffolk,Chelsea,75+ Years,1471,1671,1455,1043,,216
+2022-03-08,Suffolk,Chelsea,Total,36918,38298,31298,12487,,7000
+2022-03-08,Suffolk,Revere,5-11 Years,4263,2077,1618,3,,459
+2022-03-08,Suffolk,Revere,12-15 Years,2613,2479,2151,284,,328
+2022-03-08,Suffolk,Revere,16-19 Years,2844,2685,2292,688,,393
+2022-03-08,Suffolk,Revere,20-29 Years,8303,8773,7233,2257,,1540
+2022-03-08,Suffolk,Revere,30-49 Years,17705,18431,15842,6175,,2589
+2022-03-08,Suffolk,Revere,50-64 Years,12184,11192,9970,5560,,1222
+2022-03-08,Suffolk,Revere,65-74 Years,5047,4727,4248,3000,,479
+2022-03-08,Suffolk,Revere,75+ Years,4312,3466,3011,2184,,455
+2022-03-08,Suffolk,Revere,Total,60849,53830,46365,20151,,7465
+2022-03-08,Middlesex,Newton,5-11 Years,7107,6799,6231,7,,568
+2022-03-08,Middlesex,Newton,12-15 Years,4932,6022,5402,2675,,620
+2022-03-08,Middlesex,Newton,16-19 Years,8329,5941,5046,3233,,895
+2022-03-08,Middlesex,Newton,20-29 Years,12487,10932,8768,4960,,2164
+2022-03-08,Middlesex,Newton,30-49 Years,19706,22877,20019,13781,,2858
+2022-03-08,Middlesex,Newton,50-64 Years,17494,19960,17795,13660,,2165
+2022-03-08,Middlesex,Newton,65-74 Years,9938,11548,10159,8183,,1389
+2022-03-08,Middlesex,Newton,75+ Years,7438,8612,7567,6296,,1045
+2022-03-08,Middlesex,Newton,Total,91690,92693,80987,52795,,11706
+2022-03-08,Norfolk,Wellesley,5-11 Years,2692,2249,1983,1,,266
+2022-03-08,Norfolk,Wellesley,12-15 Years,1831,2013,1872,841,,141
+2022-03-08,Norfolk,Wellesley,16-19 Years,3319,2492,1990,1262,,502
+2022-03-08,Norfolk,Wellesley,20-29 Years,4462,3645,2644,1446,,1001
+2022-03-08,Norfolk,Wellesley,30-49 Years,5413,5367,4772,3418,,595
+2022-03-08,Norfolk,Wellesley,50-64 Years,5510,6044,5452,4325,,592
+2022-03-08,Norfolk,Wellesley,65-74 Years,2621,2573,2219,1817,,354
+2022-03-08,Norfolk,Wellesley,75+ Years,2135,2363,2071,1726,,292
+2022-03-08,Norfolk,Wellesley,Total,29713,26748,23003,14836,,3745
+2022-03-15,Suffolk,Chelsea,5-11 Years,3144,1998,1328,0,,670
+2022-03-15,Suffolk,Chelsea,12-15 Years,1768,2191,1795,285,,396
+2022-03-15,Suffolk,Chelsea,16-19 Years,1762,2233,1712,426,,521
+2022-03-15,Suffolk,Chelsea,20-29 Years,6170,6814,5387,1502,,1427
+2022-03-15,Suffolk,Chelsea,30-49 Years,11744,13959,11528,4489,,2431
+2022-03-15,Suffolk,Chelsea,50-64 Years,5861,7029,5993,3371,,1036
+2022-03-15,Suffolk,Chelsea,65-74 Years,2092,2511,2212,1532,,299
+2022-03-15,Suffolk,Chelsea,75+ Years,1471,1671,1457,1046,,214
+2022-03-15,Suffolk,Chelsea,Total,36918,38407,31412,12651,,6995
+2022-03-15,Suffolk,Revere,5-11 Years,4263,2112,1656,4,,456
+2022-03-15,Suffolk,Revere,12-15 Years,2613,2483,2162,303,,321
+2022-03-15,Suffolk,Revere,16-19 Years,2844,2691,2300,712,,391
+2022-03-15,Suffolk,Revere,20-29 Years,8303,8787,7238,2291,,1549
+2022-03-15,Suffolk,Revere,30-49 Years,17705,18451,15869,6260,,2582
+2022-03-15,Suffolk,Revere,50-64 Years,12184,11197,9974,5608,,1223
+2022-03-15,Suffolk,Revere,65-74 Years,5047,4727,4253,3016,,474
+2022-03-15,Suffolk,Revere,75+ Years,4312,3465,3012,2203,,453
+2022-03-15,Suffolk,Revere,Total,60849,53913,46464,20397,,7449
+2022-03-15,Middlesex,Newton,5-11 Years,7107,6807,6244,7,,563
+2022-03-15,Middlesex,Newton,12-15 Years,4932,6026,5407,2704,,619
+2022-03-15,Middlesex,Newton,16-19 Years,8329,5940,5047,3252,,893
+2022-03-15,Middlesex,Newton,20-29 Years,12487,10936,8765,4978,,2171
+2022-03-15,Middlesex,Newton,30-49 Years,19706,22862,20007,13827,,2855
+2022-03-15,Middlesex,Newton,50-64 Years,17494,19949,17802,13686,,2147
+2022-03-15,Middlesex,Newton,65-74 Years,9938,11542,10161,8194,,1381
+2022-03-15,Middlesex,Newton,75+ Years,7438,8605,7569,6309,,1036
+2022-03-15,Middlesex,Newton,Total,91690,92669,81002,52957,,11667
+2022-03-15,Norfolk,Wellesley,5-11 Years,2692,2254,1987,1,,267
+2022-03-15,Norfolk,Wellesley,12-15 Years,1831,2017,1873,855,,144
+2022-03-15,Norfolk,Wellesley,16-19 Years,3319,2504,1994,1279,,510
+2022-03-15,Norfolk,Wellesley,20-29 Years,4462,3644,2643,1454,,1001
+2022-03-15,Norfolk,Wellesley,30-49 Years,5413,5370,4775,3428,,595
+2022-03-15,Norfolk,Wellesley,50-64 Years,5510,6040,5454,4334,,586
+2022-03-15,Norfolk,Wellesley,65-74 Years,2621,2574,2219,1819,,355
+2022-03-15,Norfolk,Wellesley,75+ Years,2135,2363,2073,1730,,290
+2022-03-15,Norfolk,Wellesley,Total,29713,26768,23018,14900,,3750
+2022-03-22,Suffolk,Chelsea,5-11 Years,3144,2022,1376,0,,646
+2022-03-22,Suffolk,Chelsea,12-15 Years,1768,2197,1810,298,,387
+2022-03-22,Suffolk,Chelsea,16-19 Years,1762,2237,1717,440,,520
+2022-03-22,Suffolk,Chelsea,20-29 Years,6170,6830,5393,1533,,1437
+2022-03-22,Suffolk,Chelsea,30-49 Years,11744,13964,11545,4542,,2419
+2022-03-22,Suffolk,Chelsea,50-64 Years,5861,7034,5991,3403,,1043
+2022-03-22,Suffolk,Chelsea,65-74 Years,2092,2511,2215,1540,,296
+2022-03-22,Suffolk,Chelsea,75+ Years,1471,1671,1457,1051,,214
+2022-03-22,Suffolk,Chelsea,Total,36918,38467,31504,12807,,6963
+2022-03-22,Suffolk,Revere,5-11 Years,4263,2139,1682,4,,457
+2022-03-22,Suffolk,Revere,12-15 Years,2613,2493,2176,316,,317
+2022-03-22,Suffolk,Revere,16-19 Years,2844,2694,2307,730,,387
+2022-03-22,Suffolk,Revere,20-29 Years,8303,8805,7253,2322,,1552
+2022-03-22,Suffolk,Revere,30-49 Years,17705,18470,15884,6315,,2586
+2022-03-22,Suffolk,Revere,50-64 Years,12184,11202,9978,5672,,1224
+2022-03-22,Suffolk,Revere,65-74 Years,5047,4725,4256,3035,,469
+2022-03-22,Suffolk,Revere,75+ Years,4312,3466,3015,2213,,451
+2022-03-22,Suffolk,Revere,Total,60849,53994,46551,20607,,7443
+2022-03-22,Middlesex,Newton,5-11 Years,7107,6817,6271,7,,546
+2022-03-22,Middlesex,Newton,12-15 Years,4932,6039,5415,2734,,624
+2022-03-22,Middlesex,Newton,16-19 Years,8329,5928,5045,3271,,883
+2022-03-22,Middlesex,Newton,20-29 Years,12487,10929,8763,5009,,2166
+2022-03-22,Middlesex,Newton,30-49 Years,19706,22836,20015,13886,,2821
+2022-03-22,Middlesex,Newton,50-64 Years,17494,19916,17807,13741,,2109
+2022-03-22,Middlesex,Newton,65-74 Years,9938,11526,10159,8228,,1367
+2022-03-22,Middlesex,Newton,75+ Years,7438,8595,7571,6338,,1024
+2022-03-22,Middlesex,Newton,Total,91690,92588,81046,53214,,11542
+2022-03-22,Norfolk,Wellesley,5-11 Years,2692,2258,1995,1,,263
+2022-03-22,Norfolk,Wellesley,12-15 Years,1831,2020,1873,866,,147
+2022-03-22,Norfolk,Wellesley,16-19 Years,3319,2510,1994,1285,,516
+2022-03-22,Norfolk,Wellesley,20-29 Years,4462,3647,2643,1464,,1004
+2022-03-22,Norfolk,Wellesley,30-49 Years,5413,5373,4775,3436,,598
+2022-03-22,Norfolk,Wellesley,50-64 Years,5510,6039,5452,4341,,587
+2022-03-22,Norfolk,Wellesley,65-74 Years,2621,2573,2218,1820,,355
+2022-03-22,Norfolk,Wellesley,75+ Years,2135,2359,2073,1738,,286
+2022-03-22,Norfolk,Wellesley,Total,29713,26781,23023,14951,,3758
+2022-03-29,Suffolk,Chelsea,5-11 Years,3144,2043,1416,0,,627
+2022-03-29,Suffolk,Chelsea,12-15 Years,1768,2207,1819,311,,388
+2022-03-29,Suffolk,Chelsea,16-19 Years,1762,2242,1719,451,,523
+2022-03-29,Suffolk,Chelsea,20-29 Years,6170,6852,5407,1564,,1445
+2022-03-29,Suffolk,Chelsea,30-49 Years,11744,13968,11555,4587,,2413
+2022-03-29,Suffolk,Chelsea,50-64 Years,5861,7037,5994,3430,,1043
+2022-03-29,Suffolk,Chelsea,65-74 Years,2092,2513,2216,1546,,297
+2022-03-29,Suffolk,Chelsea,75+ Years,1471,1670,1460,1058,,210
+2022-03-29,Suffolk,Chelsea,Total,36918,38533,31586,12947,,6947
+2022-03-29,Suffolk,Revere,5-11 Years,4263,2156,1708,4,,448
+2022-03-29,Suffolk,Revere,12-15 Years,2613,2502,2181,328,,321
+2022-03-29,Suffolk,Revere,16-19 Years,2844,2698,2313,743,,385
+2022-03-29,Suffolk,Revere,20-29 Years,8303,8814,7270,2362,,1544
+2022-03-29,Suffolk,Revere,30-49 Years,17705,18477,15898,6393,,2579
+2022-03-29,Suffolk,Revere,50-64 Years,12184,11209,9989,5733,,1220
+2022-03-29,Suffolk,Revere,65-74 Years,5047,4727,4259,3058,,468
+2022-03-29,Suffolk,Revere,75+ Years,4312,3465,3018,2220,,447
+2022-03-29,Suffolk,Revere,Total,60849,54048,46636,20841,,7412
+2022-03-29,Middlesex,Newton,5-11 Years,7107,6837,6295,7,,542
+2022-03-29,Middlesex,Newton,12-15 Years,4932,6026,5410,2782,,616
+2022-03-29,Middlesex,Newton,16-19 Years,8329,5917,5050,3295,,867
+2022-03-29,Middlesex,Newton,20-29 Years,12487,10946,8776,5044,,2170
+2022-03-29,Middlesex,Newton,30-49 Years,19706,22822,20020,13942,,2802
+2022-03-29,Middlesex,Newton,50-64 Years,17494,19894,17810,13790,,2084
+2022-03-29,Middlesex,Newton,65-74 Years,9938,11502,10163,8266,,1339
+2022-03-29,Middlesex,Newton,75+ Years,7438,8585,7575,6364,,1010
+2022-03-29,Middlesex,Newton,Total,91690,92531,81099,53490,,11432
+2022-03-29,Norfolk,Wellesley,5-11 Years,2692,2259,1996,1,,263
+2022-03-29,Norfolk,Wellesley,12-15 Years,1831,2021,1874,878,,147
+2022-03-29,Norfolk,Wellesley,16-19 Years,3319,2515,1993,1292,,522
+2022-03-29,Norfolk,Wellesley,20-29 Years,4462,3654,2642,1471,,1012
+2022-03-29,Norfolk,Wellesley,30-49 Years,5413,5373,4773,3442,,600
+2022-03-29,Norfolk,Wellesley,50-64 Years,5510,6040,5452,4351,,588
+2022-03-29,Norfolk,Wellesley,65-74 Years,2621,2572,2219,1822,,353
+2022-03-29,Norfolk,Wellesley,75+ Years,2135,2361,2077,1739,,284
+2022-03-29,Norfolk,Wellesley,Total,29713,26797,23026,14996,,3771
+2022-04-05,Suffolk,Chelsea,5-11 Years,3144,2062,1439,1,,623
+2022-04-05,Suffolk,Chelsea,12-15 Years,1768,2215,1826,323,,389
+2022-04-05,Suffolk,Chelsea,16-19 Years,1762,2244,1718,462,,526
+2022-04-05,Suffolk,Chelsea,20-29 Years,6170,6863,5418,1579,,1445
+2022-04-05,Suffolk,Chelsea,30-49 Years,11744,13988,11561,4627,,2427
+2022-04-05,Suffolk,Chelsea,50-64 Years,5861,7040,5996,3458,,1044
+2022-04-05,Suffolk,Chelsea,65-74 Years,2092,2516,2223,1556,,293
+2022-04-05,Suffolk,Chelsea,75+ Years,1471,1669,1460,1062,,209
+2022-04-05,Suffolk,Chelsea,Total,36918,38598,31641,13068,,6957
+2022-04-05,Suffolk,Revere,5-11 Years,4263,2178,1725,4,,453
+2022-04-05,Suffolk,Revere,12-15 Years,2613,2505,2191,338,,314
+2022-04-05,Suffolk,Revere,16-19 Years,2844,2703,2316,753,,387
+2022-04-05,Suffolk,Revere,20-29 Years,8303,8817,7273,2397,,1544
+2022-04-05,Suffolk,Revere,30-49 Years,17705,18499,15914,6438,,2585
+2022-04-05,Suffolk,Revere,50-64 Years,12184,11213,9995,5765,,1218
+2022-04-05,Suffolk,Revere,65-74 Years,5047,4731,4258,3063,,473
+2022-04-05,Suffolk,Revere,75+ Years,4312,3475,3021,2238,,454
+2022-04-05,Suffolk,Revere,Total,60849,54121,46693,20996,,7428
+2022-04-05,Middlesex,Newton,5-11 Years,7107,6849,6316,10,,533
+2022-04-05,Middlesex,Newton,12-15 Years,4932,6017,5414,2820,,603
+2022-04-05,Middlesex,Newton,16-19 Years,8329,5915,5051,3309,,864
+2022-04-05,Middlesex,Newton,20-29 Years,12487,10960,8777,5062,,2183
+2022-04-05,Middlesex,Newton,30-49 Years,19706,22837,20060,14021,,2777
+2022-04-05,Middlesex,Newton,50-64 Years,17494,19915,17854,13864,,2061
+2022-04-05,Middlesex,Newton,65-74 Years,9938,11505,10210,8353,,1295
+2022-04-05,Middlesex,Newton,75+ Years,7438,8591,7612,6424,,979
+2022-04-05,Middlesex,Newton,Total,91690,92591,81294,53863,,11297
+2022-04-05,Norfolk,Wellesley,5-11 Years,2692,2262,2001,1,,261
+2022-04-05,Norfolk,Wellesley,12-15 Years,1831,2024,1876,881,,148
+2022-04-05,Norfolk,Wellesley,16-19 Years,3319,2518,1993,1293,,525
+2022-04-05,Norfolk,Wellesley,20-29 Years,4462,3656,2645,1478,,1011
+2022-04-05,Norfolk,Wellesley,30-49 Years,5413,5372,4778,3448,,594
+2022-04-05,Norfolk,Wellesley,50-64 Years,5510,6039,5458,4371,,581
+2022-04-05,Norfolk,Wellesley,65-74 Years,2621,2577,2226,1841,,351
+2022-04-05,Norfolk,Wellesley,75+ Years,2135,2369,2083,1749,,286
+2022-04-05,Norfolk,Wellesley,Total,29713,26819,23060,15062,,3759
+2022-04-12,Suffolk,Chelsea,5-11 Years,3144,2079,1456,1,,623
+2022-04-12,Suffolk,Chelsea,12-15 Years,1768,2230,1831,338,,399
+2022-04-12,Suffolk,Chelsea,16-19 Years,1762,2252,1721,468,,531
+2022-04-12,Suffolk,Chelsea,20-29 Years,6170,6882,5424,1592,,1458
+2022-04-12,Suffolk,Chelsea,30-49 Years,11744,13993,11572,4655,,2421
+2022-04-12,Suffolk,Chelsea,50-64 Years,5861,7049,6003,3488,,1046
+2022-04-12,Suffolk,Chelsea,65-74 Years,2092,2514,2226,1567,,288
+2022-04-12,Suffolk,Chelsea,75+ Years,1471,1677,1466,1074,,211
+2022-04-12,Suffolk,Chelsea,Total,36918,38677,31699,13183,,6978
+2022-04-12,Suffolk,Revere,5-11 Years,4263,2199,1748,4,,451
+2022-04-12,Suffolk,Revere,12-15 Years,2613,2513,2196,346,,317
+2022-04-12,Suffolk,Revere,16-19 Years,2844,2713,2318,769,,395
+2022-04-12,Suffolk,Revere,20-29 Years,8303,8821,7277,2425,,1544
+2022-04-12,Suffolk,Revere,30-49 Years,17705,18517,15916,6485,,2601
+2022-04-12,Suffolk,Revere,50-64 Years,12184,11222,10006,5810,,1216
+2022-04-12,Suffolk,Revere,65-74 Years,5047,4734,4267,3085,,467
+2022-04-12,Suffolk,Revere,75+ Years,4312,3476,3027,2259,,449
+2022-04-12,Suffolk,Revere,Total,60849,54195,46755,21183,,7440
+2022-04-12,Middlesex,Newton,5-11 Years,7107,6860,6327,11,,533
+2022-04-12,Middlesex,Newton,12-15 Years,4932,6024,5423,2841,,601
+2022-04-12,Middlesex,Newton,16-19 Years,8329,5919,5051,3318,,868
+2022-04-12,Middlesex,Newton,20-29 Years,12487,10950,8782,5085,,2168
+2022-04-12,Middlesex,Newton,30-49 Years,19706,22841,20073,14079,,2768
+2022-04-12,Middlesex,Newton,50-64 Years,17494,19936,17901,13955,,2035
+2022-04-12,Middlesex,Newton,65-74 Years,9938,11533,10272,8433,,1261
+2022-04-12,Middlesex,Newton,75+ Years,7438,8615,7645,6485,,970
+2022-04-12,Middlesex,Newton,Total,91690,92680,81474,54207,,11206
+2022-04-12,Norfolk,Wellesley,5-11 Years,2692,2266,2006,2,,260
+2022-04-12,Norfolk,Wellesley,12-15 Years,1831,2024,1878,888,,146
+2022-04-12,Norfolk,Wellesley,16-19 Years,3319,2519,1994,1300,,525
+2022-04-12,Norfolk,Wellesley,20-29 Years,4462,3653,2643,1478,,1010
+2022-04-12,Norfolk,Wellesley,30-49 Years,5413,5379,4783,3459,,596
+2022-04-12,Norfolk,Wellesley,50-64 Years,5510,6046,5471,4402,,575
+2022-04-12,Norfolk,Wellesley,65-74 Years,2621,2576,2236,1858,,340
+2022-04-12,Norfolk,Wellesley,75+ Years,2135,2358,2090,1777,,268
+2022-04-12,Norfolk,Wellesley,Total,29713,26823,23101,15164,,3722
+2022-04-19,Suffolk,Chelsea,5-11 Years,3144,2089,1481,1,,608
+2022-04-19,Suffolk,Chelsea,12-15 Years,1768,2234,1837,343,,397
+2022-04-19,Suffolk,Chelsea,16-19 Years,1762,2256,1725,477,,531
+2022-04-19,Suffolk,Chelsea,20-29 Years,6170,6893,5433,1609,,1460
+2022-04-19,Suffolk,Chelsea,30-49 Years,11744,13984,11575,4696,,2409
+2022-04-19,Suffolk,Chelsea,50-64 Years,5861,7051,6010,3508,,1041
+2022-04-19,Suffolk,Chelsea,65-74 Years,2092,2510,2223,1579,,287
+2022-04-19,Suffolk,Chelsea,75+ Years,1471,1676,1467,1079,,209
+2022-04-19,Suffolk,Chelsea,Total,36918,38694,31751,13292,,6943
+2022-04-19,Suffolk,Revere,5-11 Years,4263,2209,1764,4,,445
+2022-04-19,Suffolk,Revere,12-15 Years,2613,2514,2201,357,,313
+2022-04-19,Suffolk,Revere,16-19 Years,2844,2717,2324,775,,393
+2022-04-19,Suffolk,Revere,20-29 Years,8303,8826,7288,2439,,1538
+2022-04-19,Suffolk,Revere,30-49 Years,17705,18529,15930,6533,,2599
+2022-04-19,Suffolk,Revere,50-64 Years,12184,11218,10005,5836,,1213
+2022-04-19,Suffolk,Revere,65-74 Years,5047,4731,4271,3108,,460
+2022-04-19,Suffolk,Revere,75+ Years,4312,3479,3032,2274,,447
+2022-04-19,Suffolk,Revere,Total,60849,54223,46815,21326,,7408
+2022-04-19,Middlesex,Newton,5-11 Years,7107,6873,6337,11,,536
+2022-04-19,Middlesex,Newton,12-15 Years,4932,6024,5426,2864,,598
+2022-04-19,Middlesex,Newton,16-19 Years,8329,5908,5052,3336,,856
+2022-04-19,Middlesex,Newton,20-29 Years,12487,10956,8793,5100,,2163
+2022-04-19,Middlesex,Newton,30-49 Years,19706,22845,20085,14109,,2760
+2022-04-19,Middlesex,Newton,50-64 Years,17494,19959,17935,14034,,2024
+2022-04-19,Middlesex,Newton,65-74 Years,9938,11551,10300,8504,,1251
+2022-04-19,Middlesex,Newton,75+ Years,7438,8647,7671,6551,,976
+2022-04-19,Middlesex,Newton,Total,91690,92765,81599,54509,,11166
+2022-04-19,Norfolk,Wellesley,5-11 Years,2692,2269,2008,2,,261
+2022-04-19,Norfolk,Wellesley,12-15 Years,1831,2025,1878,895,,147
+2022-04-19,Norfolk,Wellesley,16-19 Years,3319,2514,1995,1307,,519
+2022-04-19,Norfolk,Wellesley,20-29 Years,4462,3652,2643,1485,,1009
+2022-04-19,Norfolk,Wellesley,30-49 Years,5413,5381,4785,3467,,596
+2022-04-19,Norfolk,Wellesley,50-64 Years,5510,6048,5468,4414,,580
+2022-04-19,Norfolk,Wellesley,65-74 Years,2621,2581,2247,1867,,334
+2022-04-19,Norfolk,Wellesley,75+ Years,2135,2366,2093,1788,,273
+2022-04-19,Norfolk,Wellesley,Total,29713,26838,23117,15225,,3721
+2022-04-26,Suffolk,Chelsea,5-11 Years,3144,2108,1495,1,,613
+2022-04-26,Suffolk,Chelsea,12-15 Years,1768,2236,1844,357,,392
+2022-04-26,Suffolk,Chelsea,16-19 Years,1762,2255,1724,483,,531
+2022-04-26,Suffolk,Chelsea,20-29 Years,6170,6902,5439,1619,,1463
+2022-04-26,Suffolk,Chelsea,30-49 Years,11744,13984,11591,4750,,2393
+2022-04-26,Suffolk,Chelsea,50-64 Years,5861,7052,6016,3525,,1036
+2022-04-26,Suffolk,Chelsea,65-74 Years,2092,2514,2221,1585,,293
+2022-04-26,Suffolk,Chelsea,75+ Years,1471,1680,1469,1087,,211
+2022-04-26,Suffolk,Chelsea,Total,36918,38732,31799,13407,,6933
+2022-04-26,Suffolk,Revere,5-11 Years,4263,2223,1785,4,,438
+2022-04-26,Suffolk,Revere,12-15 Years,2613,2521,2206,373,,315
+2022-04-26,Suffolk,Revere,16-19 Years,2844,2719,2330,788,,389
+2022-04-26,Suffolk,Revere,20-29 Years,8303,8834,7294,2469,,1540
+2022-04-26,Suffolk,Revere,30-49 Years,17705,18552,15936,6574,,2616
+2022-04-26,Suffolk,Revere,50-64 Years,12184,11223,10012,5868,,1211
+2022-04-26,Suffolk,Revere,65-74 Years,5047,4727,4271,3128,,456
+2022-04-26,Suffolk,Revere,75+ Years,4312,3482,3036,2289,,446
+2022-04-26,Suffolk,Revere,Total,60849,54281,46870,21493,,7411
+2022-04-26,Middlesex,Newton,5-11 Years,7107,6887,6348,12,,539
+2022-04-26,Middlesex,Newton,12-15 Years,4932,6019,5426,2896,,593
+2022-04-26,Middlesex,Newton,16-19 Years,8329,5906,5054,3348,,852
+2022-04-26,Middlesex,Newton,20-29 Years,12487,10951,8792,5113,,2159
+2022-04-26,Middlesex,Newton,30-49 Years,19706,22845,20094,14154,,2751
+2022-04-26,Middlesex,Newton,50-64 Years,17494,19980,17954,14103,,2026
+2022-04-26,Middlesex,Newton,65-74 Years,9938,11572,10345,8578,,1227
+2022-04-26,Middlesex,Newton,75+ Years,7438,8674,7709,6609,,965
+2022-04-26,Middlesex,Newton,Total,91690,92836,81722,54813,,11114
+2022-04-26,Norfolk,Wellesley,5-11 Years,2692,2269,2011,2,,258
+2022-04-26,Norfolk,Wellesley,12-15 Years,1831,2029,1881,901,,148
+2022-04-26,Norfolk,Wellesley,16-19 Years,3319,2518,1997,1310,,521
+2022-04-26,Norfolk,Wellesley,20-29 Years,4462,3657,2644,1492,,1013
+2022-04-26,Norfolk,Wellesley,30-49 Years,5413,5391,4790,3471,,601
+2022-04-26,Norfolk,Wellesley,50-64 Years,5510,6061,5485,4435,,576
+2022-04-26,Norfolk,Wellesley,65-74 Years,2621,2590,2265,1893,,325
+2022-04-26,Norfolk,Wellesley,75+ Years,2135,2366,2093,1789,,273
+2022-04-26,Norfolk,Wellesley,Total,29713,26883,23166,15293,,3717
+2022-05-03,Suffolk,Chelsea,5-11 Years,3144,2125,1506,1,,619
+2022-05-03,Suffolk,Chelsea,12-15 Years,1768,2244,1854,363,,390
+2022-05-03,Suffolk,Chelsea,16-19 Years,1762,2259,1726,494,,533
+2022-05-03,Suffolk,Chelsea,20-29 Years,6170,6921,5449,1631,,1472
+2022-05-03,Suffolk,Chelsea,30-49 Years,11744,13989,11598,4788,,2391
+2022-05-03,Suffolk,Chelsea,50-64 Years,5861,7063,6020,3556,,1043
+2022-05-03,Suffolk,Chelsea,65-74 Years,2092,2521,2226,1597,,295
+2022-05-03,Suffolk,Chelsea,75+ Years,1471,1707,1473,1097,,234
+2022-05-03,Suffolk,Chelsea,Total,36918,38830,31852,13527,,6978
+2022-05-03,Suffolk,Revere,5-11 Years,4263,2243,1797,4,,446
+2022-05-03,Suffolk,Revere,12-15 Years,2613,2528,2216,383,,312
+2022-05-03,Suffolk,Revere,16-19 Years,2844,2723,2333,799,,390
+2022-05-03,Suffolk,Revere,20-29 Years,8303,8848,7298,2490,,1550
+2022-05-03,Suffolk,Revere,30-49 Years,17705,18562,15944,6602,,2618
+2022-05-03,Suffolk,Revere,50-64 Years,12184,11228,10012,5898,,1216
+2022-05-03,Suffolk,Revere,65-74 Years,5047,4727,4272,3135,,455
+2022-05-03,Suffolk,Revere,75+ Years,4312,3488,3041,2306,,447
+2022-05-03,Suffolk,Revere,Total,60849,54347,46913,21617,,7434
+2022-05-03,Middlesex,Newton,5-11 Years,7107,6898,6364,12,,534
+2022-05-03,Middlesex,Newton,12-15 Years,4932,6023,5430,2909,,593
+2022-05-03,Middlesex,Newton,16-19 Years,8329,5912,5056,3353,,856
+2022-05-03,Middlesex,Newton,20-29 Years,12487,10956,8803,5135,,2153
+2022-05-03,Middlesex,Newton,30-49 Years,19706,22851,20102,14183,,2749
+2022-05-03,Middlesex,Newton,50-64 Years,17494,20039,18007,14175,,2032
+2022-05-03,Middlesex,Newton,65-74 Years,9938,11599,10376,8617,,1223
+2022-05-03,Middlesex,Newton,75+ Years,7438,8758,7747,6691,,1011
+2022-05-03,Middlesex,Newton,Total,91690,93038,81885,55075,,11153
+2022-05-03,Norfolk,Wellesley,5-11 Years,2692,2274,2017,2,,257
+2022-05-03,Norfolk,Wellesley,12-15 Years,1831,2032,1880,906,,152
+2022-05-03,Norfolk,Wellesley,16-19 Years,3319,2515,1997,1317,,518
+2022-05-03,Norfolk,Wellesley,20-29 Years,4462,3657,2641,1498,,1016
+2022-05-03,Norfolk,Wellesley,30-49 Years,5413,5384,4785,3475,,599
+2022-05-03,Norfolk,Wellesley,50-64 Years,5510,6070,5494,4457,,576
+2022-05-03,Norfolk,Wellesley,65-74 Years,2621,2590,2273,1898,,317
+2022-05-03,Norfolk,Wellesley,75+ Years,2135,2366,2093,1796,,273
+2022-05-03,Norfolk,Wellesley,Total,29713,26890,23180,15349,,3710
+2022-05-10,Suffolk,Chelsea,5-11 Years,3144,2143,1520,1,,623
+2022-05-10,Suffolk,Chelsea,12-15 Years,1768,2239,1854,369,,385
+2022-05-10,Suffolk,Chelsea,16-19 Years,1762,2263,1730,502,,533
+2022-05-10,Suffolk,Chelsea,20-29 Years,6170,6927,5459,1645,,1468
+2022-05-10,Suffolk,Chelsea,30-49 Years,11744,13984,11599,4828,,2385
+2022-05-10,Suffolk,Chelsea,50-64 Years,5861,7065,6020,3584,,1045
+2022-05-10,Suffolk,Chelsea,65-74 Years,2092,2521,2226,1603,,295
+2022-05-10,Suffolk,Chelsea,75+ Years,1471,1710,1474,1104,,236
+2022-05-10,Suffolk,Chelsea,Total,36918,38853,31882,13636,,6971
+2022-05-10,Suffolk,Revere,5-11 Years,4263,2268,1807,4,,461
+2022-05-10,Suffolk,Revere,12-15 Years,2613,2546,2227,395,,319
+2022-05-10,Suffolk,Revere,16-19 Years,2844,2729,2336,813,,393
+2022-05-10,Suffolk,Revere,20-29 Years,8303,8862,7306,2507,,1556
+2022-05-10,Suffolk,Revere,30-49 Years,17705,18568,15951,6635,,2617
+2022-05-10,Suffolk,Revere,50-64 Years,12184,11236,10012,5924,,1224
+2022-05-10,Suffolk,Revere,65-74 Years,5047,4726,4279,3152,,447
+2022-05-10,Suffolk,Revere,75+ Years,4312,3490,3052,2317,,438
+2022-05-10,Suffolk,Revere,Total,60849,54425,46970,21747,,7455
+2022-05-10,Middlesex,Newton,5-11 Years,7107,6910,6373,12,,537
+2022-05-10,Middlesex,Newton,12-15 Years,4932,6026,5432,2939,,594
+2022-05-10,Middlesex,Newton,16-19 Years,8329,5917,5058,3356,,859
+2022-05-10,Middlesex,Newton,20-29 Years,12487,10973,8812,5149,,2161
+2022-05-10,Middlesex,Newton,30-49 Years,19706,22864,20113,14214,,2751
+2022-05-10,Middlesex,Newton,50-64 Years,17494,20047,18037,14214,,2010
+2022-05-10,Middlesex,Newton,65-74 Years,9938,11600,10385,8644,,1215
+2022-05-10,Middlesex,Newton,75+ Years,7438,8792,7769,6724,,1023
+2022-05-10,Middlesex,Newton,Total,91690,93131,81979,55252,,11152
+2022-05-10,Norfolk,Wellesley,5-11 Years,2692,2282,2019,2,,263
+2022-05-10,Norfolk,Wellesley,12-15 Years,1831,2034,1880,910,,154
+2022-05-10,Norfolk,Wellesley,16-19 Years,3319,2517,1998,1324,,519
+2022-05-10,Norfolk,Wellesley,20-29 Years,4462,3653,2642,1501,,1011
+2022-05-10,Norfolk,Wellesley,30-49 Years,5413,5387,4788,3484,,599
+2022-05-10,Norfolk,Wellesley,50-64 Years,5510,6071,5509,4472,,562
+2022-05-10,Norfolk,Wellesley,65-74 Years,2621,2586,2279,1915,,307
+2022-05-10,Norfolk,Wellesley,75+ Years,2135,2376,2105,1810,,271
+2022-05-10,Norfolk,Wellesley,Total,29713,26908,23220,15418,,3688
+2022-05-17,Suffolk,Chelsea,5-11 Years,3144,2173,1534,1,,639
+2022-05-17,Suffolk,Chelsea,12-15 Years,1768,2251,1863,377,,388
+2022-05-17,Suffolk,Chelsea,16-19 Years,1762,2276,1734,514,,542
+2022-05-17,Suffolk,Chelsea,20-29 Years,6170,6933,5467,1664,,1466
+2022-05-17,Suffolk,Chelsea,30-49 Years,11744,14001,11605,4867,,2396
+2022-05-17,Suffolk,Chelsea,50-64 Years,5861,7066,6026,3602,,1040
+2022-05-17,Suffolk,Chelsea,65-74 Years,2092,2529,2229,1610,,300
+2022-05-17,Suffolk,Chelsea,75+ Years,1471,1709,1479,1120,,230
+2022-05-17,Suffolk,Chelsea,Total,36918,38939,31937,13755,,7002
+2022-05-17,Suffolk,Revere,5-11 Years,4263,2284,1814,4,,470
+2022-05-17,Suffolk,Revere,12-15 Years,2613,2553,2228,402,,325
+2022-05-17,Suffolk,Revere,16-19 Years,2844,2736,2341,828,,395
+2022-05-17,Suffolk,Revere,20-29 Years,8303,8878,7324,2528,,1554
+2022-05-17,Suffolk,Revere,30-49 Years,17705,18591,15958,6673,,2633
+2022-05-17,Suffolk,Revere,50-64 Years,12184,11252,10023,5963,,1229
+2022-05-17,Suffolk,Revere,65-74 Years,5047,4742,4282,3166,,460
+2022-05-17,Suffolk,Revere,75+ Years,4312,3528,3059,2332,,469
+2022-05-17,Suffolk,Revere,Total,60849,54564,47029,21896,,7535
+2022-05-17,Middlesex,Newton,5-11 Years,7107,6923,6390,12,,533
+2022-05-17,Middlesex,Newton,12-15 Years,4932,6031,5435,2978,,596
+2022-05-17,Middlesex,Newton,16-19 Years,8329,5927,5063,3371,,864
+2022-05-17,Middlesex,Newton,20-29 Years,12487,10976,8820,5162,,2156
+2022-05-17,Middlesex,Newton,30-49 Years,19706,22872,20118,14237,,2754
+2022-05-17,Middlesex,Newton,50-64 Years,17494,20064,18068,14258,,1996
+2022-05-17,Middlesex,Newton,65-74 Years,9938,11619,10404,8668,,1215
+2022-05-17,Middlesex,Newton,75+ Years,7438,8807,7795,6751,,1012
+2022-05-17,Middlesex,Newton,Total,91690,93221,82093,55437,,11128
+2022-05-17,Norfolk,Wellesley,5-11 Years,2692,2285,2022,2,,263
+2022-05-17,Norfolk,Wellesley,12-15 Years,1831,2037,1883,921,,154
+2022-05-17,Norfolk,Wellesley,16-19 Years,3319,2504,1999,1331,,505
+2022-05-17,Norfolk,Wellesley,20-29 Years,4462,3648,2641,1508,,1007
+2022-05-17,Norfolk,Wellesley,30-49 Years,5413,5396,4789,3489,,607
+2022-05-17,Norfolk,Wellesley,50-64 Years,5510,6090,5519,4493,,571
+2022-05-17,Norfolk,Wellesley,65-74 Years,2621,2590,2293,1932,,297
+2022-05-17,Norfolk,Wellesley,75+ Years,2135,2385,2118,1831,,267
+2022-05-17,Norfolk,Wellesley,Total,29713,26937,23264,15507,,3673
+2022-05-24,Suffolk,Chelsea,5-11 Years,3144,2195,1555,1,,640
+2022-05-24,Suffolk,Chelsea,12-15 Years,1768,2254,1861,392,,393
+2022-05-24,Suffolk,Chelsea,16-19 Years,1762,2278,1738,522,,540
+2022-05-24,Suffolk,Chelsea,20-29 Years,6170,6946,5479,1695,,1467
+2022-05-24,Suffolk,Chelsea,30-49 Years,11744,14003,11605,4893,,2398
+2022-05-24,Suffolk,Chelsea,50-64 Years,5861,7061,6021,3622,,1040
+2022-05-24,Suffolk,Chelsea,65-74 Years,2092,2530,2233,1616,,297
+2022-05-24,Suffolk,Chelsea,75+ Years,1471,1709,1478,1122,,231
+2022-05-24,Suffolk,Chelsea,Total,36918,38977,31970,13863,,7007
+2022-05-24,Suffolk,Revere,5-11 Years,4263,2302,1828,10,,474
+2022-05-24,Suffolk,Revere,12-15 Years,2613,2564,2233,413,,331
+2022-05-24,Suffolk,Revere,16-19 Years,2844,2740,2345,840,,395
+2022-05-24,Suffolk,Revere,20-29 Years,8303,8884,7323,2552,,1561
+2022-05-24,Suffolk,Revere,30-49 Years,17705,18614,15970,6731,,2644
+2022-05-24,Suffolk,Revere,50-64 Years,12184,11274,10041,6012,,1233
+2022-05-24,Suffolk,Revere,65-74 Years,5047,4762,4295,3184,,467
+2022-05-24,Suffolk,Revere,75+ Years,4312,3563,3077,2360,,486
+2022-05-24,Suffolk,Revere,Total,60849,54703,47112,22102,,7591
+2022-05-24,Middlesex,Newton,5-11 Years,7107,6958,6414,116,,544
+2022-05-24,Middlesex,Newton,12-15 Years,4932,6031,5436,3016,,595
+2022-05-24,Middlesex,Newton,16-19 Years,8329,5925,5066,3372,,859
+2022-05-24,Middlesex,Newton,20-29 Years,12487,10981,8820,5174,,2161
+2022-05-24,Middlesex,Newton,30-49 Years,19706,22900,20138,14273,,2762
+2022-05-24,Middlesex,Newton,50-64 Years,17494,20090,18104,14320,,1986
+2022-05-24,Middlesex,Newton,65-74 Years,9938,11650,10434,8710,,1216
+2022-05-24,Middlesex,Newton,75+ Years,7438,8825,7801,6760,,1024
+2022-05-24,Middlesex,Newton,Total,91690,93362,82213,55741,,11149
+2022-05-24,Norfolk,Wellesley,5-11 Years,2692,2292,2031,29,,261
+2022-05-24,Norfolk,Wellesley,12-15 Years,1831,2039,1884,939,,155
+2022-05-24,Norfolk,Wellesley,16-19 Years,3319,2505,2001,1335,,504
+2022-05-24,Norfolk,Wellesley,20-29 Years,4462,3653,2643,1513,,1010
+2022-05-24,Norfolk,Wellesley,30-49 Years,5413,5400,4793,3494,,607
+2022-05-24,Norfolk,Wellesley,50-64 Years,5510,6096,5529,4509,,567
+2022-05-24,Norfolk,Wellesley,65-74 Years,2621,2592,2303,1939,,289
+2022-05-24,Norfolk,Wellesley,75+ Years,2135,2386,2119,1841,,267
+2022-05-24,Norfolk,Wellesley,Total,29713,26965,23303,15599,,3662
+2022-05-31,Suffolk,Chelsea,5-11 Years,3144,2211,1566,2,,645
+2022-05-31,Suffolk,Chelsea,12-15 Years,1768,2257,1864,402,,393
+2022-05-31,Suffolk,Chelsea,16-19 Years,1762,2280,1739,531,,541
+2022-05-31,Suffolk,Chelsea,20-29 Years,6170,6949,5487,1720,,1462
+2022-05-31,Suffolk,Chelsea,30-49 Years,11744,14005,11608,4919,,2397
+2022-05-31,Suffolk,Chelsea,50-64 Years,5861,7057,6019,3644,,1038
+2022-05-31,Suffolk,Chelsea,65-74 Years,2092,2533,2236,1622,,297
+2022-05-31,Suffolk,Chelsea,75+ Years,1471,1710,1478,1126,,232
+2022-05-31,Suffolk,Chelsea,Total,36918,39003,31997,13966,,7006
+2022-05-31,Suffolk,Revere,5-11 Years,4263,2308,1841,21,,467
+2022-05-31,Suffolk,Revere,12-15 Years,2613,2570,2232,423,,338
+2022-05-31,Suffolk,Revere,16-19 Years,2844,2741,2346,850,,395
+2022-05-31,Suffolk,Revere,20-29 Years,8303,8899,7332,2576,,1567
+2022-05-31,Suffolk,Revere,30-49 Years,17705,18645,15984,6770,,2661
+2022-05-31,Suffolk,Revere,50-64 Years,12184,11284,10048,6039,,1236
+2022-05-31,Suffolk,Revere,65-74 Years,5047,4767,4291,3195,,476
+2022-05-31,Suffolk,Revere,75+ Years,4312,3568,3081,2366,,487
+2022-05-31,Suffolk,Revere,Total,60849,54782,47155,22240,,7627
+2022-05-31,Middlesex,Newton,5-11 Years,7107,6988,6434,382,,554
+2022-05-31,Middlesex,Newton,12-15 Years,4932,6027,5439,3052,,588
+2022-05-31,Middlesex,Newton,16-19 Years,8329,5924,5068,3386,,856
+2022-05-31,Middlesex,Newton,20-29 Years,12487,10983,8824,5188,,2159
+2022-05-31,Middlesex,Newton,30-49 Years,19706,22919,20158,14308,,2761
+2022-05-31,Middlesex,Newton,50-64 Years,17494,20114,18107,14348,,2007
+2022-05-31,Middlesex,Newton,65-74 Years,9938,11666,10449,8735,,1217
+2022-05-31,Middlesex,Newton,75+ Years,7438,8828,7804,6774,,1024
+2022-05-31,Middlesex,Newton,Total,91690,93451,82283,56173,,11168
+2022-05-31,Norfolk,Wellesley,5-11 Years,2692,2299,2036,74,,263
+2022-05-31,Norfolk,Wellesley,12-15 Years,1831,2036,1886,955,,150
+2022-05-31,Norfolk,Wellesley,16-19 Years,3319,2503,2002,1339,,501
+2022-05-31,Norfolk,Wellesley,20-29 Years,4462,3649,2644,1517,,1005
+2022-05-31,Norfolk,Wellesley,30-49 Years,5413,5406,4801,3499,,605
+2022-05-31,Norfolk,Wellesley,50-64 Years,5510,6099,5535,4517,,564
+2022-05-31,Norfolk,Wellesley,65-74 Years,2621,2598,2305,1941,,293
+2022-05-31,Norfolk,Wellesley,75+ Years,2135,2382,2120,1846,,262
+2022-05-31,Norfolk,Wellesley,Total,29713,26974,23329,15688,,3645
+2022-06-07,Suffolk,Chelsea,5-11 Years,3144,2228,1580,3,,648
+2022-06-07,Suffolk,Chelsea,12-15 Years,1768,2263,1868,409,,395
+2022-06-07,Suffolk,Chelsea,16-19 Years,1762,2284,1741,542,,543
+2022-06-07,Suffolk,Chelsea,20-29 Years,6170,6957,5498,1738,,1459
+2022-06-07,Suffolk,Chelsea,30-49 Years,11744,14007,11622,4950,,2385
+2022-06-07,Suffolk,Chelsea,50-64 Years,5861,7062,6024,3670,,1038
+2022-06-07,Suffolk,Chelsea,65-74 Years,2092,2531,2237,1634,,294
+2022-06-07,Suffolk,Chelsea,75+ Years,1471,1712,1482,1132,,230
+2022-06-07,Suffolk,Chelsea,Total,36918,39045,32052,14078,,6993
+2022-06-07,Suffolk,Revere,5-11 Years,4263,2323,1855,33,,468
+2022-06-07,Suffolk,Revere,12-15 Years,2613,2575,2236,434,,339
+2022-06-07,Suffolk,Revere,16-19 Years,2844,2747,2352,863,,395
+2022-06-07,Suffolk,Revere,20-29 Years,8303,8913,7336,2596,,1577
+2022-06-07,Suffolk,Revere,30-49 Years,17705,18658,15995,6837,,2663
+2022-06-07,Suffolk,Revere,50-64 Years,12184,11293,10051,6083,,1242
+2022-06-07,Suffolk,Revere,65-74 Years,5047,4764,4290,3207,,474
+2022-06-07,Suffolk,Revere,75+ Years,4312,3566,3079,2371,,487
+2022-06-07,Suffolk,Revere,Total,60849,54839,47194,22424,,7645
+2022-06-07,Middlesex,Newton,5-11 Years,7107,7017,6441,670,,576
+2022-06-07,Middlesex,Newton,12-15 Years,4932,6037,5444,3114,,593
+2022-06-07,Middlesex,Newton,16-19 Years,8329,5928,5070,3403,,858
+2022-06-07,Middlesex,Newton,20-29 Years,12487,10988,8826,5199,,2162
+2022-06-07,Middlesex,Newton,30-49 Years,19706,22933,20159,14329,,2774
+2022-06-07,Middlesex,Newton,50-64 Years,17494,20139,18128,14374,,2011
+2022-06-07,Middlesex,Newton,65-74 Years,9938,11667,10456,8751,,1211
+2022-06-07,Middlesex,Newton,75+ Years,7438,8833,7815,6790,,1018
+2022-06-07,Middlesex,Newton,Total,91690,93544,82339,56630,,11205
+2022-06-07,Norfolk,Wellesley,5-11 Years,2692,2301,2045,142,,256
+2022-06-07,Norfolk,Wellesley,12-15 Years,1831,2035,1885,976,,150
+2022-06-07,Norfolk,Wellesley,16-19 Years,3319,2505,2003,1341,,502
+2022-06-07,Norfolk,Wellesley,20-29 Years,4462,3649,2647,1524,,1002
+2022-06-07,Norfolk,Wellesley,30-49 Years,5413,5413,4802,3504,,611
+2022-06-07,Norfolk,Wellesley,50-64 Years,5510,6105,5541,4529,,564
+2022-06-07,Norfolk,Wellesley,65-74 Years,2621,2601,2308,1944,,293
+2022-06-07,Norfolk,Wellesley,75+ Years,2135,2384,2126,1857,,258
+2022-06-07,Norfolk,Wellesley,Total,29713,26995,23357,15817,,3638
+2022-06-14,Suffolk,Chelsea,5-11 Years,3144,2251,1601,29,,650
+2022-06-14,Suffolk,Chelsea,12-15 Years,1768,2271,1875,429,,396
+2022-06-14,Suffolk,Chelsea,16-19 Years,1762,2283,1747,569,,536
+2022-06-14,Suffolk,Chelsea,20-29 Years,6170,6957,5497,1754,,1460
+2022-06-14,Suffolk,Chelsea,30-49 Years,11744,14010,11625,4969,,2385
+2022-06-14,Suffolk,Chelsea,50-64 Years,5861,7063,6029,3682,,1034
+2022-06-14,Suffolk,Chelsea,65-74 Years,2092,2531,2239,1640,,292
+2022-06-14,Suffolk,Chelsea,75+ Years,1471,1713,1481,1135,,232
+2022-06-14,Suffolk,Chelsea,Total,36918,39080,32094,14207,,6986
+2022-06-14,Suffolk,Revere,5-11 Years,4263,2332,1873,39,,459
+2022-06-14,Suffolk,Revere,12-15 Years,2613,2579,2251,446,,328
+2022-06-14,Suffolk,Revere,16-19 Years,2844,2747,2355,873,,392
+2022-06-14,Suffolk,Revere,20-29 Years,8303,8913,7334,2606,,1579
+2022-06-14,Suffolk,Revere,30-49 Years,17705,18674,16004,6880,,2670
+2022-06-14,Suffolk,Revere,50-64 Years,12184,11301,10059,6114,,1242
+2022-06-14,Suffolk,Revere,65-74 Years,5047,4767,4296,3219,,471
+2022-06-14,Suffolk,Revere,75+ Years,4312,3563,3080,2384,,483
+2022-06-14,Suffolk,Revere,Total,60849,54876,47252,22561,,7624
+2022-06-14,Middlesex,Newton,5-11 Years,7107,7052,6470,1002,,582
+2022-06-14,Middlesex,Newton,12-15 Years,4932,6045,5448,3163,,597
+2022-06-14,Middlesex,Newton,16-19 Years,8329,5929,5074,3420,,855
+2022-06-14,Middlesex,Newton,20-29 Years,12487,10994,8831,5208,,2163
+2022-06-14,Middlesex,Newton,30-49 Years,19706,22962,20167,14353,,2795
+2022-06-14,Middlesex,Newton,50-64 Years,17494,20140,18133,14395,,2007
+2022-06-14,Middlesex,Newton,65-74 Years,9938,11663,10467,8753,,1196
+2022-06-14,Middlesex,Newton,75+ Years,7438,8829,7820,6791,,1009
+2022-06-14,Middlesex,Newton,Total,91690,93616,82410,57085,,11206
+2022-06-14,Norfolk,Wellesley,5-11 Years,2692,2308,2052,201,,256
+2022-06-14,Norfolk,Wellesley,12-15 Years,1831,2036,1886,990,,150
+2022-06-14,Norfolk,Wellesley,16-19 Years,3319,2504,2002,1345,,502
+2022-06-14,Norfolk,Wellesley,20-29 Years,4462,3653,2648,1524,,1005
+2022-06-14,Norfolk,Wellesley,30-49 Years,5413,5415,4803,3502,,612
+2022-06-14,Norfolk,Wellesley,50-64 Years,5510,6113,5550,4538,,563
+2022-06-14,Norfolk,Wellesley,65-74 Years,2621,2605,2311,1950,,294
+2022-06-14,Norfolk,Wellesley,75+ Years,2135,2381,2124,1855,,257
+2022-06-14,Norfolk,Wellesley,Total,29713,27017,23376,15905,,3641
+2022-06-21,Suffolk,Chelsea,5-11 Years,3144,2267,1617,42,,650
+2022-06-21,Suffolk,Chelsea,12-15 Years,1768,2273,1881,442,,392
+2022-06-21,Suffolk,Chelsea,16-19 Years,1762,2285,1748,576,,537
+2022-06-21,Suffolk,Chelsea,20-29 Years,6170,6971,5505,1770,,1466
+2022-06-21,Suffolk,Chelsea,30-49 Years,11744,14009,11623,4992,,2386
+2022-06-21,Suffolk,Chelsea,50-64 Years,5861,7069,6027,3702,,1042
+2022-06-21,Suffolk,Chelsea,65-74 Years,2092,2531,2241,1651,,290
+2022-06-21,Suffolk,Chelsea,75+ Years,1471,1716,1492,1149,,224
+2022-06-21,Suffolk,Chelsea,Total,36918,39122,32134,14324,,6988
+2022-06-21,Suffolk,Revere,5-11 Years,4263,2346,1875,49,,471
+2022-06-21,Suffolk,Revere,12-15 Years,2613,2583,2254,455,,329
+2022-06-21,Suffolk,Revere,16-19 Years,2844,2755,2356,876,,399
+2022-06-21,Suffolk,Revere,20-29 Years,8303,8918,7341,2617,,1577
+2022-06-21,Suffolk,Revere,30-49 Years,17705,18687,16009,6916,,2678
+2022-06-21,Suffolk,Revere,50-64 Years,12184,11300,10059,6132,,1241
+2022-06-21,Suffolk,Revere,65-74 Years,5047,4775,4305,3228,,470
+2022-06-21,Suffolk,Revere,75+ Years,4312,3555,3079,2385,,476
+2022-06-21,Suffolk,Revere,Total,60849,54919,47278,22658,,7641
+2022-06-21,Middlesex,Newton,5-11 Years,7107,7082,6481,1244,,601
+2022-06-21,Middlesex,Newton,12-15 Years,4932,6043,5448,3215,,595
+2022-06-21,Middlesex,Newton,16-19 Years,8329,5931,5075,3430,,856
+2022-06-21,Middlesex,Newton,20-29 Years,12487,11003,8834,5214,,2169
+2022-06-21,Middlesex,Newton,30-49 Years,19706,22969,20173,14362,,2796
+2022-06-21,Middlesex,Newton,50-64 Years,17494,20145,18141,14423,,2004
+2022-06-21,Middlesex,Newton,65-74 Years,9938,11661,10473,8770,,1188
+2022-06-21,Middlesex,Newton,75+ Years,7438,8837,7823,6796,,1014
+2022-06-21,Middlesex,Newton,Total,91690,93677,82448,57454,,11229
+2022-06-21,Norfolk,Wellesley,5-11 Years,2692,2312,2053,263,,259
+2022-06-21,Norfolk,Wellesley,12-15 Years,1831,2041,1891,1011,,150
+2022-06-21,Norfolk,Wellesley,16-19 Years,3319,2507,2005,1352,,502
+2022-06-21,Norfolk,Wellesley,20-29 Years,4462,3652,2644,1523,,1008
+2022-06-21,Norfolk,Wellesley,30-49 Years,5413,5422,4808,3511,,614
+2022-06-21,Norfolk,Wellesley,50-64 Years,5510,6116,5556,4541,,560
+2022-06-21,Norfolk,Wellesley,65-74 Years,2621,2603,2310,1951,,293
+2022-06-21,Norfolk,Wellesley,75+ Years,2135,2384,2124,1858,,260
+2022-06-21,Norfolk,Wellesley,Total,29713,27041,23391,16010,,3650
+2022-06-28,Suffolk,Chelsea,0-4 Years,3012,22,0,0,,22
+2022-06-28,Suffolk,Chelsea,5-11 Years,3144,2280,1633,59,,647
+2022-06-28,Suffolk,Chelsea,12-15 Years,1768,2271,1883,454,,388
+2022-06-28,Suffolk,Chelsea,16-19 Years,1762,2296,1755,580,,541
+2022-06-28,Suffolk,Chelsea,20-29 Years,6169,6975,5505,1782,,1470
+2022-06-28,Suffolk,Chelsea,30-49 Years,11744,14010,11624,5018,,2386
+2022-06-28,Suffolk,Chelsea,50-64 Years,5861,7068,6030,3724,,1038
+2022-06-28,Suffolk,Chelsea,65-74 Years,2091,2533,2248,1663,,285
+2022-06-28,Suffolk,Chelsea,75+ Years,1470,1717,1495,1159,,222
+2022-06-28,Suffolk,Chelsea,Total,36918,39172,32173,14439,,6999
+2022-06-28,Suffolk,Revere,0-4 Years,3705,13,0,0,,13
+2022-06-28,Suffolk,Revere,5-11 Years,4263,2356,1889,67,,467
+2022-06-28,Suffolk,Revere,12-15 Years,2613,2589,2263,473,,326
+2022-06-28,Suffolk,Revere,16-19 Years,2844,2755,2359,895,,396
+2022-06-28,Suffolk,Revere,20-29 Years,8303,8932,7356,2635,,1576
+2022-06-28,Suffolk,Revere,30-49 Years,17704,18705,16016,6957,,2689
+2022-06-28,Suffolk,Revere,50-64 Years,12184,11301,10069,6155,,1232
+2022-06-28,Suffolk,Revere,65-74 Years,5047,4773,4307,3234,,466
+2022-06-28,Suffolk,Revere,75+ Years,4312,3545,3084,2395,,461
+2022-06-28,Suffolk,Revere,Total,60849,54969,47343,22811,,7626
+2022-06-28,Middlesex,Newton,0-4 Years,4512,409,0,0,,409
+2022-06-28,Middlesex,Newton,5-11 Years,7106,7116,6496,1424,,620
+2022-06-28,Middlesex,Newton,12-15 Years,4932,6057,5453,3252,,604
+2022-06-28,Middlesex,Newton,16-19 Years,8328,5938,5078,3437,,860
+2022-06-28,Middlesex,Newton,20-29 Years,12487,11004,8833,5221,,2171
+2022-06-28,Middlesex,Newton,30-49 Years,19705,22975,20179,14379,,2796
+2022-06-28,Middlesex,Newton,50-64 Years,17494,20155,18150,14447,,2005
+2022-06-28,Middlesex,Newton,65-74 Years,9937,11664,10477,8782,,1187
+2022-06-28,Middlesex,Newton,75+ Years,7438,8836,7829,6807,,1007
+2022-06-28,Middlesex,Newton,Total,91690,94154,82495,57749,,11659
+2022-06-28,Norfolk,Wellesley,0-4 Years,1750,107,0,0,,107
+2022-06-28,Norfolk,Wellesley,5-11 Years,2691,2326,2061,324,,265
+2022-06-28,Norfolk,Wellesley,12-15 Years,1830,2041,1890,1026,,151
+2022-06-28,Norfolk,Wellesley,16-19 Years,3319,2510,2006,1356,,504
+2022-06-28,Norfolk,Wellesley,20-29 Years,4462,3655,2646,1527,,1009
+2022-06-28,Norfolk,Wellesley,30-49 Years,5413,5434,4815,3516,,619
+2022-06-28,Norfolk,Wellesley,50-64 Years,5509,6120,5565,4550,,555
+2022-06-28,Norfolk,Wellesley,65-74 Years,2621,2603,2312,1953,,291
+2022-06-28,Norfolk,Wellesley,75+ Years,2134,2387,2126,1861,,261
+2022-06-28,Norfolk,Wellesley,Total,29713,27183,23421,16113,,3762
+2022-07-05,Suffolk,Chelsea,0-4 Years,3012,42,0,0,,42
+2022-07-05,Suffolk,Chelsea,5-11 Years,3144,2291,1640,69,,651
+2022-07-05,Suffolk,Chelsea,12-15 Years,1768,2271,1883,458,,388
+2022-07-05,Suffolk,Chelsea,16-19 Years,1762,2299,1755,586,,544
+2022-07-05,Suffolk,Chelsea,20-29 Years,6169,6979,5508,1786,,1471
+2022-07-05,Suffolk,Chelsea,30-49 Years,11744,14011,11624,5030,,2387
+2022-07-05,Suffolk,Chelsea,50-64 Years,5861,7066,6032,3736,,1034
+2022-07-05,Suffolk,Chelsea,65-74 Years,2091,2535,2251,1668,,284
+2022-07-05,Suffolk,Chelsea,75+ Years,1470,1718,1499,1163,,219
+2022-07-05,Suffolk,Chelsea,Total,36918,39212,32192,14496,,7020
+2022-07-05,Suffolk,Revere,0-4 Years,3705,37,0,0,,37
+2022-07-05,Suffolk,Revere,5-11 Years,4263,2358,1898,81,,460
+2022-07-05,Suffolk,Revere,12-15 Years,2613,2590,2263,487,,327
+2022-07-05,Suffolk,Revere,16-19 Years,2844,2757,2365,910,,392
+2022-07-05,Suffolk,Revere,20-29 Years,8303,8949,7370,2650,,1579
+2022-07-05,Suffolk,Revere,30-49 Years,17704,18718,16027,6983,,2691
+2022-07-05,Suffolk,Revere,50-64 Years,12184,11315,10079,6179,,1236
+2022-07-05,Suffolk,Revere,65-74 Years,5047,4767,4303,3241,,464
+2022-07-05,Suffolk,Revere,75+ Years,4312,3535,3082,2404,,453
+2022-07-05,Suffolk,Revere,Total,60849,55026,47387,22935,,7639
+2022-07-05,Middlesex,Newton,0-4 Years,4512,666,0,0,,666
+2022-07-05,Middlesex,Newton,5-11 Years,7106,7134,6506,1519,,628
+2022-07-05,Middlesex,Newton,12-15 Years,4932,6059,5455,3270,,604
+2022-07-05,Middlesex,Newton,16-19 Years,8328,5933,5078,3448,,855
+2022-07-05,Middlesex,Newton,20-29 Years,12487,11010,8838,5225,,2172
+2022-07-05,Middlesex,Newton,30-49 Years,19705,22981,20186,14386,,2795
+2022-07-05,Middlesex,Newton,50-64 Years,17494,20161,18155,14461,,2006
+2022-07-05,Middlesex,Newton,65-74 Years,9937,11673,10478,8788,,1195
+2022-07-05,Middlesex,Newton,75+ Years,7438,8835,7824,6810,,1011
+2022-07-05,Middlesex,Newton,Total,91690,94452,82520,57907,,11932
+2022-07-05,Norfolk,Wellesley,0-4 Years,1750,182,0,0,,182
+2022-07-05,Norfolk,Wellesley,5-11 Years,2691,2341,2078,350,,263
+2022-07-05,Norfolk,Wellesley,12-15 Years,1830,2043,1893,1032,,150
+2022-07-05,Norfolk,Wellesley,16-19 Years,3319,2512,2005,1359,,507
+2022-07-05,Norfolk,Wellesley,20-29 Years,4462,3657,2648,1528,,1009
+2022-07-05,Norfolk,Wellesley,30-49 Years,5413,5437,4819,3520,,618
+2022-07-05,Norfolk,Wellesley,50-64 Years,5509,6124,5568,4553,,556
+2022-07-05,Norfolk,Wellesley,65-74 Years,2621,2602,2309,1951,,293
+2022-07-05,Norfolk,Wellesley,75+ Years,2134,2387,2128,1864,,259
+2022-07-05,Norfolk,Wellesley,Total,29713,27285,23448,16157,,3837
+2022-07-12,Suffolk,Chelsea,0-4 Years,3243,68,0,0,0,68
+2022-07-12,Suffolk,Chelsea,5-11 Years,3649,2303,1656,84,0,647
+2022-07-12,Suffolk,Chelsea,12-15 Years,1955,2272,1885,470,1,387
+2022-07-12,Suffolk,Chelsea,16-19 Years,1897,2300,1759,595,1,541
+2022-07-12,Suffolk,Chelsea,20-29 Years,6620,6983,5510,1791,15,1473
+2022-07-12,Suffolk,Chelsea,30-49 Years,13206,14013,11625,5035,100,2388
+2022-07-12,Suffolk,Chelsea,50-64 Years,6376,7066,6032,3746,722,1034
+2022-07-12,Suffolk,Chelsea,65-74 Years,2242,2535,2251,1672,620,284
+2022-07-12,Suffolk,Chelsea,75+ Years,1595,1716,1499,1166,554,217
+2022-07-12,Suffolk,Chelsea,Total,40787,39256,32217,14559,2013,7039
+2022-07-12,Suffolk,Revere,0-4 Years,3785,67,0,0,,67
+2022-07-12,Suffolk,Revere,5-11 Years,4684,2375,1903,89,,472
+2022-07-12,Suffolk,Revere,12-15 Years,2734,2594,2266,497,2,328
+2022-07-12,Suffolk,Revere,16-19 Years,2875,2762,2366,916,4,396
+2022-07-12,Suffolk,Revere,20-29 Years,8324,8948,7368,2659,23,1580
+2022-07-12,Suffolk,Revere,30-49 Years,18441,18711,16018,6998,111,2693
+2022-07-12,Suffolk,Revere,50-64 Years,12047,11320,10083,6194,928,1237
+2022-07-12,Suffolk,Revere,65-74 Years,4983,4770,4305,3252,1045,465
+2022-07-12,Suffolk,Revere,75+ Years,4309,3536,3085,2407,942,451
+2022-07-12,Suffolk,Revere,Total,62185,55083,47394,23012,3055,7689
+2022-07-12,Middlesex,Newton,0-4 Years,4275,827,0,0,0,827
+2022-07-12,Middlesex,Newton,5-11 Years,7271,7142,6535,1627,2,607
+2022-07-12,Middlesex,Newton,12-15 Years,4707,6058,5458,3300,8,600
+2022-07-12,Middlesex,Newton,16-19 Years,7883,5932,5081,3463,38,851
+2022-07-12,Middlesex,Newton,20-29 Years,11715,11016,8841,5226,123,2175
+2022-07-12,Middlesex,Newton,30-49 Years,19435,22993,20196,14410,605,2797
+2022-07-12,Middlesex,Newton,50-64 Years,17052,20161,18173,14485,5458,1988
+2022-07-12,Middlesex,Newton,65-74 Years,9331,11674,10481,8797,5069,1193
+2022-07-12,Middlesex,Newton,75+ Years,7251,8836,7829,6821,4239,1007
+2022-07-12,Middlesex,Newton,Total,88923,94639,82594,58129,15542,12045
+2022-07-12,Norfolk,Wellesley,0-4 Years,1624,231,0,0,0,231
+2022-07-12,Norfolk,Wellesley,5-11 Years,2706,2347,2080,376,2,267
+2022-07-12,Norfolk,Wellesley,12-15 Years,1761,2046,1894,1039,1,152
+2022-07-12,Norfolk,Wellesley,16-19 Years,3236,2515,2005,1364,6,510
+2022-07-12,Norfolk,Wellesley,20-29 Years,4280,3657,2647,1527,34,1010
+2022-07-12,Norfolk,Wellesley,30-49 Years,5488,5443,4823,3527,140,620
+2022-07-12,Norfolk,Wellesley,50-64 Years,5624,6122,5571,4560,1611,551
+2022-07-12,Norfolk,Wellesley,65-74 Years,2647,2602,2310,1953,1098,292
+2022-07-12,Norfolk,Wellesley,75+ Years,2179,2386,2131,1869,1172,255
+2022-07-12,Norfolk,Wellesley,Total,29549,27349,23461,16215,4064,3888
+2022-07-19,Suffolk,Chelsea,0-4 Years,3243,100,2,0,0,98
+2022-07-19,Suffolk,Chelsea,5-11 Years,3650,2332,1676,113,0,656
+2022-07-19,Suffolk,Chelsea,12-15 Years,1955,2278,1888,480,1,390
+2022-07-19,Suffolk,Chelsea,16-19 Years,1897,2302,1760,605,1,542
+2022-07-19,Suffolk,Chelsea,20-29 Years,6620,6990,5514,1806,15,1476
+2022-07-19,Suffolk,Chelsea,30-49 Years,13206,14013,11621,5051,107,2392
+2022-07-19,Suffolk,Chelsea,50-64 Years,6377,7073,6038,3768,768,1035
+2022-07-19,Suffolk,Chelsea,65-74 Years,2243,2538,2256,1684,644,282
+2022-07-19,Suffolk,Chelsea,75+ Years,1595,1715,1500,1171,564,215
+2022-07-19,Suffolk,Chelsea,Total,40787,39341,32255,14678,2100,7086
+2022-07-19,Suffolk,Revere,0-4 Years,3785,86,2,0,0,84
+2022-07-19,Suffolk,Revere,5-11 Years,4684,2386,1912,104,0,474
+2022-07-19,Suffolk,Revere,12-15 Years,2735,2596,2267,514,2,329
+2022-07-19,Suffolk,Revere,16-19 Years,2876,2765,2371,930,4,394
+2022-07-19,Suffolk,Revere,20-29 Years,8324,8963,7373,2678,24,1590
+2022-07-19,Suffolk,Revere,30-49 Years,18442,18712,16024,7034,122,2688
+2022-07-19,Suffolk,Revere,50-64 Years,12047,11319,10088,6218,992,1231
+2022-07-19,Suffolk,Revere,65-74 Years,4983,4771,4311,3263,1091,460
+2022-07-19,Suffolk,Revere,75+ Years,4310,3534,3088,2418,984,446
+2022-07-19,Suffolk,Revere,Total,62186,55132,47436,23159,3219,7696
+2022-07-19,Middlesex,Newton,0-4 Years,4275,1036,60,0,0,976
+2022-07-19,Middlesex,Newton,5-11 Years,7271,7168,6552,1738,2,616
+2022-07-19,Middlesex,Newton,12-15 Years,4707,6071,5470,3340,8,601
+2022-07-19,Middlesex,Newton,16-19 Years,7883,5935,5083,3487,40,852
+2022-07-19,Middlesex,Newton,20-29 Years,11715,11026,8846,5240,128,2180
+2022-07-19,Middlesex,Newton,30-49 Years,19435,23002,20209,14438,655,2793
+2022-07-19,Middlesex,Newton,50-64 Years,17053,20179,18193,14529,5710,1986
+2022-07-19,Middlesex,Newton,65-74 Years,9332,11668,10487,8817,5185,1181
+2022-07-19,Middlesex,Newton,75+ Years,7251,8839,7833,6840,4323,1006
+2022-07-19,Middlesex,Newton,Total,88923,94924,82733,58429,16051,12191
+2022-07-19,Norfolk,Wellesley,0-4 Years,1625,295,23,,,272
+2022-07-19,Norfolk,Wellesley,5-11 Years,2706,2357,2091,406,2,266
+2022-07-19,Norfolk,Wellesley,12-15 Years,1762,2050,1904,1051,1,146
+2022-07-19,Norfolk,Wellesley,16-19 Years,3237,2516,2003,1370,6,513
+2022-07-19,Norfolk,Wellesley,20-29 Years,4280,3658,2652,1535,38,1006
+2022-07-19,Norfolk,Wellesley,30-49 Years,5489,5442,4825,3528,150,617
+2022-07-19,Norfolk,Wellesley,50-64 Years,5625,6124,5574,4571,1699,550
+2022-07-19,Norfolk,Wellesley,65-74 Years,2647,2604,2314,1963,1126,290
+2022-07-19,Norfolk,Wellesley,75+ Years,2179,2382,2130,1866,1187,252
+2022-07-19,Norfolk,Wellesley,Total,29550,27428,23516,16290,4209,3912
+2022-07-26,Suffolk,Chelsea,0-4 Years,3243,127,11,0,0,116
+2022-07-26,Suffolk,Chelsea,5-11 Years,3649,2347,1687,131,0,660
+2022-07-26,Suffolk,Chelsea,12-15 Years,1955,2284,1893,490,1,391
+2022-07-26,Suffolk,Chelsea,16-19 Years,1897,2306,1765,612,1,541
+2022-07-26,Suffolk,Chelsea,20-29 Years,6620,6996,5523,1822,16,1473
+2022-07-26,Suffolk,Chelsea,30-49 Years,13206,14018,11627,5075,112,2391
+2022-07-26,Suffolk,Chelsea,50-64 Years,6376,7071,6036,3790,819,1035
+2022-07-26,Suffolk,Chelsea,65-74 Years,2242,2538,2261,1693,679,277
+2022-07-26,Suffolk,Chelsea,75+ Years,1595,1715,1501,1178,581,214
+2022-07-26,Suffolk,Chelsea,Total,40787,39402,32304,14791,2209,7098
+2022-07-26,Suffolk,Revere,0-4 Years,3785,120,12,0,0,108
+2022-07-26,Suffolk,Revere,5-11 Years,4684,2407,1926,128,0,481
+2022-07-26,Suffolk,Revere,12-15 Years,2734,2602,2271,538,2,331
+2022-07-26,Suffolk,Revere,16-19 Years,2875,2771,2374,944,4,397
+2022-07-26,Suffolk,Revere,20-29 Years,8324,8969,7380,2696,25,1589
+2022-07-26,Suffolk,Revere,30-49 Years,18441,18728,16039,7075,134,2689
+2022-07-26,Suffolk,Revere,50-64 Years,12047,11337,10105,6248,1092,1232
+2022-07-26,Suffolk,Revere,65-74 Years,4983,4777,4312,3275,1134,465
+2022-07-26,Suffolk,Revere,75+ Years,4309,3529,3088,2421,1015,441
+2022-07-26,Suffolk,Revere,Total,62185,55240,47507,23325,3406,7733
+2022-07-26,Middlesex,Newton,0-4 Years,4275,1181,338,0,0,843
+2022-07-26,Middlesex,Newton,5-11 Years,7271,7194,6562,1828,2,632
+2022-07-26,Middlesex,Newton,12-15 Years,4707,6076,5483,3369,10,593
+2022-07-26,Middlesex,Newton,16-19 Years,7883,5941,5085,3492,44,856
+2022-07-26,Middlesex,Newton,20-29 Years,11715,11029,8854,5254,133,2175
+2022-07-26,Middlesex,Newton,30-49 Years,19435,23003,20218,14475,685,2785
+2022-07-26,Middlesex,Newton,50-64 Years,17052,20187,18215,14562,5902,1972
+2022-07-26,Middlesex,Newton,65-74 Years,9331,11667,10498,8845,5290,1169
+2022-07-26,Middlesex,Newton,75+ Years,7251,8837,7833,6848,4387,1004
+2022-07-26,Middlesex,Newton,Total,88923,95115,83086,58673,16453,12029
+2022-07-26,Norfolk,Wellesley,0-4 Years,1624,343,80,0,0,263
+2022-07-26,Norfolk,Wellesley,5-11 Years,2706,2364,2095,428,2,269
+2022-07-26,Norfolk,Wellesley,12-15 Years,1761,2052,1906,1064,1,146
+2022-07-26,Norfolk,Wellesley,16-19 Years,3236,2515,2008,1387,8,507
+2022-07-26,Norfolk,Wellesley,20-29 Years,4280,3658,2652,1541,38,1006
+2022-07-26,Norfolk,Wellesley,30-49 Years,5488,5445,4826,3536,157,619
+2022-07-26,Norfolk,Wellesley,50-64 Years,5624,6130,5577,4583,1786,553
+2022-07-26,Norfolk,Wellesley,65-74 Years,2647,2605,2315,1974,1159,290
+2022-07-26,Norfolk,Wellesley,75+ Years,2179,2385,2133,1870,1217,252
+2022-07-26,Norfolk,Wellesley,Total,29549,27497,23592,16383,4368,3905
+2022-08-02,Suffolk,Chelsea,0-4 Years,3243,156,7,0,0,149
+2022-08-02,Suffolk,Chelsea,5-11 Years,3650,2359,1695,152,0,664
+2022-08-02,Suffolk,Chelsea,12-15 Years,1955,2281,1897,502,1,384
+2022-08-02,Suffolk,Chelsea,16-19 Years,1897,2305,1766,622,2,539
+2022-08-02,Suffolk,Chelsea,20-29 Years,6620,6989,5524,1833,18,1465
+2022-08-02,Suffolk,Chelsea,30-49 Years,13206,14011,11629,5094,117,2382
+2022-08-02,Suffolk,Chelsea,50-64 Years,6377,7071,6036,3805,867,1035
+2022-08-02,Suffolk,Chelsea,65-74 Years,2243,2540,2261,1699,694,279
+2022-08-02,Suffolk,Chelsea,75+ Years,1595,1717,1503,1182,592,214
+2022-08-02,Suffolk,Chelsea,Total,40787,39429,32318,14889,2291,7111
+2022-08-02,Suffolk,Revere,0-4 Years,3785,146,4,0,0,142
+2022-08-02,Suffolk,Revere,5-11 Years,4684,2429,1934,146,0,495
+2022-08-02,Suffolk,Revere,12-15 Years,2735,2605,2273,551,2,332
+2022-08-02,Suffolk,Revere,16-19 Years,2876,2775,2375,953,4,400
+2022-08-02,Suffolk,Revere,20-29 Years,8324,8985,7390,2718,27,1595
+2022-08-02,Suffolk,Revere,30-49 Years,18442,18745,16048,7095,137,2697
+2022-08-02,Suffolk,Revere,50-64 Years,12047,11342,10107,6275,1142,1235
+2022-08-02,Suffolk,Revere,65-74 Years,4983,4781,4311,3279,1178,470
+2022-08-02,Suffolk,Revere,75+ Years,4310,3529,3087,2424,1041,442
+2022-08-02,Suffolk,Revere,Total,62186,55337,47529,23441,3531,7808
+2022-08-02,Middlesex,Newton,0-4 Years,4275,1305,355,0,0,950
+2022-08-02,Middlesex,Newton,5-11 Years,7271,7229,6582,1934,3,647
+2022-08-02,Middlesex,Newton,12-15 Years,4707,6081,5482,3387,10,599
+2022-08-02,Middlesex,Newton,16-19 Years,7883,5938,5085,3511,49,853
+2022-08-02,Middlesex,Newton,20-29 Years,11715,11035,8854,5261,140,2181
+2022-08-02,Middlesex,Newton,30-49 Years,19435,23003,20226,14502,723,2777
+2022-08-02,Middlesex,Newton,50-64 Years,17053,20186,18220,14584,6066,1966
+2022-08-02,Middlesex,Newton,65-74 Years,9332,11675,10515,8851,5361,1160
+2022-08-02,Middlesex,Newton,75+ Years,7251,8836,7837,6859,4446,999
+2022-08-02,Middlesex,Newton,Total,88923,95288,83156,58889,16798,12132
+2022-08-02,Norfolk,Wellesley,0-4 Years,1625,375,64,0,0,311
+2022-08-02,Norfolk,Wellesley,5-11 Years,2706,2373,2099,454,2,274
+2022-08-02,Norfolk,Wellesley,12-15 Years,1762,2054,1906,1070,1,148
+2022-08-02,Norfolk,Wellesley,16-19 Years,3237,2516,2009,1387,9,507
+2022-08-02,Norfolk,Wellesley,20-29 Years,4280,3662,2653,1541,40,1009
+2022-08-02,Norfolk,Wellesley,30-49 Years,5489,5445,4828,3543,160,617
+2022-08-02,Norfolk,Wellesley,50-64 Years,5625,6135,5579,4585,1820,556
+2022-08-02,Norfolk,Wellesley,65-74 Years,2647,2608,2317,1977,1171,291
+2022-08-02,Norfolk,Wellesley,75+ Years,2179,2385,2132,1870,1230,253
+2022-08-02,Norfolk,Wellesley,Total,29550,27553,23587,16427,4433,3966
+2022-08-09,Suffolk,Chelsea,0-4 Years,3243,178,13,0,0,165
+2022-08-09,Suffolk,Chelsea,5-11 Years,3650,2370,1710,166,0,660
+2022-08-09,Suffolk,Chelsea,12-15 Years,1955,2282,1898,510,1,384
+2022-08-09,Suffolk,Chelsea,16-19 Years,1897,2305,1766,628,5,539
+2022-08-09,Suffolk,Chelsea,20-29 Years,6620,6988,5525,1842,18,1463
+2022-08-09,Suffolk,Chelsea,30-49 Years,13206,14006,11634,5108,124,2372
+2022-08-09,Suffolk,Chelsea,50-64 Years,6377,7073,6039,3821,899,1034
+2022-08-09,Suffolk,Chelsea,65-74 Years,2243,2540,2264,1704,712,276
+2022-08-09,Suffolk,Chelsea,75+ Years,1595,1717,1505,1185,609,212
+2022-08-09,Suffolk,Chelsea,Total,40787,39459,32354,14964,2368,7105
+2022-08-09,Suffolk,Revere,0-4 Years,3785,170,9,0,0,161
+2022-08-09,Suffolk,Revere,5-11 Years,4684,2448,1941,152,0,507
+2022-08-09,Suffolk,Revere,12-15 Years,2735,2605,2273,564,2,332
+2022-08-09,Suffolk,Revere,16-19 Years,2876,2777,2381,967,5,396
+2022-08-09,Suffolk,Revere,20-29 Years,8324,8987,7389,2728,27,1598
+2022-08-09,Suffolk,Revere,30-49 Years,18442,18756,16059,7122,143,2697
+2022-08-09,Suffolk,Revere,50-64 Years,12047,11354,10117,6291,1190,1237
+2022-08-09,Suffolk,Revere,65-74 Years,4983,4782,4312,3286,1209,470
+2022-08-09,Suffolk,Revere,75+ Years,4310,3534,3089,2427,1064,445
+2022-08-09,Suffolk,Revere,Total,62186,55413,47570,23537,3640,7843
+2022-08-09,Middlesex,Newton,0-4 Years,4275,1382,456,0,0,926
+2022-08-09,Middlesex,Newton,5-11 Years,7271,7253,6600,1989,3,653
+2022-08-09,Middlesex,Newton,12-15 Years,4707,6074,5480,3400,10,594
+2022-08-09,Middlesex,Newton,16-19 Years,7883,5937,5085,3518,54,852
+2022-08-09,Middlesex,Newton,20-29 Years,11715,11035,8856,5271,145,2179
+2022-08-09,Middlesex,Newton,30-49 Years,19435,23003,20226,14510,741,2777
+2022-08-09,Middlesex,Newton,50-64 Years,17053,20190,18231,14605,6168,1959
+2022-08-09,Middlesex,Newton,65-74 Years,9332,11669,10521,8852,5413,1148
+2022-08-09,Middlesex,Newton,75+ Years,7251,8832,7843,6865,4481,989
+2022-08-09,Middlesex,Newton,Total,88923,95375,83298,59010,17015,12077
+2022-08-09,Norfolk,Wellesley,0-4 Years,1625,404,86,0,0,318
+2022-08-09,Norfolk,Wellesley,5-11 Years,2706,2381,2106,473,2,275
+2022-08-09,Norfolk,Wellesley,12-15 Years,1762,2058,1908,1075,1,150
+2022-08-09,Norfolk,Wellesley,16-19 Years,3237,2519,2013,1392,12,506
+2022-08-09,Norfolk,Wellesley,20-29 Years,4280,3662,2651,1542,40,1011
+2022-08-09,Norfolk,Wellesley,30-49 Years,5489,5447,4833,3546,164,614
+2022-08-09,Norfolk,Wellesley,50-64 Years,5625,6140,5585,4591,1847,555
+2022-08-09,Norfolk,Wellesley,65-74 Years,2647,2609,2318,1978,1185,291
+2022-08-09,Norfolk,Wellesley,75+ Years,2179,2383,2129,1867,1234,254
+2022-08-09,Norfolk,Wellesley,Total,29550,27603,23629,16464,4485,3974
+2022-08-16,Suffolk,Chelsea,0-4 Years,3243,208,19,0,0,189
+2022-08-16,Suffolk,Chelsea,5-11 Years,3650,2396,1732,195,0,664
+2022-08-16,Suffolk,Chelsea,12-15 Years,1955,2292,1905,527,1,387
+2022-08-16,Suffolk,Chelsea,16-19 Years,1897,2304,1765,642,5,539
+2022-08-16,Suffolk,Chelsea,20-29 Years,6620,7001,5531,1849,20,1470
+2022-08-16,Suffolk,Chelsea,30-49 Years,13206,14014,11639,5139,128,2375
+2022-08-16,Suffolk,Chelsea,50-64 Years,6377,7071,6046,3836,924,1025
+2022-08-16,Suffolk,Chelsea,65-74 Years,2243,2541,2265,1706,726,276
+2022-08-16,Suffolk,Chelsea,75+ Years,1595,1716,1504,1186,612,212
+2022-08-16,Suffolk,Chelsea,Total,40787,39543,32406,15080,2416,7137
+2022-08-16,Suffolk,Revere,0-4 Years,3785,199,15,0,0,184
+2022-08-16,Suffolk,Revere,5-11 Years,4684,2461,1955,172,1,506
+2022-08-16,Suffolk,Revere,12-15 Years,2735,2611,2278,586,2,333
+2022-08-16,Suffolk,Revere,16-19 Years,2876,2777,2382,982,7,395
+2022-08-16,Suffolk,Revere,20-29 Years,8324,8993,7391,2741,27,1602
+2022-08-16,Suffolk,Revere,30-49 Years,18442,18763,16061,7140,145,2702
+2022-08-16,Suffolk,Revere,50-64 Years,12047,11361,10120,6304,1221,1241
+2022-08-16,Suffolk,Revere,65-74 Years,4983,4785,4316,3296,1228,469
+2022-08-16,Suffolk,Revere,75+ Years,4310,3539,3089,2429,1076,450
+2022-08-16,Suffolk,Revere,Total,62186,55489,47607,23650,3707,7882
+2022-08-16,Middlesex,Newton,0-4 Years,4275,1472,566,0,0,906
+2022-08-16,Middlesex,Newton,5-11 Years,7271,7294,6622,2067,5,672
+2022-08-16,Middlesex,Newton,12-15 Years,4707,6075,5481,3415,10,594
+2022-08-16,Middlesex,Newton,16-19 Years,7883,5942,5086,3530,53,856
+2022-08-16,Middlesex,Newton,20-29 Years,11715,11034,8858,5276,148,2176
+2022-08-16,Middlesex,Newton,30-49 Years,19435,23022,20232,14525,764,2790
+2022-08-16,Middlesex,Newton,50-64 Years,17053,20184,18228,14623,6268,1956
+2022-08-16,Middlesex,Newton,65-74 Years,9332,11664,10524,8865,5449,1140
+2022-08-16,Middlesex,Newton,75+ Years,7251,8807,7837,6876,4526,970
+2022-08-16,Middlesex,Newton,Total,88923,95494,83434,59177,17223,12060
+2022-08-16,Norfolk,Wellesley,0-4 Years,1625,429,120,0,0,309
+2022-08-16,Norfolk,Wellesley,5-11 Years,2706,2388,2109,501,2,279
+2022-08-16,Norfolk,Wellesley,12-15 Years,1762,2058,1906,1081,2,152
+2022-08-16,Norfolk,Wellesley,16-19 Years,3237,2520,2011,1402,13,509
+2022-08-16,Norfolk,Wellesley,20-29 Years,4280,3664,2651,1546,39,1013
+2022-08-16,Norfolk,Wellesley,30-49 Years,5489,5448,4834,3547,165,614
+2022-08-16,Norfolk,Wellesley,50-64 Years,5625,6137,5588,4597,1873,549
+2022-08-16,Norfolk,Wellesley,65-74 Years,2647,2607,2318,1978,1196,289
+2022-08-16,Norfolk,Wellesley,75+ Years,2179,2377,2124,1862,1249,253
+2022-08-16,Norfolk,Wellesley,Total,29550,27628,23661,16514,4539,3967
+2022-08-23,Suffolk,Chelsea,0-4 Years,3243,226,22,0,0,204
+2022-08-23,Suffolk,Chelsea,5-11 Years,3649,2402,1749,208,0,653
+2022-08-23,Suffolk,Chelsea,12-15 Years,1955,2290,1904,543,1,386
+2022-08-23,Suffolk,Chelsea,16-19 Years,1897,2310,1769,654,5,541
+2022-08-23,Suffolk,Chelsea,20-29 Years,6620,7001,5533,1861,20,1468
+2022-08-23,Suffolk,Chelsea,30-49 Years,13206,14020,11648,5161,130,2372
+2022-08-23,Suffolk,Chelsea,50-64 Years,6376,7068,6047,3856,953,1021
+2022-08-23,Suffolk,Chelsea,65-74 Years,2242,2540,2267,1711,740,273
+2022-08-23,Suffolk,Chelsea,75+ Years,1595,1716,1504,1187,617,212
+2022-08-23,Suffolk,Chelsea,Total,40787,39573,32443,15181,2466,7130
+2022-08-23,Suffolk,Revere,0-4 Years,3785,217,17,0,0,200
+2022-08-23,Suffolk,Revere,5-11 Years,4684,2466,1980,200,1,486
+2022-08-23,Suffolk,Revere,12-15 Years,2734,2610,2278,601,2,332
+2022-08-23,Suffolk,Revere,16-19 Years,2875,2783,2385,994,7,398
+2022-08-23,Suffolk,Revere,20-29 Years,8324,8999,7395,2757,30,1604
+2022-08-23,Suffolk,Revere,30-49 Years,18441,18772,16062,7158,152,2710
+2022-08-23,Suffolk,Revere,50-64 Years,12047,11367,10124,6321,1267,1243
+2022-08-23,Suffolk,Revere,65-74 Years,4983,4786,4321,3300,1248,465
+2022-08-23,Suffolk,Revere,75+ Years,4309,3537,3089,2430,1088,448
+2022-08-23,Suffolk,Revere,Total,62185,55537,47651,23761,3795,7886
+2022-08-23,Middlesex,Newton,0-4 Years,4275,1533,651,0,0,882
+2022-08-23,Middlesex,Newton,5-11 Years,7271,7304,6635,2139,5,669
+2022-08-23,Middlesex,Newton,12-15 Years,4707,6077,5483,3430,10,594
+2022-08-23,Middlesex,Newton,16-19 Years,7883,5948,5086,3547,53,862
+2022-08-23,Middlesex,Newton,20-29 Years,11715,11035,8857,5283,151,2178
+2022-08-23,Middlesex,Newton,30-49 Years,19435,23030,20239,14536,780,2791
+2022-08-23,Middlesex,Newton,50-64 Years,17052,20187,18231,14639,6329,1956
+2022-08-23,Middlesex,Newton,65-74 Years,9331,11658,10521,8872,5497,1137
+2022-08-23,Middlesex,Newton,75+ Years,7251,8803,7841,6878,4542,962
+2022-08-23,Middlesex,Newton,Total,88923,95575,83544,59324,17367,12031
+2022-08-23,Norfolk,Wellesley,0-4 Years,1624,452,140,0,0,312
+2022-08-23,Norfolk,Wellesley,5-11 Years,2706,2392,2115,533,2,277
+2022-08-23,Norfolk,Wellesley,12-15 Years,1761,2061,1912,1094,3,149
+2022-08-23,Norfolk,Wellesley,16-19 Years,3236,2523,2013,1406,14,510
+2022-08-23,Norfolk,Wellesley,20-29 Years,4280,3667,2652,1548,39,1015
+2022-08-23,Norfolk,Wellesley,30-49 Years,5488,5455,4839,3552,170,616
+2022-08-23,Norfolk,Wellesley,50-64 Years,5624,6143,5595,4596,1893,548
+2022-08-23,Norfolk,Wellesley,65-74 Years,2647,2607,2318,1979,1196,289
+2022-08-23,Norfolk,Wellesley,75+ Years,2179,2377,2123,1861,1254,254
+2022-08-23,Norfolk,Wellesley,Total,29549,27677,23707,16569,4571,3970
+2022-08-30,Suffolk,Chelsea,0-4 Years,3243,247,23,0,0,224
+2022-08-30,Suffolk,Chelsea,5-11 Years,3649,2422,1760,220,0,662
+2022-08-30,Suffolk,Chelsea,12-15 Years,1955,2297,1910,558,1,387
+2022-08-30,Suffolk,Chelsea,16-19 Years,1897,2312,1773,667,5,539
+2022-08-30,Suffolk,Chelsea,20-29 Years,6620,7011,5537,1870,21,1474
+2022-08-30,Suffolk,Chelsea,30-49 Years,13206,14030,11651,5177,132,2379
+2022-08-30,Suffolk,Chelsea,50-64 Years,6376,7068,6047,3861,975,1021
+2022-08-30,Suffolk,Chelsea,65-74 Years,2242,2542,2268,1716,746,274
+2022-08-30,Suffolk,Chelsea,75+ Years,1595,1719,1506,1190,624,213
+2022-08-30,Suffolk,Chelsea,Total,40787,39648,32475,15259,2504,7173
+2022-08-30,Suffolk,Revere,0-4 Years,3785,253,20,0,0,233
+2022-08-30,Suffolk,Revere,5-11 Years,4684,2483,1993,221,1,490
+2022-08-30,Suffolk,Revere,12-15 Years,2734,2615,2280,614,2,335
+2022-08-30,Suffolk,Revere,16-19 Years,2875,2784,2386,1007,8,398
+2022-08-30,Suffolk,Revere,20-29 Years,8324,9004,7397,2770,29,1607
+2022-08-30,Suffolk,Revere,30-49 Years,18441,18781,16065,7179,154,2716
+2022-08-30,Suffolk,Revere,50-64 Years,12047,11369,10125,6333,1295,1244
+2022-08-30,Suffolk,Revere,65-74 Years,4983,4787,4323,3303,1268,464
+2022-08-30,Suffolk,Revere,75+ Years,4309,3543,3091,2432,1100,452
+2022-08-30,Suffolk,Revere,Total,62185,55619,47680,23859,3857,7939
+2022-08-30,Middlesex,Newton,0-4 Years,4275,1589,724,0,0,865
+2022-08-30,Middlesex,Newton,5-11 Years,7271,7306,6652,2238,6,654
+2022-08-30,Middlesex,Newton,12-15 Years,4707,6074,5485,3452,11,589
+2022-08-30,Middlesex,Newton,16-19 Years,7883,5958,5084,3552,53,874
+2022-08-30,Middlesex,Newton,20-29 Years,11715,11041,8858,5295,152,2183
+2022-08-30,Middlesex,Newton,30-49 Years,19435,23028,20246,14553,792,2782
+2022-08-30,Middlesex,Newton,50-64 Years,17052,20184,18239,14653,6383,1945
+2022-08-30,Middlesex,Newton,65-74 Years,9331,11641,10518,8880,5525,1123
+2022-08-30,Middlesex,Newton,75+ Years,7251,8796,7846,6885,4571,950
+2022-08-30,Middlesex,Newton,Total,88923,95617,83652,59508,17493,11965
+2022-08-30,Norfolk,Wellesley,0-4 Years,1624,471,165,0,0,306
+2022-08-30,Norfolk,Wellesley,5-11 Years,2706,2386,2115,574,2,271
+2022-08-30,Norfolk,Wellesley,12-15 Years,1761,2062,1915,1107,4,147
+2022-08-30,Norfolk,Wellesley,16-19 Years,3236,2526,2014,1418,15,512
+2022-08-30,Norfolk,Wellesley,20-29 Years,4280,3664,2653,1554,39,1011
+2022-08-30,Norfolk,Wellesley,30-49 Years,5488,5455,4837,3548,171,618
+2022-08-30,Norfolk,Wellesley,50-64 Years,5624,6144,5597,4600,1911,547
+2022-08-30,Norfolk,Wellesley,65-74 Years,2647,2608,2318,1979,1204,290
+2022-08-30,Norfolk,Wellesley,75+ Years,2179,2376,2123,1861,1257,253
+2022-08-30,Norfolk,Wellesley,Total,29549,27692,23737,16641,4603,3955
+2022-09-06,Suffolk,Chelsea,0-4 Years,3243,266,26,0,0,240
+2022-09-06,Suffolk,Chelsea,5-11 Years,3649,2437,1773,237,0,664
+2022-09-06,Suffolk,Chelsea,12-15 Years,1955,2294,1911,564,2,383
+2022-09-06,Suffolk,Chelsea,16-19 Years,1897,2310,1780,678,6,530
+2022-09-06,Suffolk,Chelsea,20-29 Years,6620,7002,5548,1884,21,1454
+2022-09-06,Suffolk,Chelsea,30-49 Years,13206,14013,11668,5211,134,2345
+2022-09-06,Suffolk,Chelsea,50-64 Years,6376,7062,6048,3871,985,1014
+2022-09-06,Suffolk,Chelsea,65-74 Years,2242,2537,2267,1720,749,270
+2022-09-06,Suffolk,Chelsea,75+ Years,1595,1719,1505,1191,627,214
+2022-09-06,Suffolk,Chelsea,Total,40787,39640,32526,15356,2524,7114
+2022-09-06,Suffolk,Revere,0-4 Years,3785,274,20,0,0,254
+2022-09-06,Suffolk,Revere,5-11 Years,4684,2498,2004,229,1,494
+2022-09-06,Suffolk,Revere,12-15 Years,2734,2616,2281,622,2,335
+2022-09-06,Suffolk,Revere,16-19 Years,2875,2788,2391,1018,8,397
+2022-09-06,Suffolk,Revere,20-29 Years,8324,9001,7404,2781,30,1597
+2022-09-06,Suffolk,Revere,30-49 Years,18441,18760,16064,7211,157,2696
+2022-09-06,Suffolk,Revere,50-64 Years,12047,11351,10121,6348,1310,1230
+2022-09-06,Suffolk,Revere,65-74 Years,4983,4783,4320,3304,1277,463
+2022-09-06,Suffolk,Revere,75+ Years,4309,3543,3091,2433,1114,452
+2022-09-06,Suffolk,Revere,Total,62185,55614,47696,23946,3899,7918
+2022-09-06,Middlesex,Newton,0-4 Years,4275,1618,779,0,0,839
+2022-09-06,Middlesex,Newton,5-11 Years,7271,7324,6672,2305,6,652
+2022-09-06,Middlesex,Newton,12-15 Years,4707,6071,5486,3465,11,585
+2022-09-06,Middlesex,Newton,16-19 Years,7883,5958,5084,3559,53,874
+2022-09-06,Middlesex,Newton,20-29 Years,11715,11046,8858,5300,156,2188
+2022-09-06,Middlesex,Newton,30-49 Years,19435,23019,20253,14571,797,2766
+2022-09-06,Middlesex,Newton,50-64 Years,17052,20171,18234,14658,6404,1937
+2022-09-06,Middlesex,Newton,65-74 Years,9331,11634,10512,8880,5534,1122
+2022-09-06,Middlesex,Newton,75+ Years,7251,8784,7848,6890,4582,936
+2022-09-06,Middlesex,Newton,Total,88923,95625,83726,59628,17543,11899
+2022-09-06,Norfolk,Wellesley,0-4 Years,1624,485,181,0,0,304
+2022-09-06,Norfolk,Wellesley,5-11 Years,2706,2391,2120,589,2,271
+2022-09-06,Norfolk,Wellesley,12-15 Years,1761,2059,1914,1109,4,145
+2022-09-06,Norfolk,Wellesley,16-19 Years,3236,2526,2014,1420,15,512
+2022-09-06,Norfolk,Wellesley,20-29 Years,4280,3668,2654,1556,39,1014
+2022-09-06,Norfolk,Wellesley,30-49 Years,5488,5455,4842,3550,171,613
+2022-09-06,Norfolk,Wellesley,50-64 Years,5624,6143,5597,4601,1924,546
+2022-09-06,Norfolk,Wellesley,65-74 Years,2647,2608,2318,1979,1205,290
+2022-09-06,Norfolk,Wellesley,75+ Years,2179,2374,2123,1862,1258,251
+2022-09-06,Norfolk,Wellesley,Total,29549,27709,23763,16666,4618,3946
+2022-09-13,Suffolk,Chelsea,0-4 Years,3243,297,28,0,0,269
+2022-09-13,Suffolk,Chelsea,5-11 Years,3649,2445,1788,245,0,657
+2022-09-13,Suffolk,Chelsea,12-15 Years,1955,2285,1923,574,7,362
+2022-09-13,Suffolk,Chelsea,16-19 Years,1897,2305,1787,689,9,518
+2022-09-13,Suffolk,Chelsea,20-29 Years,6620,6991,5555,1908,33,1436
+2022-09-13,Suffolk,Chelsea,30-49 Years,13206,13968,11684,5254,179,2284
+2022-09-13,Suffolk,Chelsea,50-64 Years,6376,7037,6045,3898,1010,992
+2022-09-13,Suffolk,Chelsea,65-74 Years,2242,2522,2273,1732,762,249
+2022-09-13,Suffolk,Chelsea,75+ Years,1595,1717,1503,1193,628,214
+2022-09-13,Suffolk,Chelsea,Total,40787,39567,32586,15493,2628,6981
+2022-09-13,Suffolk,Revere,0-4 Years,3785,295,27,0,0,268
+2022-09-13,Suffolk,Revere,5-11 Years,4684,2508,2017,237,1,491
+2022-09-13,Suffolk,Revere,12-15 Years,2734,2615,2280,624,3,335
+2022-09-13,Suffolk,Revere,16-19 Years,2875,2788,2398,1027,13,390
+2022-09-13,Suffolk,Revere,20-29 Years,8324,8982,7411,2805,41,1571
+2022-09-13,Suffolk,Revere,30-49 Years,18441,18709,16076,7262,216,2633
+2022-09-13,Suffolk,Revere,50-64 Years,12047,11353,10136,6367,1339,1217
+2022-09-13,Suffolk,Revere,65-74 Years,4983,4777,4326,3314,1301,451
+2022-09-13,Suffolk,Revere,75+ Years,4309,3540,3095,2439,1126,445
+2022-09-13,Suffolk,Revere,Total,62185,55567,47766,24075,4040,7801
+2022-09-13,Middlesex,Newton,0-4 Years,4275,1665,878,0,0,787
+2022-09-13,Middlesex,Newton,5-11 Years,7271,7343,6694,2369,7,649
+2022-09-13,Middlesex,Newton,12-15 Years,4707,6087,5499,3481,77,588
+2022-09-13,Middlesex,Newton,16-19 Years,7883,5975,5092,3575,105,883
+2022-09-13,Middlesex,Newton,20-29 Years,11715,11065,8861,5312,228,2204
+2022-09-13,Middlesex,Newton,30-49 Years,19435,23083,20282,14626,1300,2801
+2022-09-13,Middlesex,Newton,50-64 Years,17052,20183,18260,14702,6588,1923
+2022-09-13,Middlesex,Newton,65-74 Years,9331,11641,10533,8926,5686,1108
+2022-09-13,Middlesex,Newton,75+ Years,7251,8785,7873,6916,4665,912
+2022-09-13,Middlesex,Newton,Total,88923,95827,83972,59907,18656,11855
+2022-09-13,Norfolk,Wellesley,0-4 Years,1624,499,210,0,0,289
+2022-09-13,Norfolk,Wellesley,5-11 Years,2706,2397,2126,608,2,271
+2022-09-13,Norfolk,Wellesley,12-15 Years,1761,2060,1912,1117,28,148
+2022-09-13,Norfolk,Wellesley,16-19 Years,3236,2532,2016,1424,29,516
+2022-09-13,Norfolk,Wellesley,20-29 Years,4280,3672,2659,1565,60,1013
+2022-09-13,Norfolk,Wellesley,30-49 Years,5488,5466,4849,3574,316,617
+2022-09-13,Norfolk,Wellesley,50-64 Years,5624,6143,5602,4617,1988,541
+2022-09-13,Norfolk,Wellesley,65-74 Years,2647,2608,2329,1994,1248,279
+2022-09-13,Norfolk,Wellesley,75+ Years,2179,2371,2132,1873,1284,239
+2022-09-13,Norfolk,Wellesley,Total,29549,27748,23835,16772,4955,3913
+2022-09-20,Suffolk,Chelsea,0-4 Years,3243,325,30,0,0,295
+2022-09-20,Suffolk,Chelsea,5-11 Years,3649,2447,1803,262,1,644
+2022-09-20,Suffolk,Chelsea,12-15 Years,1955,2281,1928,586,8,353
+2022-09-20,Suffolk,Chelsea,16-19 Years,1897,2291,1799,702,12,492
+2022-09-20,Suffolk,Chelsea,20-29 Years,6620,6965,5574,1925,40,1391
+2022-09-20,Suffolk,Chelsea,30-49 Years,13206,13916,11707,5317,203,2209
+2022-09-20,Suffolk,Chelsea,50-64 Years,6376,7024,6048,3917,1033,976
+2022-09-20,Suffolk,Chelsea,65-74 Years,2242,2516,2270,1740,774,246
+2022-09-20,Suffolk,Chelsea,75+ Years,1595,1717,1505,1197,638,212
+2022-09-20,Suffolk,Chelsea,Total,40787,39482,32664,15646,2709,6818
+2022-09-20,Suffolk,Revere,0-4 Years,3785,317,38,0,0,279
+2022-09-20,Suffolk,Revere,5-11 Years,4684,2516,2027,255,1,489
+2022-09-20,Suffolk,Revere,12-15 Years,2734,2612,2280,634,4,332
+2022-09-20,Suffolk,Revere,16-19 Years,2875,2781,2398,1041,16,383
+2022-09-20,Suffolk,Revere,20-29 Years,8324,8961,7433,2829,54,1528
+2022-09-20,Suffolk,Revere,30-49 Years,18441,18635,16125,7342,268,2510
+2022-09-20,Suffolk,Revere,50-64 Years,12047,11336,10146,6397,1388,1190
+2022-09-20,Suffolk,Revere,65-74 Years,4983,4770,4329,3325,1344,441
+2022-09-20,Suffolk,Revere,75+ Years,4309,3535,3094,2442,1159,441
+2022-09-20,Suffolk,Revere,Total,62185,55463,47870,24265,4234,7593
+2022-09-20,Middlesex,Newton,0-4 Years,4275,1708,969,0,0,739
+2022-09-20,Middlesex,Newton,5-11 Years,7271,7347,6705,2422,7,642
+2022-09-20,Middlesex,Newton,12-15 Years,4707,6096,5508,3515,207,588
+2022-09-20,Middlesex,Newton,16-19 Years,7883,5974,5096,3589,175,878
+2022-09-20,Middlesex,Newton,20-29 Years,11715,11082,8878,5330,306,2204
+2022-09-20,Middlesex,Newton,30-49 Years,19435,23164,20329,14697,1781,2835
+2022-09-20,Middlesex,Newton,50-64 Years,17052,20210,18291,14756,6865,1919
+2022-09-20,Middlesex,Newton,65-74 Years,9331,11656,10566,8996,5845,1090
+2022-09-20,Middlesex,Newton,75+ Years,7251,8803,7908,6961,4816,895
+2022-09-20,Middlesex,Newton,Total,88923,96040,84250,60266,20002,11790
+2022-09-20,Norfolk,Wellesley,0-4 Years,1624,513,249,0,0,264
+2022-09-20,Norfolk,Wellesley,5-11 Years,2706,2393,2132,620,2,261
+2022-09-20,Norfolk,Wellesley,12-15 Years,1761,2060,1916,1122,51,144
+2022-09-20,Norfolk,Wellesley,16-19 Years,3236,2538,2020,1433,50,518
+2022-09-20,Norfolk,Wellesley,20-29 Years,4280,3674,2659,1569,74,1015
+2022-09-20,Norfolk,Wellesley,30-49 Years,5488,5472,4859,3583,405,613
+2022-09-20,Norfolk,Wellesley,50-64 Years,5624,6143,5611,4624,2058,532
+2022-09-20,Norfolk,Wellesley,65-74 Years,2647,2613,2333,2007,1277,280
+2022-09-20,Norfolk,Wellesley,75+ Years,2179,2376,2138,1886,1310,238
+2022-09-20,Norfolk,Wellesley,Total,29549,27782,23917,16844,5227,3865
+2022-09-27,Suffolk,Chelsea,0-4 Years,3243,338,33,0,0,305
+2022-09-27,Suffolk,Chelsea,5-11 Years,3649,2445,1818,275,1,627
+2022-09-27,Suffolk,Chelsea,12-15 Years,1955,2288,1932,602,9,356
+2022-09-27,Suffolk,Chelsea,16-19 Years,1897,2295,1804,711,20,491
+2022-09-27,Suffolk,Chelsea,20-29 Years,6620,6973,5575,1938,51,1398
+2022-09-27,Suffolk,Chelsea,30-49 Years,13206,13916,11714,5346,258,2202
+2022-09-27,Suffolk,Chelsea,50-64 Years,6376,7021,6051,3940,1090,970
+2022-09-27,Suffolk,Chelsea,65-74 Years,2242,2519,2270,1744,799,249
+2022-09-27,Suffolk,Chelsea,75+ Years,1595,1733,1506,1202,660,227
+2022-09-27,Suffolk,Chelsea,Total,40787,39528,32703,15758,2888,6825
+2022-09-27,Suffolk,Revere,0-4 Years,3785,340,46,0,0,294
+2022-09-27,Suffolk,Revere,5-11 Years,4684,2530,2041,270,1,489
+2022-09-27,Suffolk,Revere,12-15 Years,2734,2618,2284,654,6,334
+2022-09-27,Suffolk,Revere,16-19 Years,2875,2784,2399,1052,25,385
+2022-09-27,Suffolk,Revere,20-29 Years,8324,8973,7437,2846,74,1536
+2022-09-27,Suffolk,Revere,30-49 Years,18441,18663,16139,7375,370,2524
+2022-09-27,Suffolk,Revere,50-64 Years,12047,11347,10151,6425,1461,1196
+2022-09-27,Suffolk,Revere,65-74 Years,4983,4776,4332,3337,1410,444
+2022-09-27,Suffolk,Revere,75+ Years,4309,3539,3097,2451,1192,442
+2022-09-27,Suffolk,Revere,Total,62185,55570,47926,24410,4539,7644
+2022-09-27,Middlesex,Newton,0-4 Years,4275,1754,1044,0,0,710
+2022-09-27,Middlesex,Newton,5-11 Years,7271,7358,6722,2457,7,636
+2022-09-27,Middlesex,Newton,12-15 Years,4707,6102,5515,3535,323,587
+2022-09-27,Middlesex,Newton,16-19 Years,7883,5987,5101,3594,274,886
+2022-09-27,Middlesex,Newton,20-29 Years,11715,11128,8888,5342,401,2240
+2022-09-27,Middlesex,Newton,30-49 Years,19435,23266,20359,14748,2259,2907
+2022-09-27,Middlesex,Newton,50-64 Years,17052,20259,18321,14804,7181,1938
+2022-09-27,Middlesex,Newton,65-74 Years,9331,11686,10589,9043,5997,1097
+2022-09-27,Middlesex,Newton,75+ Years,7251,8829,7939,7008,4934,890
+2022-09-27,Middlesex,Newton,Total,88923,96369,84478,60531,21376,11891
+2022-09-27,Norfolk,Wellesley,0-4 Years,1624,535,276,0,0,259
+2022-09-27,Norfolk,Wellesley,5-11 Years,2706,2398,2140,630,2,258
+2022-09-27,Norfolk,Wellesley,12-15 Years,1761,2061,1920,1130,77,141
+2022-09-27,Norfolk,Wellesley,16-19 Years,3236,2550,2021,1436,83,529
+2022-09-27,Norfolk,Wellesley,20-29 Years,4280,3688,2666,1577,104,1022
+2022-09-27,Norfolk,Wellesley,30-49 Years,5488,5502,4880,3600,521,622
+2022-09-27,Norfolk,Wellesley,50-64 Years,5624,6152,5616,4637,2156,536
+2022-09-27,Norfolk,Wellesley,65-74 Years,2647,2614,2337,2016,1302,277
+2022-09-27,Norfolk,Wellesley,75+ Years,2179,2380,2145,1892,1343,235
+2022-09-27,Norfolk,Wellesley,Total,29549,27880,24001,16918,5588,3879
+2022-10-04,Suffolk,Chelsea,0-4 Years,3243,353,38,0,0,315
+2022-10-04,Suffolk,Chelsea,5-11 Years,3649,2454,1830,284,1,624
+2022-10-04,Suffolk,Chelsea,12-15 Years,1955,2287,1937,615,17,350
+2022-10-04,Suffolk,Chelsea,16-19 Years,1897,2297,1806,719,30,491
+2022-10-04,Suffolk,Chelsea,20-29 Years,6620,6979,5581,1955,72,1398
+2022-10-04,Suffolk,Chelsea,30-49 Years,13206,13927,11732,5372,342,2195
+2022-10-04,Suffolk,Chelsea,50-64 Years,6376,7034,6058,3954,1152,976
+2022-10-04,Suffolk,Chelsea,65-74 Years,2242,2520,2281,1757,841,239
+2022-10-04,Suffolk,Chelsea,75+ Years,1595,1735,1517,1215,691,218
+2022-10-04,Suffolk,Chelsea,Total,40787,39586,32780,15871,3146,6806
+2022-10-04,Suffolk,Revere,0-4 Years,3785,356,57,0,0,299
+2022-10-04,Suffolk,Revere,5-11 Years,4684,2535,2052,279,1,483
+2022-10-04,Suffolk,Revere,12-15 Years,2734,2624,2289,668,15,335
+2022-10-04,Suffolk,Revere,16-19 Years,2875,2785,2400,1064,29,385
+2022-10-04,Suffolk,Revere,20-29 Years,8324,8988,7443,2859,102,1545
+2022-10-04,Suffolk,Revere,30-49 Years,18441,18679,16154,7402,476,2525
+2022-10-04,Suffolk,Revere,50-64 Years,12047,11359,10166,6452,1554,1193
+2022-10-04,Suffolk,Revere,65-74 Years,4983,4787,4335,3347,1465,452
+2022-10-04,Suffolk,Revere,75+ Years,4309,3559,3103,2460,1252,456
+2022-10-04,Suffolk,Revere,Total,62185,55672,47999,24531,4894,7673
+2022-10-04,Middlesex,Newton,0-4 Years,4275,1795,1119,0,0,676
+2022-10-04,Middlesex,Newton,5-11 Years,7271,7373,6731,2487,7,642
+2022-10-04,Middlesex,Newton,12-15 Years,4707,6123,5533,3570,451,590
+2022-10-04,Middlesex,Newton,16-19 Years,7883,5992,5104,3608,360,888
+2022-10-04,Middlesex,Newton,20-29 Years,11715,11166,8890,5354,526,2276
+2022-10-04,Middlesex,Newton,30-49 Years,19435,23407,20425,14803,2786,2982
+2022-10-04,Middlesex,Newton,50-64 Years,17052,20315,18340,14873,7552,1975
+2022-10-04,Middlesex,Newton,65-74 Years,9331,11720,10610,9094,6157,1110
+2022-10-04,Middlesex,Newton,75+ Years,7251,8845,7965,7045,5087,880
+2022-10-04,Middlesex,Newton,Total,88923,96736,84717,60834,22926,12019
+2022-10-04,Norfolk,Wellesley,0-4 Years,1624,551,297,0,0,254
+2022-10-04,Norfolk,Wellesley,5-11 Years,2706,2404,2143,641,2,261
+2022-10-04,Norfolk,Wellesley,12-15 Years,1761,2061,1921,1138,106,140
+2022-10-04,Norfolk,Wellesley,16-19 Years,3236,2556,2024,1439,109,532
+2022-10-04,Norfolk,Wellesley,20-29 Years,4280,3711,2678,1589,127,1033
+2022-10-04,Norfolk,Wellesley,30-49 Years,5488,5514,4880,3601,612,634
+2022-10-04,Norfolk,Wellesley,50-64 Years,5624,6171,5628,4651,2279,543
+2022-10-04,Norfolk,Wellesley,65-74 Years,2647,2616,2340,2023,1358,276
+2022-10-04,Norfolk,Wellesley,75+ Years,2179,2386,2150,1904,1378,236
+2022-10-04,Norfolk,Wellesley,Total,29549,27970,24061,16986,5971,3909
